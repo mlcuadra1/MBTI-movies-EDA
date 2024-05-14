@@ -1,0 +1,25 @@
+When visiting at each MBTI, usually characters are typed accordingly to the
+selected dropdown. However, do not match with the dropdown, or may reflect as
+XXXX. 
+
+I decided to scrape on each MBTI dropdown with 100 entries per page (which isn't
+really obvious here), and here is the summary of the raw data:
+
+## MBTI, pages,  entries
+01 ISTJ,    36,     3585
+02 ESTJ,    37,     3698
+03 ISFJ,    38,     3764
+04 ESFJ,    31,     3094
+05 ESFP,    44,     4399
+06 ISFP,    38,     3797
+07 ESTP,    46,     4519
+08 ISTP,    33,     3283
+09 INFJ,    30,     2969
+10 ENFJ,    26,     2547
+11 INFP,    33,     3272
+12 ENFP,    31,     3065
+13 INTP,    21,     2021
+14 ENTP,    32,     3146
+15 INTJ,    23,     2203
+16 ENTJ,    27,     2621
+17 Supes,   --,      887

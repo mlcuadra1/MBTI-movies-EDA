@@ -39,7 +39,7 @@
 5,5,INTJ,16Personalities,Batman,Batman v Superman: Dawn Of Justice
 129,5,INTJ,16Personalities,Tony Stark,Iron Man
 377,5,INTJ,16Personalities,Otto,A Man Called Otto
-378,6,ENFJ,sakinorva,Katniss Everdeen,Hunger Games (2012)
+378,6,ENFJ,sakinorva,Katniss Everdeen,The Hunger Games (2012)
 6,6,ENFJ,sakinorva,Joy,Inside Out
 254,6,ENFJ,sakinorva,Elle Woods,Legally Blonde
 130,6,ENFJ,sakinorva,Gwen Stacy,The Amazing Spider-man
@@ -105,13 +105,13 @@
 266,18,ENFP,16Personalities,Abby,turning red
 514,18,ENFP,16Personalities,Ken,barbie
 142,18,ENFP,16Personalities,honeylemon,big hero 6
-19,19,ENFP,16Personalities,Katniss Everdeen , Hunger Games (2012)
+19,19,ENFP,16Personalities,Katniss Everdeen ,The Hunger Games (2012)
 887,19,ENFP,16Personalities,Debbie , Ocean’s Eight
 391,19,ENFP,16Personalities,Roxy , Kingsman
 1011,19,ENFP,16Personalities,Rachel Chu , Crazy Rich Asians
 267,19,ENFP,16Personalities,Elle Woods , Legally Blonde
 1135,19,ENFP,16Personalities,Christopher , The Pursuit of Happiness
-143,19,ENFP,16Personalities,Lucy Gray , Hunger Games
+143,19,ENFP,16Personalities,Lucy Gray , The Hunger Games: The Ballad of Songbirds and Snakes
 515,19,ENFP,16Personalities,Julie , Warm Bodies
 763,19,ENFP,16Personalities,Trinity , Matrix
 639,19,ENFP,16Personalities,Marta , Knives Out
@@ -150,7 +150,7 @@
 273,25,INTP,Cognitive functions self-typing,Enjolras,Les Miserables
 25,25,INTP,Cognitive functions self-typing,Sonic,Sonic the Hedgehog
 274,26,ISTP,Cognitive functions self-typing,Jace Wayland , The Mortal Instruments: City of Bones
-26,26,ISTP,Cognitive functions self-typing,Katniss Everdeen , The Hunger Games (2012)
+26,26,ISTP,Cognitive functions self-typing,Katniss Everdeen ,The Hunger Games (2012)
 398,26,ISTP,Cognitive functions self-typing,Shrek , Shrek (2001)
 150,26,ISTP,Cognitive functions self-typing,John Wick , John Wick (2014)
 522,26,ISTP,Cognitive functions self-typing,Fa Mulan , Mulan
@@ -202,7 +202,7 @@
 33,33,INTJ,16Personalities,Tony Stark,Avengers: Endgame
 405,33,INTJ,16Personalities,Mulan,Mulan
 529,33,INTJ,16Personalities,Isabela Madrigal,Encanto
-653,33,INTJ,16Personalities,Katniss Everdeen,Hunger Games (2012)
+653,33,INTJ,16Personalities,Katniss Everdeen,The Hunger Games (2012)
 34,34,ISTP,16Personalities,Po,Kung Fu Panda (2008)
 158,34,ISTP,16Personalities,John Wick,John Wick (2014)
 282,34,ISTP,16Personalities,Ip Kai Man,Ip Man (2008)
@@ -212,7 +212,7 @@
 283,35,ISTP,16Personalities,Raven,Teen Titans
 407,35,ISTP,16Personalities,Disgust,Inside Out
 160,36,INFJ,16Personalities,Amy Dunne , Gone Girl
-408,36,INFJ,16Personalities,Mia, La la land (2016)
+408,36,INFJ,16Personalities,Mia,La la land (2016)
 532,36,INFJ,16Personalities,Beatrice Prior , Divergent 
 284,36,INFJ,16Personalities,Cruella de Vil , Cruella
 36,36,INFJ,16Personalities,Andy , The Devil Wears Prada
@@ -279,7 +279,7 @@
 541,45,INFJ,I forgot,Hermione Granger,Harry Potter Goblet Of Fire
 1161,45,INFJ,I forgot,Nina,Point Of No Return
 169,45,INFJ,I forgot,Trinity,Matrix 1
-665,45,INFJ,I forgot,Katniss Everdeen,Hunger Games (2012)
+665,45,INFJ,I forgot,Katniss Everdeen,The Hunger Games (2012)
 46,46,ENFP,sakinorva.net,Joy,Inside Out
 914,46,ENFP,sakinorva.net,Veneer,Trolls Band Together
 294,46,ENFP,sakinorva.net,Elle Woods,Legally Blonde
@@ -342,8 +342,8 @@
 553,57,ISTJ,Administered by institution,Hermione , Harry Potter
 429,57,ISTJ,Administered by institution,Andrew , Whiplash
 57,57,ISTJ,Administered by institution,Forrest Gump , Forrest Gump
-305,57,ISTJ,Administered by institution,Mia , La La Land
-181,57,ISTJ,Administered by institution,Sebastian , La La Land (2016)
+305,57,ISTJ,Administered by institution,Mia ,La La Land (2016)
+181,57,ISTJ,Administered by institution,Sebastian ,La La Land (2016)
 677,57,ISTJ,Administered by institution,Aragorn , Lord of the Rings
 430,58,ISFJ,Meyers Briggs,Lizzie Bennet,Pride and Prejudice (2005)
 678,58,ISFJ,Meyers Briggs,The Djinn,Three Thousand Years of Longing
@@ -435,7 +435,7 @@
 571,75,ISTJ,Truity,Scar,The Lion King
 199,75,ISTJ,Truity,Tiana,Princess and the Frog
 323,75,ISTJ,Truity,Nanami,Jujutsu Kaisen
-75,75,ISTJ,Truity,President Snow,Hunger Games  (2012)
+75,75,ISTJ,Truity,President Snow,The Hunger Games (2012)
 447,75,ISTJ,Truity,Frollo,The Hunchback of Notre Dame
 76,76,INTJ,I used several sites to ensure that it was consistent.,Beau Wassermann,Beau is Afraid
 820,76,INTJ,I used several sites to ensure that it was consistent.,Martin Matthias,Martin

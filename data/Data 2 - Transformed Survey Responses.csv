@@ -11,12 +11,12 @@
 248,0,ENFP,michaelcaloz.com,Miles Morales,Spider-Man: Across the Spider-Verse
 249,1,INTP,16Personalities,Johnny English,Johnny English
 993,1,INTP,16Personalities,Tony Stark,Avengers: Infinity War
-869,1,INTP,16Personalities,"Captain Pete ""Maverick"" Mitchell",Top Gun: Maverick
+869,1,INTP,16Personalities,Captain Pete Maverick Mitchell,Top Gun: Maverick
 745,1,INTP,16Personalities,Neo,The Matrix
-373,1,INTP,16Personalities,Parzival (Wade Watts),Ready Player One
+373,1,INTP,16Personalities,Parzival Wade Watts,Ready Player One
 497,1,INTP,16Personalities,Benoit Blanc,A Knives Out
-621,1,INTP,16Personalities,Dr. Stephen Strange,Doctor Strange
-125,1,INTP,16Personalities,J. Robert Oppenheimer,Oppenheimer
+621,1,INTP,16Personalities,Stephen Strange,Doctor Strange
+125,1,INTP,16Personalities,Robert Oppenheimer,Oppenheimer
 1,1,INTP,16Personalities,Puss in Boots,Puss in Boots: The Last Wish
 1117,1,INTP,16Personalities,Loki,Avengers: Infinity War
 746,2,INFP,Truity,Amelie Poulain,Amelie
@@ -180,7 +180,7 @@
 30,30,INTJ,16Personalities,Camilo Madrigal,Encanto
 526,30,INTJ,16Personalities,Jack Frost,Rise of the Guardians
 898,30,INTJ,16Personalities,Neteyam,Avatar: The Way of Water
-650,30,INTJ,16Personalities,Akaza,Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train.
+650,30,INTJ,16Personalities,Akaza,Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train
 1147,31,INFP,16Personalities,Brian , Breakfast Club
 1023,31,INFP,16Personalities,Ellis , Shawshank Redemption 
 651,31,INFP,16Personalities,Edward Scissorhands,Edward Scissorhands
@@ -275,10 +275,10 @@
 913,45,INFJ,I forgot,Elizabeth Bennet,Pride And Prejudice(2005)
 1037,45,INFJ,I forgot,Jane Smith,Mr & Mrs Smith
 293,45,INFJ,I forgot,Sarah Connor,Terminator 2
-789,45,INFJ,I forgot,Emma Woodhouse,Emma (Gwyneth Paltrow Version)
+789,45,INFJ,I forgot,Emma Woodhouse,Emma (1996)
 541,45,INFJ,I forgot,Hermione Granger,Harry Potter Goblet Of Fire
 1161,45,INFJ,I forgot,Nina,Point Of No Return
-169,45,INFJ,I forgot,Trinity,Matrix 1
+169,45,INFJ,I forgot,Trinity,The Matrix
 665,45,INFJ,I forgot,Katniss Everdeen,The Hunger Games (2012)
 46,46,ENFP,sakinorva.net,Joy,Inside Out
 914,46,ENFP,sakinorva.net,Veneer,Trolls Band Together
@@ -290,7 +290,7 @@
 542,46,ENFP,sakinorva.net,Wade,Elemental
 170,46,ENFP,sakinorva.net,Henry Roth,50 first dates
 171,47,INTJ,16Personalities,Blue,Jurassic World
-295,47,INTJ,16Personalities,Bakugo,/My Hero Academia
+295,47,INTJ,16Personalities,Bakugo,My Hero Academia
 47,47,INTJ,16Personalities,Hermione,Harry Potter
 419,47,INTJ,16Personalities,Benji,Mission: Impossible
 172,48,ENTJ,Cognitive functions self-typing,Baby,Baby Driver
@@ -350,7 +350,7 @@
 554,58,ISFJ,Meyers Briggs,Stitch,Lilo and Stitch
 182,58,ISFJ,Meyers Briggs,Elinor,Sense and Sensibility (1995)
 306,58,ISFJ,Meyers Briggs,Elwood Blues,The Blues Brothers 
-58,58,ISFJ,Meyers Briggs,Cinderella , Cinderella (2015)
+58,58,ISFJ,Meyers Briggs,Cinderella ,Cinderella (2015)
 183,59,ENFP,ALL OF THE ABOVE B2UWHAHAHAHA,MALEFICENT,Maleficent
 307,59,ENFP,ALL OF THE ABOVE B2UWHAHAHAHA,HAKU,Spirited away
 431,59,ENFP,ALL OF THE ABOVE B2UWHAHAHAHA,TURNIP,Howls moving castle
@@ -573,7 +573,7 @@
 474,102,ISTP,16Personalities,Harry Callahan,Dirty Harry
 103,103,INFJ,Cognitive functions self-typing,Nina Sayers,Black Swan
 475,103,INFJ,Cognitive functions self-typing,Elizabeth Anne Sanders,Buffy The Vampire Slayer
-599,103,INFJ,Cognitive functions self-typing,Wyborne (Wybie) Lovat,Coraline
+599,103,INFJ,Cognitive functions self-typing,Wyborne Wybie Lovat,Coraline
 351,103,INFJ,Cognitive functions self-typing,Jack Skellington,Nightmare Before Christmas
 227,103,INFJ,Cognitive functions self-typing,Forrest Gump,Forrest Gump
 476,104,ENTJ,16Personalities,Bucky Barnes,Captain America: The Winter Soldier
@@ -659,14 +659,14 @@
 487,115,ENFJ,all,Lena,Sisterhood of the Traveling Pants
 115,115,ENFJ,all,Allie,The Notebook
 1108,116,ENTJ,Cognitive functions self-typing,Mary Darling,Peter Pan (2003)
-116,116,ENTJ,Cognitive functions self-typing,Tsu’tey te Rongloa Ateyitan,Avatar
-240,116,ENTJ,Cognitive functions self-typing,Hobart “Spider-Punk” Brown,Spider-Man: Across the Spider-Verse
+116,116,ENTJ,Cognitive functions self-typing,Tsutey,Avatar
+240,116,ENTJ,Cognitive functions self-typing,Hobart Hobie Brown Spider-Punk,Spider-Man: Across the Spider-Verse
 1232,116,ENTJ,Cognitive functions self-typing,Jane Eyre,Jane Eyre
 364,116,ENTJ,Cognitive functions self-typing,Oliver Wood,Harry Potter
-488,116,ENTJ,Cognitive functions self-typing,"Anthony ""Thin Man""",Charlie's Angels
-860,116,ENTJ,Cognitive functions self-typing,"Leticia ""Letty"" Ortiz",The Fast and the Furious
+488,116,ENTJ,Cognitive functions self-typing,Anthony Thin Man,Charlie's Angels
+860,116,ENTJ,Cognitive functions self-typing,Leticia Letty Ortiz,The Fast and the Furious
 612,116,ENTJ,Cognitive functions self-typing,Galadriel,The Lord of the Rings
-736,116,ENTJ,Cognitive functions self-typing,"O-ren Ishii ""Cottonmouth""",Kill Bill
+736,116,ENTJ,Cognitive functions self-typing,O-ren Ishii Cottonmouth,Kill Bill
 984,116,ENTJ,Cognitive functions self-typing,Abraham Sapien,Hellboy
 365,117,ISFJ,16Personalities,John Wick,John Wick (2014)
 241,117,ISFJ,16Personalities,Rick O'Connell,The Mummy
@@ -696,7 +696,7 @@
 246,122,ESTJ,Cognitive functions self-typing,Yoda , star wars 
 122,122,ESTJ,Cognitive functions self-typing,Severus Snape , Harry Potter 
 370,122,ESTJ,Cognitive functions self-typing,Kiri , avatar 2 
-494,122,ESTJ,Cognitive functions self-typing,Terminator (Arnold Schwarzenegger) , terminator 3 
+494,122,ESTJ,Cognitive functions self-typing,Terminator, terminator 3 
 123,123,ENFP,michaelcaloz.com,Miles Morales,Into the Spider-Verse
 619,123,ENFP,michaelcaloz.com,Uta,One Piece Film: Red
 743,123,ENFP,michaelcaloz.com,Agent Smith,The Matrix

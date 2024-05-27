@@ -339,9 +339,9 @@ id,person_mbti,mbti_test,character,movie
 56,ISTP,16Personalities,Mima Kirigoe,Perfect Blue 
 56,ISTP,16Personalities,Motoko,Ghost in the shell
 56,ISTP,16Personalities,Ripley,Alien 
-57,ISTJ,Administered by institution,Hermione , Harry Potter
+57,ISTJ,Administered by institution,Hermione ,Harry Potter
 57,ISTJ,Administered by institution,Andrew Neiman,Whiplash
-57,ISTJ,Administered by institution,Forrest Gump , Forrest Gump
+57,ISTJ,Administered by institution,Forrest Gump ,Forrest Gump
 57,ISTJ,Administered by institution,Mia ,La La Land (2016)
 57,ISTJ,Administered by institution,Sebastian ,La La Land (2016)
 57,ISTJ,Administered by institution,Aragorn ,Lord of the Rings
@@ -476,7 +476,7 @@ id,person_mbti,mbti_test,character,movie
 82,INFP,can't remember,Lux Lisbon,The Virgin Suicides
 82,INFP,can't remember,Luna Lovegood,Harry Potter
 83,ESTJ,16Personalities,Choi Woo Shik , Parasite
-83,ESTJ,16Personalities,Daniel Henney, Seducing Mr Perfect
+83,ESTJ,16Personalities,Daniel Henney,Seducing Mr Perfect
 83,ESTJ,16Personalities,Teo Yoo ,Past Lives
 84,ENFJ,I truly dont remember now and dont want to answer falsely,Ulysses Everett McGill,"O Brother, where art thou?"
 84,ENFJ,I truly dont remember now and dont want to answer falsely,Dr. Horrible,Dr. Horribles Sing Along Blog
@@ -658,12 +658,12 @@ id,person_mbti,mbti_test,character,movie
 115,ENFJ,all,Lena,Sisterhood of the Traveling Pants
 115,ENFJ,all,Allie,The Notebook
 116,ENTJ,Cognitive functions self-typing,Mary Darling,Peter Pan (2003)
-116,ENTJ,Cognitive functions self-typing,Tsuâtey te Rongloa Ateyitan,Avatar
-116,ENTJ,Cognitive functions self-typing,Hobart âSpider-Punkâ Brown,Spider-Man: Across the Spider-Verse
+116,ENTJ,Cognitive functions self-typing,Tsu'tey,Avatar
+116,ENTJ,Cognitive functions self-typing,Hobie Brown,Spider-Man: Across the Spider-Verse
 116,ENTJ,Cognitive functions self-typing,Jane Eyre,Jane Eyre
 116,ENTJ,Cognitive functions self-typing,Oliver Wood,Harry Potter
 116,ENTJ,Cognitive functions self-typing,"Anthony ""Thin Man""",Charlie's Angels
-116,ENTJ,Cognitive functions self-typing,"Leticia ""Letty"" Ortiz",The Fast and the Furious
+116,ENTJ,Cognitive functions self-typing,Leticia Letty Ortiz,The Fast and the Furious
 116,ENTJ,Cognitive functions self-typing,Galadriel,The Lord of the Rings
 116,ENTJ,Cognitive functions self-typing,"O-ren Ishii ""Cottonmouth""",Kill Bill
 116,ENTJ,Cognitive functions self-typing,Abraham Sapien,Hellboy

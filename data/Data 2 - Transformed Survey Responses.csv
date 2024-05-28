@@ -19,13 +19,13 @@ id,person_mbti,mbti_test,character,movie
 1,INTP,16Personalities,J Robert Oppenheimer,Oppenheimer
 1,INTP,16Personalities,Puss in Boots,Puss in Boots: The Last Wish
 1,INTP,16Personalities,Loki,Avengers: Infinity War
-2,INFP,Truity,Amélie Poulain,Amelie
+2,INFP,Truity,Amélie Poulain,Amélie
 2,INFP,Truity,V,V for Vendetta
 2,INFP,Truity,Ellen Ripley,Alien
 2,INFP,Truity,Mathilda,Mathilda
 2,INFP,Truity,Willy Wonka,Willy Wonka & the Chocolate Factory (1971)
 2,INFP,Truity,Remus Lupin,Harry Potter
-2,INFP,Truity,WALL-E,WALL.E (2008)
+2,INFP,Truity,WALL-E,WALL·E (2008)
 2,INFP,Truity,Waymond Wang,Everything Everywhere All at Once
 2,INFP,Truity,Morticia,The Addams Family
 3,ENFJ,Sakinorva,Wanda,Avengers: Endgame
@@ -65,7 +65,7 @@ id,person_mbti,mbti_test,character,movie
 11,INTJ,Sakinorva,Willy Wonka ,Charlie and the Chocolate Factory (2005)
 11,INTJ,Sakinorva,Sherlock Holmes ,Sherlock Holmes (2009)
 11,INTJ,Sakinorva,Kirk Lazarus ,Tropic Thunder
-11,INTJ,Sakinorva,Alexander Claremont-Diaz,"Red, White and Royal Blue"
+11,INTJ,Sakinorva,Alexander Claremont-Diaz,"Red, White & Royal Blue"
 11,INTJ,Sakinorva,Hannibal Lecter ,The Silence of the Lambs
 11,INTJ,Sakinorva,Merlin,Kingsman: The Secret Service
 12,ENTP,Cognitive functions self-typing,Ranchoddas Shamaldas Chanchad,3 Idiots
@@ -173,8 +173,8 @@ id,person_mbti,mbti_test,character,movie
 29,INTJ,16Personalities,Simba,Lion king
 29,INTJ,16Personalities,Nathan Algren,last samurai
 30,INTJ,16Personalities,Mavis Dracula,Hotel Transylvania (2012)
-30,INTJ,16Personalities,Dr Strange,Doctor Strange
-30,INTJ,16Personalities,Spiderman,Spider-Man: Far From Home
+30,INTJ,16Personalities,Stephen Strange,Doctor Strange
+30,INTJ,16Personalities,Peter Parker,Spider-Man: Far From Home
 30,INTJ,16Personalities,Yuta Okkotsu,Jujutsu Kaisen 0
 30,INTJ,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix
 30,INTJ,16Personalities,Camilo Madrigal,Encanto
@@ -185,7 +185,7 @@ id,person_mbti,mbti_test,character,movie
 31,INFP,16Personalities,Ellis ,Shawshank Redemption 
 31,INFP,16Personalities,Edward Scissorhands,Edward Scissorhands
 31,INFP,16Personalities,Chihiro ,Spirited away
-31,INFP,16Personalities,Luna Lovegood ,Harry Potter 
+31,INFP,16Personalities,Luna Lovegood ,Harry Potter and the Order of the Phoenix
 31,INFP,16Personalities,Howl ,Howl the moving castle
 31,INFP,16Personalities,Charlie ,Perks of being a wallflower
 31,INFP,16Personalities,Joker ,Joker (2019)
@@ -223,7 +223,7 @@ id,person_mbti,mbti_test,character,movie
 38,INTP,16Personalities,Evelyn Salt,Salt (2010)
 38,INTP,16Personalities,Master Oogway,Kung Fu Panda (2008)
 38,INTP,16Personalities,Suzume Iwato,Suzume no Tojimari
-38,INTP,16Personalities,Professor Langdon,The Da Vinci Code
+38,INTP,16Personalities,Robert Langdon,The Da Vinci Code
 39,INTP,michaelcaloz.com,bowser,The Super Mario Bros. Movie
 39,INTP,michaelcaloz.com,spider-punk,Spider-Man: Across the Spider-Verse
 39,INTP,michaelcaloz.com,iron man,Avengers: Endgame
@@ -235,7 +235,7 @@ id,person_mbti,mbti_test,character,movie
 40,INFJ,16Personalities,Alice,Plus One
 40,INFJ,16Personalities,Dani,Midsommar
 40,INFJ,16Personalities,Arthur,Past Lives
-40,INFJ,16Personalities,Sasha Tran,Always Be My Maybe
+40,INFJ,16Personalities,Sasha,Always Be My Maybe
 41,ENTJ,16Personalities,Mark Watney,The Martian
 41,ENTJ,16Personalities,Peter Parker,Spiderman
 41,ENTJ,16Personalities,Hiro Hamada,Big Hero 6
@@ -243,23 +243,23 @@ id,person_mbti,mbti_test,character,movie
 41,ENTJ,16Personalities,Hogarth Hughes,The Iron Giant
 41,ENTJ,16Personalities,Miles Morales,Spider-Man: Into the Spider-Verse
 41,ENTJ,16Personalities,Mai,Next Gen
-41,ENTJ,16Personalities,Dr. Emmett Brown,Back to the Future
+41,ENTJ,16Personalities,Dr Emmett Doc Brown,Back to the Future
 41,ENTJ,16Personalities,Jim Preston,Passengers
 41,ENTJ,16Personalities,Neo,Matrix
 42,ISTJ,16Personalities,Shun,From Up on Poppy Hill
-42,ISTJ,16Personalities,Park Ki Joon,Midnight Runners
+42,ISTJ,16Personalities,Park Ki-Joon,Midnight Runners
 42,ISTJ,16Personalities,Padre Burgos,Gomburza
 42,ISTJ,16Personalities,Howl,Howl's Moving Castle
 43,INFP,Cognitive functions self-typing,Barbie,Barbie: A Fairy Secret
 43,INFP,Cognitive functions self-typing,Howl,Howl's Moving Castle
-43,INFP,Cognitive functions self-typing,Rajun,3 idiots
+43,INFP,Cognitive functions self-typing,Raju,3 idiots
 43,INFP,Cognitive functions self-typing,Sophie,Howl's Moving Castle
 43,INFP,Cognitive functions self-typing,Elsa,Frozen (2013)
-43,INFP,Cognitive functions self-typing,Isabelle Madrigal,Encanto
+43,INFP,Cognitive functions self-typing,Isabela Madrigal,Encanto
 43,INFP,Cognitive functions self-typing,Regina George,Mean Girls
 43,INFP,Cognitive functions self-typing,Gojo,Jujutsu Kaisen: 0
 43,INFP,Cognitive functions self-typing,Mei Mei,Jujutsu Kaisen: 0
-43,INFP,Cognitive functions self-typing,Elle Woods,Legally Blondes
+43,INFP,Cognitive functions self-typing,Elle Woods,Legally Blonde
 44,INFJ,16Personalities,Riggan Thomson,Birdman
 44,INFJ,16Personalities,John Miller,Saving Private Ryan
 44,INFJ,16Personalities,Joseph Cooper,Interstellar
@@ -273,7 +273,7 @@ id,person_mbti,mbti_test,character,movie
 45,INFJ,I forgot,Galadriel,Lord Of The Rings The Two Towers
 45,INFJ,I forgot,Elle Woods,Legally Blonde
 45,INFJ,I forgot,Elizabeth Bennet,Pride And Prejudice(2005)
-45,INFJ,I forgot,Jane Smith,Mr. & Mrs. Smith (2005)
+45,INFJ,I forgot,Jane Smith,Mr. and Mrs. Smith (2005)
 45,INFJ,I forgot,Sarah Connor,Terminator 2
 45,INFJ,I forgot,Emma Woodhouse,Emma (Gwyneth Paltrow Version)
 45,INFJ,I forgot,Hermione Granger,Harry Potter Goblet Of Fire
@@ -312,7 +312,7 @@ id,person_mbti,mbti_test,character,movie
 51,ISFJ,16Personalities,Captain America,Avengers
 51,ISFJ,16Personalities,Will Turner,Pirates of the Caribbean
 51,ISFJ,16Personalities,Alice,Alice in Wonderland (1951)
-52,ISFJ,Voice recording by proffesional typists,Obi wan kenobi ,Star Wars
+52,ISFJ,Voice recording by proffesional typists,Obi-Wan Kenobi,Star Wars
 52,ISFJ,Voice recording by proffesional typists,Ferdinand the bull,ferdinand the bull (1938)
 52,ISFJ,Voice recording by proffesional typists,Forest gump,Forest Gump
 53,ISTJ,I honestly don't remember but I get ISTJ every time so,Rita,Edge of Tomorrow
@@ -334,7 +334,7 @@ id,person_mbti,mbti_test,character,movie
 55,INTP,michaelcaloz.com,Iron Giant,The Iron Giant
 55,INTP,michaelcaloz.com,Rango,Rango
 55,INTP,michaelcaloz.com,Klaus,Klaus
-55,INTP,michaelcaloz.com,Wall-E,WALL.E
+55,INTP,michaelcaloz.com,Wall-E,WALL·E (2008)
 56,ISTP,16Personalities,Sam Bell,Moon (2009)
 56,ISTP,16Personalities,Mima Kirigoe,Perfect Blue 
 56,ISTP,16Personalities,Motoko,Ghost in the shell
@@ -345,7 +345,7 @@ id,person_mbti,mbti_test,character,movie
 57,ISTJ,Administered by institution,Mia ,La La Land (2016)
 57,ISTJ,Administered by institution,Sebastian ,La La Land (2016)
 57,ISTJ,Administered by institution,Aragorn ,Lord of the Rings
-58,ISFJ,Meyers Briggs,Lizzie Bennet,Pride and Prejudice (2005)
+58,ISFJ,Meyers Briggs,Elizabeth Bennet,Pride and Prejudice (2005)
 58,ISFJ,Meyers Briggs,The Djinn,Three Thousand Years of Longing
 58,ISFJ,Meyers Briggs,Stitch,Lilo and Stitch
 58,ISFJ,Meyers Briggs,Elinor,Sense and Sensibility (1995)
@@ -372,7 +372,7 @@ id,person_mbti,mbti_test,character,movie
 61,ISTP,Truity,Toothless,How to Train Your Dragon (2010)
 61,ISTP,Truity,Daniel Atlas,Now You See Me
 61,ISTP,Truity,Shrek,Shrek (2001)
-62,ISTP,Cognitive functions self-typing,Eve,WALL.E
+62,ISTP,Cognitive functions self-typing,Eve,WALL·E (2008)
 62,ISTP,Cognitive functions self-typing,Dory,finding Nemo 
 62,ISTP,Cognitive functions self-typing,Matilda,Matilda
 62,ISTP,Cognitive functions self-typing,Lapis lazuli,Steven Universe the movie
@@ -385,14 +385,14 @@ id,person_mbti,mbti_test,character,movie
 64,ISFP,Cognitive functions self-typing,Joseph Cooper,Interstellar
 64,ISFP,Cognitive functions self-typing,John Rambo,Rambo: First Blood (1982)
 64,ISFP,Cognitive functions self-typing,Philippe Petit,The Walk
-64,ISFP,Cognitive functions self-typing,Strider,The Lord of the Rings
+64,ISFP,Cognitive functions self-typing,Aragorn,The Lord of the Rings
 65,ESTJ,Cognitive functions self-typing,Owen Grady,Jurassic World (2015)
 65,ESTJ,Cognitive functions self-typing,Cam,Tracers
 65,ESTJ,Cognitive functions self-typing,Hermione Granger,Harry Potter
 65,ESTJ,Cognitive functions self-typing,Jake Lonergan,Cowboys & Aliens
-65,ESTJ,Cognitive functions self-typing,Auto,WALL.E
+65,ESTJ,Cognitive functions self-typing,Auto,WALL·E (2008)
 65,ESTJ,Cognitive functions self-typing,The Dragon,Damsel
-65,ESTJ,Cognitive functions self-typing,Frank Martin,the transporter
+65,ESTJ,Cognitive functions self-typing,Frank Martin,Transporter
 65,ESTJ,Cognitive functions self-typing,SoundWave,Transformers: dark of the moon
 65,ESTJ,Cognitive functions self-typing,Mr Fox,Fantastic Mr.fox
 65,ESTJ,Cognitive functions self-typing,Michael Nantz,Battle Los Angeles 
@@ -426,8 +426,8 @@ id,person_mbti,mbti_test,character,movie
 72,ENFP,Cognitive functions self-typing,Fleur,The Way We Dance
 72,ENFP,Cognitive functions self-typing,Tony Stark,Iron Man
 73,INTP,16Personalities,Alan Turing,The Imitation Game
-73,INTP,16Personalities,Dr. Emmett Brown,Back to the Future
-73,INTP,16Personalities,Luna Lovegood,Harry Potter
+73,INTP,16Personalities,Dr Emmett Doc Brown,Back to the Future
+73,INTP,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix
 74,INTJ,16Personalities,Simon Tam,Serenity
 74,INTJ,16Personalities,Q,Skyfall
 74,INTJ,16Personalities,Ave,Primer
@@ -448,7 +448,7 @@ id,person_mbti,mbti_test,character,movie
 76,INTJ,I used several sites to ensure that it was consistent.,Annie Graham,Hereditary
 76,INTJ,I used several sites to ensure that it was consistent.,Karl Childers,Sling Blade
 77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Joel Barish,Eternal Sunshine of the Spotless Mind
-77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Amelie Poulain,Amelie
+77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Amélie Poulain,Amélie
 77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Moana Waialiki,Moana
 77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Peter Quill,Guardians of the Galaxy Vol. 2
 77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Thor Odinson,Thor:Ragnarok
@@ -474,7 +474,7 @@ id,person_mbti,mbti_test,character,movie
 82,INFP,can't remember,Carol Ledoux,Repulsion
 82,INFP,can't remember,Carrie White,Carrie
 82,INFP,can't remember,Lux Lisbon,The Virgin Suicides
-82,INFP,can't remember,Luna Lovegood,Harry Potter
+82,INFP,can't remember,Luna Lovegood,Harry Potter and the Order of the Phoenix
 83,ESTJ,16Personalities,Kim Ki-woo,Parasite
 83,ESTJ,16Personalities,Daniel Henney,Seducing Mr Perfect
 83,ESTJ,16Personalities,Teo Yoo ,Past Lives
@@ -510,12 +510,12 @@ id,person_mbti,mbti_test,character,movie
 90,ENFJ,michaelcaloz.com,Mercutio ,Romeo + Juliet
 90,ENFJ,michaelcaloz.com,Daphne ,Some Like it Hot
 91,ENFP,16Personalities,Anna,Frozen (2013)
-91,ENFP,16Personalities,Louisa Clark,Me Before You
+91,ENFP,16Personalities,Louisa Lou Clark,Me Before You
 91,ENFP,16Personalities,Clementine,Eternal Sunshine of the Spotless Mind
 91,ENFP,16Personalities,Jo March,Little Women
 92,ISFP,I forgot :( sorry marco,Taki,Your Name
-92,ISFP,I forgot :( sorry marco,Alex,"Red, White and Royal Blue (2023)"
-92,ISFP,I forgot :( sorry marco,Henry,"Red, White and Royal Blue (2023)"
+92,ISFP,I forgot :( sorry marco,Alex,"Red, White & Royal Blue (2023)"
+92,ISFP,I forgot :( sorry marco,Henry,"Red, White & Royal Blue (2023)"
 92,ISFP,I forgot :( sorry marco,Suzume,Suzume
 93,INFP,16Personalities,Ishaan,Like stars on earth
 93,INFP,16Personalities,Evelyn,Salt (2010)
@@ -546,7 +546,7 @@ id,person_mbti,mbti_test,character,movie
 97,INFJ,16Personalities,Albert Narracott,War Horse
 97,INFJ,16Personalities,Hector Rivera,Coco
 97,INFJ,16Personalities,Richie Tozier,IT (2017)
-97,INFJ,16Personalities,"Murphy ""Murph"" Cooper",Interstellar
+97,INFJ,16Personalities,Murphy Murph Cooper,Interstellar
 97,INFJ,16Personalities,Sirius Black,Harry Potter and Order of the Phoenix
 98,INFJ,academic setting - MBTI test,Yoda,Empire Strikes Back
 98,INFJ,academic setting - MBTI test,Theoden,The Two Towers

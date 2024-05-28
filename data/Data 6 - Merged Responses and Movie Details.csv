@@ -7,25 +7,25 @@
 5,0,ENFP,michaelcaloz.com,Peter Parker,The Amazing Spider-Man,The Amazing Spider-Man,"[28, 12, 878]",1930,104.455,2012-06-23,The Amazing Spider-Man,6.7,16893
 6,0,ENFP,michaelcaloz.com,Celine,Before Sunrise,Before Sunrise,"[18, 10749]",76,33.638,1995-01-27,Before Sunrise,7.971,3954
 7,0,ENFP,michaelcaloz.com,Jesse Wallace,Before Sunrise,Before Sunrise,"[18, 10749]",76,33.638,1995-01-27,Before Sunrise,7.971,3954
-8,0,ENFP,michaelcaloz.com,Bella Baxter,Poor Things,Poor Things,"[878, 10749, 35]",792307,238.008,2023-12-07,Poor Things,7.8,3425
+8,0,ENFP,michaelcaloz.com,Bella Baxter,Poor Things,Poor Things,"[878, 10749, 35]",792307,238.008,2023-12-07,Poor Things,7.785,3427
 9,0,ENFP,michaelcaloz.com,Miles Morales,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,"[16, 28, 12, 878]",569094,184.178,2023-05-31,Spider-Man: Across the Spider-Verse,8.363,6293
-10,1,INTP,16Personalities,Johnny English,Johnny English,Johnny English,"[12, 28, 35]",9486,35.284,2003-03-14,Johnny English,6.275,3314
+10,1,INTP,16Personalities,Johnny English,Johnny English,Johnny English,"[12, 28, 35]",9486,35.284,2003-03-14,Johnny English,6.275,3315
 11,1,INTP,16Personalities,Tony Stark,Avengers: Infinity War,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
 12,1,INTP,16Personalities,Pete Maverick Mitchell,Top Gun: Maverick,Top Gun: Maverick,"[28, 18]",361743,165.97,2022-05-21,Top Gun: Maverick,8.219,8628
-13,1,INTP,16Personalities,Neo,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+13,1,INTP,16Personalities,Neo,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 14,1,INTP,16Personalities,Wade Watts,Ready Player One,Ready Player One,"[12, 28, 878]",333339,54.408,2018-03-28,Ready Player One,7.599,15091
 15,1,INTP,16Personalities,Benoit Blanc,Glass Onion: A Knives Out Mystery,Glass Onion: A Knives Out Mystery,"[35, 80, 9648]",661374,77.988,2022-11-12,Glass Onion: A Knives Out Mystery,7.048,5158
 16,1,INTP,16Personalities,Stephen Strange,Doctor Strange,Doctor Strange,"[28, 12, 14]",284052,353.529,2016-10-25,Doctor Strange,7.422,21613
 17,1,INTP,16Personalities,J Robert Oppenheimer,Oppenheimer,Oppenheimer,"[18, 36]",872585,567.454,2023-07-19,Oppenheimer,8.101,8121
 18,1,INTP,16Personalities,Puss in Boots,Puss in Boots: The Last Wish,Puss in Boots: The Last Wish,"[16, 12, 14, 35, 10751]",315162,170.756,2022-12-07,Puss in Boots: The Last Wish,8.237,7282
 19,1,INTP,16Personalities,Loki,Avengers: Infinity War,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
-20,2,INFP,Truity,Amélie Poulain,Amelie,Amélie,[],891850,0.266,2021-11-11,Amélie,0.0,0
+20,2,INFP,Truity,Amélie Poulain,Amélie,Amélie,"[35, 10749]",194,36.981,2001-04-25,Amélie,7.909,11179
 21,2,INFP,Truity,V,V for Vendetta,V for Vendetta,"[28, 53, 878]",752,47.766,2006-02-23,V for Vendetta,7.9,14092
 22,2,INFP,Truity,Ellen Ripley,Alien,Alien,"[27, 878]",348,415.374,1979-05-25,Alien,8.153,13978
 23,2,INFP,Truity,Mathilda,Mathilda,Mathilda,[],407934,1.098,2012-07-31,Mathilda,7.4,8
 24,2,INFP,Truity,Willy Wonka,Willy Wonka & the Chocolate Factory (1971),Willy Wonka & the Chocolate Factory,"[10751, 14, 35]",252,60.914,1971-06-29,Willy Wonka & the Chocolate Factory,7.503,3428
 25,2,INFP,Truity,Remus Lupin,Harry Potter,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
-26,2,INFP,Truity,WALL-E,WALL.E (2008),WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18234
+26,2,INFP,Truity,WALL-E,WALL·E (2008),WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18236
 27,2,INFP,Truity,Waymond Wang,Everything Everywhere All at Once,Everything Everywhere All at Once,"[28, 12, 878]",545611,60.766,2022-03-24,Everything Everywhere All at Once,7.79,6079
 28,2,INFP,Truity,Morticia,The Addams Family,The Addams Family,"[10751, 16, 35, 14]",481084,42.727,2019-10-10,The Addams Family,6.623,2226
 29,3,ENFJ,Sakinorva,Wanda,Avengers: Endgame,Avengers: Endgame,"[12, 878, 28]",299534,261.301,2019-04-24,Avengers: Endgame,8.254,24907
@@ -62,12 +62,12 @@
 60,11,INTJ,Sakinorva,Phil ,The Hangover,The Hangover,[35],18785,93.106,2009-06-02,The Hangover,7.32,16398
 61,11,INTJ,Sakinorva,Wade Wilson ,Deadpool,Deadpool,"[28, 12, 35]",293660,427.083,2016-02-09,Deadpool,7.613,29920
 62,11,INTJ,Sakinorva,Sandie ,Last Night in Soho,Last Night in Soho,"[9648, 53, 27]",576845,37.282,2021-10-21,Last Night in Soho,7.339,3156
-63,11,INTJ,Sakinorva,Willy Wonka ,Charlie and the Chocolate Factory (2005),Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14731
+63,11,INTJ,Sakinorva,Willy Wonka ,Charlie and the Chocolate Factory (2005),Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14732
 64,11,INTJ,Sakinorva,Sherlock Holmes ,Sherlock Holmes (2009),Sherlock Holmes,"[28, 12, 80, 9648]",10528,49.377,2009-12-23,Sherlock Holmes,7.211,13597
 65,11,INTJ,Sakinorva,Kirk Lazarus ,Tropic Thunder,Tropic Thunder,"[28, 35, 12, 10752]",7446,80.687,2008-08-09,Tropic Thunder,6.665,5921
-66,11,INTJ,Sakinorva,Alexander Claremont-Diaz,"Red, White and Royal Blue","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
-67,11,INTJ,Sakinorva,Hannibal Lecter ,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.3,15780
-68,11,INTJ,Sakinorva,Merlin,Kingsman: The Secret Service,Kingsman: The Secret Service,"[80, 35, 28, 12]",207703,86.845,2014-12-13,Kingsman: The Secret Service,7.634,16222
+66,11,INTJ,Sakinorva,Alexander Claremont-Diaz,"Red, White & Royal Blue","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
+67,11,INTJ,Sakinorva,Hannibal Lecter ,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.347,15782
+68,11,INTJ,Sakinorva,Merlin,Kingsman: The Secret Service,Kingsman: The Secret Service,"[80, 35, 28, 12]",207703,86.845,2014-12-13,Kingsman: The Secret Service,7.634,16224
 69,12,ENTP,Cognitive functions self-typing,Ranchoddas Shamaldas Chanchad,3 Idiots,3 Idiots,"[18, 35]",20453,51.344,2009-12-23,3 Idiots,7.991,2275
 70,12,ENTP,Cognitive functions self-typing,Bowler Hat Guy, Meet the Robinsons,Meet the Robinsons,"[16, 35, 10751]",1267,49.526,2007-03-23,Meet the Robinsons,6.906,2735
 71,12,ENTP,Cognitive functions self-typing,Ralph,Wreck-it-Ralph,Wreck-It Ralph,"[10751, 16, 35, 12]",82690,63.231,2012-11-01,Wreck-It Ralph,7.338,11982
@@ -106,8 +106,8 @@
 104,18,ENFP,16Personalities,Ken,barbie,Barbie,"[35, 12]",346698,467.396,2023-07-19,Barbie,7.1,8319
 105,18,ENFP,16Personalities,honey lemon,big hero 6,Big Hero 6,"[12, 10751, 16, 28, 35]",177572,117.78,2014-10-24,Big Hero 6,7.7,15212
 106,19,ENFP,16Personalities,Katniss Everdeen ,The Hunger Games (2012),The Hunger Games,"[878, 12, 14]",70160,35.697,2012-03-12,The Hunger Games,7.207,21465
-107,19,ENFP,16Personalities,Debbie ,Ocean's 8,Ocean's Eight,"[80, 35, 28]",402900,226.071,2018-06-07,Ocean's Eight,6.984,8094
-108,19,ENFP,16Personalities,Roxy ,Kingsman: The Secret Service,Kingsman: The Secret Service,"[80, 35, 28, 12]",207703,86.845,2014-12-13,Kingsman: The Secret Service,7.634,16222
+107,19,ENFP,16Personalities,Debbie ,Ocean's 8,Ocean's Eight,"[80, 35, 28]",402900,226.071,2018-06-07,Ocean's Eight,6.984,8095
+108,19,ENFP,16Personalities,Roxy ,Kingsman: The Secret Service,Kingsman: The Secret Service,"[80, 35, 28, 12]",207703,86.845,2014-12-13,Kingsman: The Secret Service,7.634,16224
 109,19,ENFP,16Personalities,Rachel Chu ,Crazy Rich Asians,Crazy Rich Asians,"[35, 10749]",455207,163.372,2018-08-15,Crazy Rich Asians,7.066,3519
 110,19,ENFP,16Personalities,Elle Woods ,Legally Blonde,Legally Blonde,"[35, 10749]",8835,63.435,2001-07-13,Legally Blonde,6.8,3820
 111,19,ENFP,16Personalities,Chris Gardner,The Pursuit of Happyness,The Pursuit of Happyness,[18],1402,45.549,2006-12-14,The Pursuit of Happyness,7.903,9578
@@ -132,9 +132,9 @@
 130,21,INFP,16Personalities,Sadness,Inside Out,Inside Out,"[16, 10751, 12, 18, 35]",150540,250.691,2015-06-09,Inside Out,7.915,20356
 131,22,INFP,All in one personality test,Tiana,The Princess and the Frog,The Princess and the Frog,"[16, 10749, 14, 10751]",10198,67.172,2009-12-08,The Princess and the Frog,7.205,5351
 132,22,INFP,All in one personality test,Belle,beauty and the beast,Beauty and the Beast,"[10751, 14, 10749]",321612,79.156,2017-03-16,Beauty and the Beast,6.968,15190
-133,22,INFP,All in one personality test,Mulan,mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.9,9315
+133,22,INFP,All in one personality test,Mulan,mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.912,9316
 134,22,INFP,All in one personality test,Enola Holmes,Enola Holmes,Enola Holmes,"[12, 9648, 80]",497582,29.308,2020-09-23,Enola Holmes,7.287,5839
-135,23,INTP,16Personalities,Ashitaka ,Princess Mononoke,Princess Mononoke,"[12, 14, 16]",128,54.746,1997-07-12,Princess Mononoke,8.34,7694
+135,23,INTP,16Personalities,Ashitaka ,Princess Mononoke,Princess Mononoke,"[12, 14, 16]",128,54.746,1997-07-12,Princess Mononoke,8.34,7695
 136,23,INTP,16Personalities, Hiromitsu Kosuke ,No Longer Heroine,No Longer Heroine,"[35, 18, 10749]",341540,7.092,2015-09-19,No Longer Heroine,6.698,63
 137,23,INTP,16Personalities,Howl Pendragon ,Howl's Moving Castle,Howl's Moving Castle,"[14, 16, 12]",4935,97.02,2004-09-09,Howl's Moving Castle,8.409,9463
 138,23,INTP,16Personalities,Dirk Burton ,Left Behind,Left Behind,"[53, 28, 878]",218043,61.901,2014-10-03,Left Behind,4.226,1248
@@ -153,13 +153,13 @@
 151,26,ISTP,Cognitive functions self-typing,Katniss Everdeen ,The Hunger Games (2012),The Hunger Games,"[878, 12, 14]",70160,35.697,2012-03-12,The Hunger Games,7.207,21465
 152,26,ISTP,Cognitive functions self-typing,Shrek ,Shrek (2001),Shrek,"[16, 35, 14, 12, 10751]",808,135.619,2001-05-18,Shrek,7.742,16572
 153,26,ISTP,Cognitive functions self-typing,John Wick ,John Wick (2014),John Wick,"[28, 53]",245891,105.961,2014-10-22,John Wick,7.43,18679
-154,26,ISTP,Cognitive functions self-typing,Fa Mulan ,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.9,9315
+154,26,ISTP,Cognitive functions self-typing,Fa Mulan ,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.912,9316
 155,26,ISTP,Cognitive functions self-typing,Levi Ackerman ,Attack on Titan,Attack on Titan,"[27, 28, 878]",295830,32.66,2015-08-01,Attack on Titan,6.063,715
 156,26,ISTP,Cognitive functions self-typing,Kate Dibiasky ,Don't Look Up ,Don't Look Up,"[35, 878, 18]",646380,144.264,2021-12-07,Don't Look Up,7.101,7852
 157,27,INTP,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 158,27,INTP,16Personalities,Sherlock Holmes , Sherlock Holmes,Sherlock Holmes,"[28, 12, 80, 9648]",10528,49.377,2009-12-23,Sherlock Holmes,7.211,13597
 159,27,INTP,16Personalities,Hiccup ,How to train your dragon (2010),How to Train Your Dragon,"[14, 12, 16, 10751]",10191,58.019,2010-03-18,How to Train Your Dragon,7.825,12604
-160,27,INTP,16Personalities,Neo ,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+160,27,INTP,16Personalities,Neo ,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 161,28,INFJ,16Personalities,Captain America,Captain America: The First Avenger,Captain America: The First Avenger,"[28, 12, 878]",1771,46.671,2011-07-22,Captain America: The First Avenger,7.0,20928
 162,28,INFJ,16Personalities,Beatrice Prior,Divergent,Divergent,"[28, 12, 878]",157350,55.976,2014-03-14,Divergent,6.918,12508
 163,28,INFJ,16Personalities,Elio,Call Me by Your Name,Call Me by Your Name,"[10749, 18]",398818,47.736,2017-07-28,Call Me by Your Name,8.145,11777
@@ -171,10 +171,10 @@
 169,29,INTJ,16Personalities,jack sparrow,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,"[12, 14, 28]",22,131.883,2003-07-09,Pirates of the Caribbean: The Curse of the Black Pearl,7.8,20015
 170,29,INTJ,16Personalities,anakin skywalker,Star Wars: Episode I - The Phantom Menace,Star Wars: Episode I - The Phantom Menace,"[12, 28, 878]",1893,61.485,1999-05-19,Star Wars: Episode I - The Phantom Menace,6.548,14171
 171,29,INTJ,16Personalities,Simba,Lion king,The Lion King,"[12, 18, 10751, 16]",420818,263.961,2019-07-12,The Lion King,7.114,9703
-172,29,INTJ,16Personalities,Nathan Algren,last samurai,The Last Samurai,"[18, 28, 10752]",616,45.812,2003-12-05,The Last Samurai,7.586,6623
+172,29,INTJ,16Personalities,Nathan Algren,last samurai,The Last Samurai,"[18, 28, 10752]",616,45.812,2003-12-05,The Last Samurai,7.586,6624
 173,30,INTJ,16Personalities,Mavis Dracula,Hotel Transylvania (2012),Hotel Transylvania,"[16, 35, 10751, 14]",76492,57.668,2012-09-20,Hotel Transylvania,6.956,8343
-174,30,INTJ,16Personalities,Dr Strange,Doctor Strange,Doctor Strange,"[28, 12, 14]",284052,353.529,2016-10-25,Doctor Strange,7.422,21613
-175,30,INTJ,16Personalities,Spiderman,Spider-Man: Far From Home,Spider-Man: Far From Home,"[28, 12, 878]",429617,85.397,2019-06-28,Spider-Man: Far From Home,7.429,15170
+174,30,INTJ,16Personalities,Stephen Strange,Doctor Strange,Doctor Strange,"[28, 12, 14]",284052,353.529,2016-10-25,Doctor Strange,7.422,21613
+175,30,INTJ,16Personalities,Peter Parker,Spider-Man: Far From Home,Spider-Man: Far From Home,"[28, 12, 878]",429617,85.397,2019-06-28,Spider-Man: Far From Home,7.429,15170
 176,30,INTJ,16Personalities,Yuta Okkotsu,Jujutsu Kaisen 0,Jujutsu Kaisen 0,"[16, 28, 14]",810693,79.767,2021-12-24,Jujutsu Kaisen 0,8.193,1287
 177,30,INTJ,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 178,30,INTJ,16Personalities,Camilo Madrigal,Encanto,Encanto,"[16, 35, 10751, 14]",568124,131.708,2021-10-13,Encanto,7.606,9172
@@ -185,27 +185,27 @@
 183,31,INFP,16Personalities,Ellis ,Shawshank Redemption ,The Shawshank Redemption,"[18, 80]",278,123.586,1994-09-23,The Shawshank Redemption,8.705,26213
 184,31,INFP,16Personalities,Edward Scissorhands,Edward Scissorhands,Edward Scissorhands,"[14, 18, 10749]",162,62.247,1990-12-07,Edward Scissorhands,7.716,12537
 185,31,INFP,16Personalities,Chihiro ,Spirited away,Spirited Away,"[16, 10751, 14]",129,101.414,2001-07-20,Spirited Away,8.536,15942
-186,31,INFP,16Personalities,Luna Lovegood ,Harry Potter ,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
+186,31,INFP,16Personalities,Luna Lovegood ,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 187,31,INFP,16Personalities,Howl ,Howl the moving castle,Howl's Moving Castle,"[14, 16, 12]",4935,97.02,2004-09-09,Howl's Moving Castle,8.409,9463
 188,31,INFP,16Personalities,Charlie ,Perks of being a wallflower,The Perks of Being a Wallflower,[18],84892,33.781,2012-09-20,The Perks of Being a Wallflower,7.794,10200
 189,31,INFP,16Personalities,Joker ,Joker (2019),Joker,"[80, 53, 18]",475557,401.987,2019-10-01,Joker,8.161,24623
 190,31,INFP,16Personalities,Karen Smith ,Mean Girls,Mean Girls,[35],673593,113.557,2024-01-10,Mean Girls,6.104,381
 191,31,INFP,16Personalities,Cameron ,Ten things I hate about you,10 Things I Hate About You,"[35, 10749, 18]",4951,44.956,1999-03-30,10 Things I Hate About You,7.587,7795
-192,32,INTP,16Personalities,Gru,despicable me,Despicable Me,"[10751, 16, 35]",20352,85.745,2010-07-08,Despicable Me,7.2,14601
+192,32,INTP,16Personalities,Gru,despicable me,Despicable Me,"[10751, 16, 35]",20352,85.745,2010-07-08,Despicable Me,7.235,14602
 193,32,INTP,16Personalities,Stephen Strange,doctor strange ,Doctor Strange,"[28, 12, 14]",284052,353.529,2016-10-25,Doctor Strange,7.422,21613
-194,32,INTP,16Personalities,Willy wonka,Charlie and the chocolate factory ,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14731
+194,32,INTP,16Personalities,Willy wonka,Charlie and the chocolate factory ,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14732
 195,32,INTP,16Personalities,Haku,Spirited Away,Spirited Away,"[16, 10751, 14]",129,101.414,2001-07-20,Spirited Away,8.536,15942
 196,32,INTP,16Personalities,Harley Quinn,Birds of prey,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),"[28, 80]",495764,46.679,2020-02-05,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),6.928,9999
 197,32,INTP,16Personalities,Baymax,Big Hero 6,Big Hero 6,"[12, 10751, 16, 28, 35]",177572,117.78,2014-10-24,Big Hero 6,7.7,15212
 198,33,INTJ,16Personalities,Emma Woodhouse,Emma 2020,Emma.,"[35, 10749]",556678,29.13,2020-02-13,Emma.,7.045,1655
 199,33,INTJ,16Personalities,Flynn Rider,Tangled,Tangled,"[16, 10751]",38757,104.931,2010-11-24,Tangled,7.607,11076
 200,33,INTJ,16Personalities,Tony Stark,Avengers: Endgame,Avengers: Endgame,"[12, 878, 28]",299534,261.301,2019-04-24,Avengers: Endgame,8.254,24907
-201,33,INTJ,16Personalities,Mulan,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.9,9315
+201,33,INTJ,16Personalities,Mulan,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.912,9316
 202,33,INTJ,16Personalities,Isabela Madrigal,Encanto,Encanto,"[16, 35, 10751, 14]",568124,131.708,2021-10-13,Encanto,7.606,9172
 203,33,INTJ,16Personalities,Katniss Everdeen,The Hunger Games (2012),The Hunger Games,"[878, 12, 14]",70160,35.697,2012-03-12,The Hunger Games,7.207,21465
 204,34,ISTP,16Personalities,Po,Kung Fu Panda (2008),Kung Fu Panda,"[28, 12, 16, 10751, 35]",9502,101.496,2008-06-04,Kung Fu Panda,7.281,11224
 205,34,ISTP,16Personalities,John Wick,John Wick (2014),John Wick,"[28, 53]",245891,105.961,2014-10-22,John Wick,7.43,18679
-206,34,ISTP,16Personalities,Ip Man,Ip Man (2008),Ip Man,"[18, 28, 36]",14756,17.276,2008-12-12,Ip Man,7.8,3647
+206,34,ISTP,16Personalities,Ip Man,Ip Man (2008),Ip Man,"[18, 28, 36]",14756,17.276,2008-12-12,Ip Man,7.75,3648
 207,35,ISTP,16Personalities,Wanda Maximoff,Avengers: Infinity War,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
 208,35,ISTP,16Personalities,Bellatrix Lestrange,Harry Potter and the Deathly Hallows II,Harry Potter and the Deathly Hallows: Part 2,"[14, 12]",12445,107.794,2011-07-12,Harry Potter and the Deathly Hallows: Part 2,8.098,19993
 209,35,ISTP,16Personalities,Luna Lovegood,Harry Potter and the Order of The Phoenix ,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
@@ -223,8 +223,8 @@
 221,38,INTP,16Personalities,Evelyn Salt,Salt (2010),Salt,"[28, 9648, 53]",27576,35.203,2010-07-21,Salt,6.412,5307
 222,38,INTP,16Personalities,Master Oogway,Kung Fu Panda (2008),Kung Fu Panda,"[28, 12, 16, 10751, 35]",9502,101.496,2008-06-04,Kung Fu Panda,7.281,11224
 223,38,INTP,16Personalities,Suzume Iwato,Suzume no Tojimari,Suzume,"[16, 18, 12, 14]",916224,60.514,2022-11-11,Suzume,7.997,1128
-224,38,INTP,16Personalities,Professor Langdon,The Da Vinci Code,The Da Vinci Code,"[53, 9648]",591,37.812,2006-05-17,The Da Vinci Code,6.723,9049
-225,39,INTP,michaelcaloz.com,bowser,The Super Mario Bros. Movie,The Super Mario Bros. Movie,"[16, 10751, 12, 14, 35]",502356,203.285,2023-04-05,The Super Mario Bros. Movie,7.676,8452
+224,38,INTP,16Personalities,Robert Langdon,The Da Vinci Code,The Da Vinci Code,"[53, 9648]",591,37.812,2006-05-17,The Da Vinci Code,6.723,9049
+225,39,INTP,michaelcaloz.com,bowser,The Super Mario Bros. Movie,The Super Mario Bros. Movie,"[16, 10751, 12, 14, 35]",502356,203.285,2023-04-05,The Super Mario Bros. Movie,7.676,8453
 226,39,INTP,michaelcaloz.com,spider-punk,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,"[16, 28, 12, 878]",569094,184.178,2023-05-31,Spider-Man: Across the Spider-Verse,8.363,6293
 227,39,INTP,michaelcaloz.com,iron man,Avengers: Endgame,Avengers: Endgame,"[12, 878, 28]",299534,261.301,2019-04-24,Avengers: Endgame,8.254,24907
 228,39,INTP,michaelcaloz.com,captain underpants,Captain Underpants: The First Epic Movie,Captain Underpants: The First Epic Movie,"[28, 16, 35, 10751]",268531,30.644,2017-06-01,Captain Underpants: The First Epic Movie,6.233,1149
@@ -235,7 +235,7 @@
 233,40,INFJ,16Personalities,Alice,Plus One,Plus One,"[35, 10749]",508101,15.282,2019-06-14,Plus One,6.932,317
 234,40,INFJ,16Personalities,Dani,Midsommar,Midsommar,"[27, 18, 9648]",530385,61.656,2019-07-03,Midsommar,7.161,6744
 235,40,INFJ,16Personalities,Arthur,Past Lives,Past Lives,"[18, 10749]",666277,50.649,2023-06-02,Past Lives,7.8,1304
-236,40,INFJ,16Personalities,Sasha Tran,Always Be My Maybe,Always Be My Maybe,"[10749, 35]",513576,18.195,2019-05-31,Always Be My Maybe,6.644,1281
+236,40,INFJ,16Personalities,Sasha,Always Be My Maybe,Always Be My Maybe,"[10749, 35]",513576,18.195,2019-05-31,Always Be My Maybe,6.644,1281
 237,41,ENTJ,16Personalities,Mark Watney,The Martian,The Martian,"[18, 12, 878]",286217,75.09,2015-09-30,The Martian,7.685,19234
 238,41,ENTJ,16Personalities,Peter Parker,Spiderman,Spider-Man,"[28, 878]",557,98.393,2002-05-01,Spider-Man,7.295,18426
 239,41,ENTJ,16Personalities,Hiro Hamada,Big Hero 6,Big Hero 6,"[12, 10751, 16, 28, 35]",177572,117.78,2014-10-24,Big Hero 6,7.7,15212
@@ -243,25 +243,25 @@
 241,41,ENTJ,16Personalities,Hogarth Hughes,The Iron Giant,The Iron Giant,"[10751, 16, 878, 12]",10386,39.189,1999-08-06,The Iron Giant,7.942,5363
 242,41,ENTJ,16Personalities,Miles Morales,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,"[16, 28, 12, 878]",324857,85.621,2018-12-06,Spider-Man: Into the Spider-Verse,8.404,15027
 243,41,ENTJ,16Personalities,Mai,Next Gen,Next Gen,"[16, 28, 12, 35, 10751, 878]",523777,23.857,2018-09-07,Next Gen,6.942,738
-244,41,ENTJ,16Personalities,Dr. Emmett Brown,Back to the Future,Back to the Future,"[12, 35, 878]",105,109.354,1985-07-03,Back to the Future,8.317,19320
+244,41,ENTJ,16Personalities,Dr Emmett Doc Brown,Back to the Future,Back to the Future,"[12, 35, 878]",105,109.354,1985-07-03,Back to the Future,8.317,19320
 245,41,ENTJ,16Personalities,Jim Preston,Passengers,Passengers,"[18, 10749, 878]",274870,217.472,2016-12-21,Passengers,6.945,12888
 246,41,ENTJ,16Personalities,Neo,Matrix,Matrix,[],555879,5.031,1998-12-31,Matrix,6.9,26
 247,42,ISTJ,16Personalities,Shun,From Up on Poppy Hill,From Up on Poppy Hill,"[16, 18]",83389,25.423,2011-07-16,From Up on Poppy Hill,7.529,1672
-248,42,ISTJ,16Personalities,Park Ki Joon,Midnight Runners,Midnight Runners,"[35, 28, 80]",453127,16.958,2017-08-09,Midnight Runners,7.495,199
+248,42,ISTJ,16Personalities,Park Ki-Joon,Midnight Runners,Midnight Runners,"[35, 28, 80]",453127,16.958,2017-08-09,Midnight Runners,7.495,199
 249,42,ISTJ,16Personalities,Padre Burgos,Gomburza,GomBurZa,"[36, 18]",1187743,16.115,2023-12-25,GomBurZa,5.5,2
 250,42,ISTJ,16Personalities,Howl,Howl's Moving Castle,Howl's Moving Castle,"[14, 16, 12]",4935,97.02,2004-09-09,Howl's Moving Castle,8.409,9463
 251,43,INFP,Cognitive functions self-typing,Barbie,Barbie: A Fairy Secret,Barbie: A Fairy Secret,"[16, 10751, 14]",57737,23.207,2011-03-01,Barbie: A Fairy Secret,6.799,478
 252,43,INFP,Cognitive functions self-typing,Howl,Howl's Moving Castle,Howl's Moving Castle,"[14, 16, 12]",4935,97.02,2004-09-09,Howl's Moving Castle,8.409,9463
-253,43,INFP,Cognitive functions self-typing,Rajun,3 idiots,3 Idiots,"[18, 35]",20453,51.344,2009-12-23,3 Idiots,7.991,2275
+253,43,INFP,Cognitive functions self-typing,Raju,3 idiots,3 Idiots,"[18, 35]",20453,51.344,2009-12-23,3 Idiots,7.991,2275
 254,43,INFP,Cognitive functions self-typing,Sophie,Howl's Moving Castle,Howl's Moving Castle,"[14, 16, 12]",4935,97.02,2004-09-09,Howl's Moving Castle,8.409,9463
 255,43,INFP,Cognitive functions self-typing,Elsa,Frozen (2013),Frozen,"[16, 10751, 12, 14]",109445,98.308,2013-11-20,Frozen,7.247,16095
-256,43,INFP,Cognitive functions self-typing,Isabelle Madrigal,Encanto,Encanto,"[16, 35, 10751, 14]",568124,131.708,2021-10-13,Encanto,7.606,9172
+256,43,INFP,Cognitive functions self-typing,Isabela Madrigal,Encanto,Encanto,"[16, 35, 10751, 14]",568124,131.708,2021-10-13,Encanto,7.606,9172
 257,43,INFP,Cognitive functions self-typing,Regina George,Mean Girls,Mean Girls,[35],673593,113.557,2024-01-10,Mean Girls,6.104,381
 258,43,INFP,Cognitive functions self-typing,Gojo,Jujutsu Kaisen: 0,Jujutsu Kaisen 0,"[16, 28, 14]",810693,79.767,2021-12-24,Jujutsu Kaisen 0,8.193,1287
 259,43,INFP,Cognitive functions self-typing,Mei Mei,Jujutsu Kaisen: 0,Jujutsu Kaisen 0,"[16, 28, 14]",810693,79.767,2021-12-24,Jujutsu Kaisen 0,8.193,1287
-260,43,INFP,Cognitive functions self-typing,Elle Woods,Legally Blondes,Legally Blondes,[35],16985,22.058,2009-04-28,Legally Blondes,5.7,247
+260,43,INFP,Cognitive functions self-typing,Elle Woods,Legally Blonde,Legally Blonde,"[35, 10749]",8835,63.435,2001-07-13,Legally Blonde,6.8,3820
 261,44,INFJ,16Personalities,Riggan Thomson,Birdman,Birdman,[99],435092,2.772,2015-07-01,Birdman,3.167,5
-262,44,INFJ,16Personalities,John Miller,Saving Private Ryan,Saving Private Ryan,"[18, 36, 10752]",857,79.744,1998-07-24,Saving Private Ryan,8.214,15321
+262,44,INFJ,16Personalities,John Miller,Saving Private Ryan,Saving Private Ryan,"[18, 36, 10752]",857,79.744,1998-07-24,Saving Private Ryan,8.214,15323
 263,44,INFJ,16Personalities,Joseph Cooper,Interstellar,Interstellar,"[12, 18, 878]",157336,397.384,2014-11-05,Interstellar,8.434,34409
 264,44,INFJ,16Personalities,John Nash,A Beautiful Mind,A Beautiful Mind,"[18, 10749]",453,95.239,2001-12-14,A Beautiful Mind,7.857,9913
 265,44,INFJ,16Personalities,Oskar Schindler,Schindler's List,Schindler's List,"[18, 36, 10752]",424,76.924,1993-12-15,Schindler's List,8.567,15403
@@ -273,7 +273,7 @@
 271,45,INFJ,I forgot,Galadriel,Lord Of The Rings The Two Towers,The Lord of the Rings: The Two Towers,"[12, 14, 28]",121,86.951,2002-12-18,The Lord of the Rings: The Two Towers,8.395,21184
 272,45,INFJ,I forgot,Elle Woods,Legally Blonde,Legally Blonde,"[35, 10749]",8835,63.435,2001-07-13,Legally Blonde,6.8,3820
 273,45,INFJ,I forgot,Elizabeth Bennet,Pride And Prejudice(2005),Pride & Prejudice,"[18, 10749]",4348,67.025,2005-09-16,Pride & Prejudice,8.08,7783
-274,45,INFJ,I forgot,Jane Smith,Mr. & Mrs. Smith (2005),Sympathy for Mr. Vengeance,"[28, 18, 53]",4689,22.748,2002-03-29,Sympathy for Mr. Vengeance,7.455,1388
+274,45,INFJ,I forgot,Jane Smith,Mr. and Mrs. Smith (2005),Mr. & Mrs. Smith,"[28, 35, 18, 53]",787,39.399,2005-06-07,Mr. & Mrs. Smith,6.683,10027
 275,45,INFJ,I forgot,Sarah Connor,Terminator 2,Terminator 2: Judgment Day,"[28, 53, 878]",280,135.356,1991-07-03,Terminator 2: Judgment Day,8.115,12401
 276,45,INFJ,I forgot,Emma Woodhouse,Emma (Gwyneth Paltrow Version),Emma.,"[35, 10749]",556678,29.13,2020-02-13,Emma.,7.045,1655
 277,45,INFJ,I forgot,Hermione Granger,Harry Potter Goblet Of Fire,Harry Potter and the Goblet of Fire,"[12, 14]",674,109.533,2005-11-16,Harry Potter and the Goblet of Fire,7.815,20110
@@ -312,7 +312,7 @@
 310,51,ISFJ,16Personalities,Captain America,Avengers,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
 311,51,ISFJ,16Personalities,Will Turner,Pirates of the Caribbean,Pirates of the Caribbean: The Curse of the Black Pearl,"[12, 14, 28]",22,131.883,2003-07-09,Pirates of the Caribbean: The Curse of the Black Pearl,7.8,20015
 312,51,ISFJ,16Personalities,Alice,Alice in Wonderland (1951),Alice in Wonderland,"[10751, 14, 12]",12155,85.049,2010-03-03,Alice in Wonderland,6.635,13582
-313,52,ISFJ,Voice recording by proffesional typists,Obi wan kenobi ,Star Wars,Star Wars,"[12, 28, 878]",11,420.428,1977-05-25,Star Wars,8.203,20037
+313,52,ISFJ,Voice recording by proffesional typists,Obi-Wan Kenobi,Star Wars,Star Wars,"[12, 28, 878]",11,420.428,1977-05-25,Star Wars,8.203,20037
 314,52,ISFJ,Voice recording by proffesional typists,Ferdinand the bull,ferdinand the bull (1938),Ferdinand the Bull,"[16, 35, 10751]",47166,15.092,1938-11-23,Ferdinand the Bull,6.536,165
 315,52,ISFJ,Voice recording by proffesional typists,Forest gump,Forest Gump,Forrest Gump,"[35, 18, 10749]",13,183.541,1994-06-23,Forrest Gump,8.475,26651
 316,53,ISTJ,I honestly don't remember but I get ISTJ every time so,Rita,Edge of Tomorrow,Edge of Tomorrow,"[28, 878]",137113,53.009,2014-05-27,Edge of Tomorrow,7.618,13399
@@ -334,7 +334,7 @@
 332,55,INTP,michaelcaloz.com,Iron Giant,The Iron Giant,The Iron Giant,"[10751, 16, 878, 12]",10386,39.189,1999-08-06,The Iron Giant,7.942,5363
 333,55,INTP,michaelcaloz.com,Rango,Rango,Rango,"[16, 35, 10751, 37, 12]",44896,58.188,2011-03-02,Rango,6.84,6239
 334,55,INTP,michaelcaloz.com,Klaus,Klaus,Klaus,"[16, 10751, 12, 35, 14]",508965,34.881,2019-11-08,Klaus,8.249,3877
-335,55,INTP,michaelcaloz.com,Wall-E,WALL.E,WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18234
+335,55,INTP,michaelcaloz.com,Wall-E,WALL·E (2008),WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18236
 336,56,ISTP,16Personalities,Sam Bell,Moon (2009),Moon,"[878, 18]",17431,24.253,2009-06-12,Moon,7.568,5489
 337,56,ISTP,16Personalities,Mima Kirigoe,Perfect Blue ,Perfect Blue,"[16, 53]",10494,50.938,1998-02-28,Perfect Blue,8.307,2483
 338,56,ISTP,16Personalities,Motoko,Ghost in the shell,Ghost in the Shell,"[878, 18, 28]",315837,106.157,2017-03-29,Ghost in the Shell,6.073,7819
@@ -345,8 +345,8 @@
 343,57,ISTJ,Administered by institution,Mia ,La La Land (2016),La La Land,"[35, 18, 10749, 10402]",313369,44.222,2016-11-29,La La Land,7.901,16345
 344,57,ISTJ,Administered by institution,Sebastian ,La La Land (2016),La La Land,"[35, 18, 10749, 10402]",313369,44.222,2016-11-29,La La Land,7.901,16345
 345,57,ISTJ,Administered by institution,Aragorn ,Lord of the Rings,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]",120,132.238,2001-12-18,The Lord of the Rings: The Fellowship of the Ring,8.412,24376
-346,58,ISFJ,Meyers Briggs,Lizzie Bennet,Pride and Prejudice (2005),Pride & Prejudice,"[18, 10749]",4348,67.025,2005-09-16,Pride & Prejudice,8.08,7783
-347,58,ISFJ,Meyers Briggs,The Djinn,Three Thousand Years of Longing,Three Thousand Years of Longing,"[18, 14, 10749]",556694,35.036,2022-08-24,Three Thousand Years of Longing,6.9,1230
+346,58,ISFJ,Meyers Briggs,Elizabeth Bennet,Pride and Prejudice (2005),Pride & Prejudice,"[18, 10749]",4348,67.025,2005-09-16,Pride & Prejudice,8.08,7783
+347,58,ISFJ,Meyers Briggs,The Djinn,Three Thousand Years of Longing,Three Thousand Years of Longing,"[18, 14, 10749]",556694,35.036,2022-08-24,Three Thousand Years of Longing,6.889,1231
 348,58,ISFJ,Meyers Briggs,Stitch,Lilo and Stitch,Lilo & Stitch,"[16, 10751]",11544,72.644,2002-06-21,Lilo & Stitch,7.5,5963
 349,58,ISFJ,Meyers Briggs,Elinor,Sense and Sensibility (1995),Sense and Sensibility,"[18, 10749]",4584,22.822,1995-12-13,Sense and Sensibility,7.43,1613
 350,58,ISFJ,Meyers Briggs,Elwood Blues,The Blues Brothers ,The Blues Brothers,"[10402, 35, 28, 80]",525,280.241,1980-06-16,The Blues Brothers,7.7,4034
@@ -362,7 +362,7 @@
 360,60,INFJ,16Personalities,Pope Benedict,The Two Popes,The Two Popes,"[18, 36]",551332,15.814,2019-11-27,The Two Popes,7.501,2763
 361,60,INFJ,16Personalities,Juno MacGuff,Juno,Juno,"[35, 18, 10749]",7326,26.716,2007-12-05,Juno,7.053,6982
 362,60,INFJ,16Personalities,Prince Akeem,Coming to America,Coming to America,"[35, 10749]",9602,148.044,1988-06-29,Coming to America,6.88,4184
-363,60,INFJ,16Personalities,Alexander Dane,Galaxy Quest,Galaxy Quest,"[35, 878, 12]",926,152.349,1999-12-25,Galaxy Quest,7.06,2135
+363,60,INFJ,16Personalities,Alexander Dane,Galaxy Quest,Galaxy Quest,"[35, 878, 12]",926,152.349,1999-12-25,Galaxy Quest,7.059,2137
 364,60,INFJ,16Personalities,Hermione,The Deathly Hallows: Part I,Harry Potter and the Deathly Hallows: Part 1,"[12, 14]",12444,108.397,2010-11-17,Harry Potter and the Deathly Hallows: Part 1,7.755,18541
 365,60,INFJ,16Personalities,Ellen Ripley,Alien,Alien,"[27, 878]",348,415.374,1979-05-25,Alien,8.153,13978
 366,60,INFJ,16Personalities,Charlotte,Lost in Translation,Lost in Translation,"[18, 10749]",153,88.635,2003-09-18,Lost in Translation,7.395,7076
@@ -372,7 +372,7 @@
 370,61,ISTP,Truity,Toothless,How to Train Your Dragon (2010),How to Train Your Dragon,"[14, 12, 16, 10751]",10191,58.019,2010-03-18,How to Train Your Dragon,7.825,12604
 371,61,ISTP,Truity,Daniel Atlas,Now You See Me,Now You See Me,"[53, 80]",75656,81.879,2013-05-29,Now You See Me,7.343,15166
 372,61,ISTP,Truity,Shrek,Shrek (2001),Shrek,"[16, 35, 14, 12, 10751]",808,135.619,2001-05-18,Shrek,7.742,16572
-373,62,ISTP,Cognitive functions self-typing,Eve,WALL.E,WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18234
+373,62,ISTP,Cognitive functions self-typing,Eve,WALL·E (2008),WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18236
 374,62,ISTP,Cognitive functions self-typing,Dory,finding Nemo ,Finding Nemo,"[16, 10751]",12,102.162,2003-05-30,Finding Nemo,7.823,18744
 375,62,ISTP,Cognitive functions self-typing,Matilda,Matilda,Matilda,"[35, 10751, 14]",10830,54.495,1996-08-02,Matilda,7.159,4260
 376,62,ISTP,Cognitive functions self-typing,Lapis lazuli,Steven Universe the movie,Steven Universe: The Movie,"[10770, 16, 12, 35, 14, 10402]",537061,24.738,2019-09-02,Steven Universe: The Movie,8.206,807
@@ -385,18 +385,18 @@
 383,64,ISFP,Cognitive functions self-typing,Joseph Cooper,Interstellar,Interstellar,"[12, 18, 878]",157336,397.384,2014-11-05,Interstellar,8.434,34409
 384,64,ISFP,Cognitive functions self-typing,John Rambo,Rambo: First Blood (1982),First Blood,"[28, 12, 53, 10752]",1368,119.943,1982-10-22,First Blood,7.5,6002
 385,64,ISFP,Cognitive functions self-typing,Philippe Petit,The Walk,The Walk,"[36, 18, 12]",285783,22.724,2015-09-30,The Walk,6.986,3082
-386,64,ISFP,Cognitive functions self-typing,Strider,The Lord of the Rings,The Lord of the Rings,"[12, 16, 14]",123,30.275,1978-11-15,The Lord of the Rings,6.555,841
+386,64,ISFP,Cognitive functions self-typing,Aragorn,The Lord of the Rings,The Lord of the Rings,"[12, 16, 14]",123,30.275,1978-11-15,The Lord of the Rings,6.555,841
 387,65,ESTJ,Cognitive functions self-typing,Owen Grady,Jurassic World (2015),Jurassic World,"[28, 12, 878, 53]",135397,97.972,2015-06-06,Jurassic World,6.687,19955
 388,65,ESTJ,Cognitive functions self-typing,Cam,Tracers,Tracers,[28],290764,33.532,2015-01-15,Tracers,6.019,1052
 389,65,ESTJ,Cognitive functions self-typing,Hermione Granger,Harry Potter,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
 390,65,ESTJ,Cognitive functions self-typing,Jake Lonergan,Cowboys & Aliens,Cowboys & Aliens,"[28, 878, 53, 37]",49849,33.337,2011-07-29,Cowboys & Aliens,5.608,4900
-391,65,ESTJ,Cognitive functions self-typing,Auto,WALL.E,WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18234
+391,65,ESTJ,Cognitive functions self-typing,Auto,WALL·E (2008),WALL·E,"[16, 10751, 878]",10681,98.098,2008-06-22,WALL·E,8.088,18236
 392,65,ESTJ,Cognitive functions self-typing,The Dragon,Damsel,Damsel,"[14, 28, 12]",763215,251.541,2024-03-07,Damsel,7.138,1813
-393,65,ESTJ,Cognitive functions self-typing,Frank Martin,the transporter,The Transporter,"[28, 80, 53]",4108,53.783,2002-10-02,The Transporter,6.7,5140
+393,65,ESTJ,Cognitive functions self-typing,Frank Martin,Transporter,The Transporter,"[28, 80, 53]",4108,53.783,2002-10-02,The Transporter,6.7,5140
 394,65,ESTJ,Cognitive functions self-typing,SoundWave,Transformers: dark of the moon,Transformers: Dark of the Moon,"[28, 878, 12]",38356,16.268,2011-06-28,Transformers: Dark of the Moon,6.201,8045
 395,65,ESTJ,Cognitive functions self-typing,Mr Fox,Fantastic Mr.fox,Fantastic Mr. Fox,"[12, 16, 35, 10751]",10315,32.248,2009-10-23,Fantastic Mr. Fox,7.797,5189
 396,65,ESTJ,Cognitive functions self-typing,Michael Nantz,Battle Los Angeles ,Battle: Los Angeles,"[878, 28]",44943,31.718,2011-03-08,Battle: Los Angeles,5.755,3299
-397,66,INFJ,"Cognitive functions self-typing + Sakinorva (16p.com IS ***NOT*** RELIABLE, therefore I am wary of this survey's legitimacy)",Trinity,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+397,66,INFJ,"Cognitive functions self-typing + Sakinorva (16p.com IS ***NOT*** RELIABLE, therefore I am wary of this survey's legitimacy)",Trinity,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 398,66,INFJ,"Cognitive functions self-typing + Sakinorva (16p.com IS ***NOT*** RELIABLE, therefore I am wary of this survey's legitimacy)",Morticia Addams,The Addams Family,The Addams Family,"[10751, 16, 35, 14]",481084,42.727,2019-10-10,The Addams Family,6.623,2226
 399,66,INFJ,"Cognitive functions self-typing + Sakinorva (16p.com IS ***NOT*** RELIABLE, therefore I am wary of this survey's legitimacy)",Jack Sparrow,Pirates of the Caribbean,Pirates of the Caribbean: The Curse of the Black Pearl,"[12, 14, 28]",22,131.883,2003-07-09,Pirates of the Caribbean: The Curse of the Black Pearl,7.8,20015
 400,66,INFJ,"Cognitive functions self-typing + Sakinorva (16p.com IS ***NOT*** RELIABLE, therefore I am wary of this survey's legitimacy)",John Wick,John Wick (2014),John Wick,"[28, 53]",245891,105.961,2014-10-22,John Wick,7.43,18679
@@ -404,7 +404,7 @@
 402,67,ESTP,16Personalities,Regina George,Mean Girls,Mean Girls,[35],673593,113.557,2024-01-10,Mean Girls,6.104,381
 403,67,ESTP,16Personalities,Ken,Barbie,Barbie,"[35, 12]",346698,467.396,2023-07-19,Barbie,7.1,8319
 404,67,ESTP,16Personalities,Nick Wilde,Zootopia,Zootopia,"[16, 12, 10751, 35]",269149,141.569,2016-02-11,Zootopia,7.748,15843
-405,68,ENFP,16Personalities,Officer K,Blade Runner 2049,Blade Runner 2049,"[878, 18]",335984,116.001,2017-10-04,Blade Runner 2049,7.6,13140
+405,68,ENFP,16Personalities,Officer K,Blade Runner 2049,Blade Runner 2049,"[878, 18]",335984,116.001,2017-10-04,Blade Runner 2049,7.559,13141
 406,68,ENFP,16Personalities,Captain Jack Sparrow,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: At World's End,"[12, 14, 28]",285,105.659,2007-05-19,Pirates of the Caribbean: At World's End,7.253,13888
 407,68,ENFP,16Personalities,Miles Morales,Into the Spider-Verse,Spider-Man: Into the Spider-Verse,"[16, 28, 12, 878]",324857,85.621,2018-12-06,Spider-Man: Into the Spider-Verse,8.404,15027
 408,68,ENFP,16Personalities,John Wick,John Wick (2014),John Wick,"[28, 53]",245891,105.961,2014-10-22,John Wick,7.43,18679
@@ -422,12 +422,12 @@
 420,71,INTJ,Truity,Margot,The Menu,The Menu,"[35, 53, 27]",593643,94.894,2022-11-17,The Menu,7.183,4450
 421,71,INTJ,Truity,Wade,Elemental (2023),Elemental,"[16, 35, 10751, 14, 10749]",976573,203.987,2023-06-14,Elemental,7.661,4040
 422,72,ENFP,Cognitive functions self-typing,Harley Quinn,Suicide Squad,Suicide Squad,"[28, 12, 14]",297761,194.011,2016-08-03,Suicide Squad,5.912,20664
-423,72,ENFP,Cognitive functions self-typing,Neo,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+423,72,ENFP,Cognitive functions self-typing,Neo,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 424,72,ENFP,Cognitive functions self-typing,Fleur,The Way We Dance,The Way We Dance,"[18, 10402]",213478,4.542,2013-08-08,The Way We Dance,5.4,18
 425,72,ENFP,Cognitive functions self-typing,Tony Stark,Iron Man,Iron Man,"[28, 878, 12]",1726,139.11,2008-04-30,Iron Man,7.644,25765
-426,73,INTP,16Personalities,Alan Turing,The Imitation Game,The Imitation Game,"[36, 18, 53, 10752]",205596,54.95,2014-11-14,The Imitation Game,8.004,16594
-427,73,INTP,16Personalities,Dr. Emmett Brown,Back to the Future,Back to the Future,"[12, 35, 878]",105,109.354,1985-07-03,Back to the Future,8.317,19320
-428,73,INTP,16Personalities,Luna Lovegood,Harry Potter,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
+426,73,INTP,16Personalities,Alan Turing,The Imitation Game,The Imitation Game,"[36, 18, 53, 10752]",205596,54.95,2014-11-14,The Imitation Game,8.004,16596
+427,73,INTP,16Personalities,Dr Emmett Doc Brown,Back to the Future,Back to the Future,"[12, 35, 878]",105,109.354,1985-07-03,Back to the Future,8.317,19320
+428,73,INTP,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 429,74,INTJ,16Personalities,Simon Tam,Serenity,Serenity,"[878, 28, 12, 53]",16320,373.12,2005-09-25,Serenity,7.38,3367
 430,74,INTJ,16Personalities,Q,Skyfall,Skyfall,"[28, 12, 53]",37724,46.005,2012-10-24,Skyfall,7.237,14862
 431,74,INTJ,16Personalities,Ave,Primer,Primer,"[878, 18, 53]",14337,82.577,2004-10-08,Primer,6.769,2068
@@ -441,14 +441,14 @@
 439,76,INTJ,I used several sites to ensure that it was consistent.,Martin Matthias,Martin,Martin,"[27, 18]",26517,19.033,1977-10-27,Martin,6.8,252
 440,76,INTJ,I used several sites to ensure that it was consistent.,Marty Puccio,Bully,Bully,"[80, 18]",9517,19.894,2001-06-15,Bully,6.676,444
 441,76,INTJ,I used several sites to ensure that it was consistent.,Mike Waters,My Own Private Idaho,My Own Private Idaho,[18],468,22.543,1991-02-01,My Own Private Idaho,7.055,1079
-442,76,INTJ,I used several sites to ensure that it was consistent.,Carrie White,Carrie,Carrie,"[27, 53]",7340,94.246,1976-11-03,Carrie,7.313,3660
+442,76,INTJ,I used several sites to ensure that it was consistent.,Carrie White,Carrie,Carrie,"[27, 53]",7340,94.246,1976-11-03,Carrie,7.313,3661
 443,76,INTJ,I used several sites to ensure that it was consistent.,Dolores Claiborne,Dolores Claiborne,Dolores Claiborne,"[80, 18, 9648]",11929,19.429,1995-03-24,Dolores Claiborne,7.243,721
 444,76,INTJ,I used several sites to ensure that it was consistent.,Butch,Dog Pound,Dog Pound,[18],43920,14.01,2010-04-24,Dog Pound,7.2,361
 445,76,INTJ,I used several sites to ensure that it was consistent.,Dawn Davenport,Female Trouble,Female Trouble,"[35, 80]",14267,10.84,1974-10-04,Female Trouble,7.012,171
 446,76,INTJ,I used several sites to ensure that it was consistent.,Annie Graham,Hereditary,Hereditary,"[27, 9648, 53]",493922,68.903,2018-06-07,Hereditary,7.286,7313
 447,76,INTJ,I used several sites to ensure that it was consistent.,Karl Childers,Sling Blade,Sling Blade,[18],12498,21.132,1996-08-30,Sling Blade,7.517,742
 448,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Joel Barish,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,"[878, 18, 10749]",38,61.909,2004-03-19,Eternal Sunshine of the Spotless Mind,8.097,14427
-449,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Amelie Poulain,Amelie,Amélie,[],891850,0.266,2021-11-11,Amélie,0.0,0
+449,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Amélie Poulain,Amélie,Amélie,"[35, 10749]",194,36.981,2001-04-25,Amélie,7.909,11179
 450,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Moana Waialiki,Moana,Moana,"[12, 35, 10751, 14]",1108427,46.147,2026-07-09,Moana,0.0,0
 451,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Peter Quill,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy Vol. 2,"[878, 12, 28]",283995,75.927,2017-04-19,Guardians of the Galaxy Vol. 2,7.621,21050
 452,77,ENFJ,"16 personalities, Michael caloz, enneagram, truity ",Thor Odinson,Thor:Ragnarok,Thor: Ragnarok,"[28, 12, 878]",284053,408.967,2017-10-02,Thor: Ragnarok,7.593,20228
@@ -458,7 +458,7 @@
 456,78,INFP,16Personalities,Sam,Stuck in Love,Stuck in Love,"[18, 35]",111969,20.179,2013-06-14,Stuck in Love,7.39,1852
 457,78,INFP,16Personalities,Westley,The Princess Bride,The Princess Bride,"[12, 10751, 14, 35, 10749]",2493,28.2,1987-09-25,The Princess Bride,7.679,4387
 458,79,INFP,16Personalities,Desmond Poppy,Nativity,Nativity!,"[35, 10751]",49522,13.663,2009-11-27,Nativity!,6.259,193
-459,79,INFP,16Personalities,Hannibal Lecter,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.3,15780
+459,79,INFP,16Personalities,Hannibal Lecter,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.347,15782
 460,79,INFP,16Personalities,Hermione Granger,Harry Potter and the Sorcerer's Stone,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
 461,79,INFP,16Personalities,Bucky Barnes,Captain America: The Winter Soldier,Captain America: The Winter Soldier,"[28, 12, 878]",100402,40.619,2014-03-20,Captain America: The Winter Soldier,7.665,18300
 462,79,INFP,16Personalities,Miranda Priestly,The Devil Wears Prada,The Devil Wears Prada,"[18, 35]",350,70.545,2006-06-29,The Devil Wears Prada,7.395,11672
@@ -472,9 +472,9 @@
 470,81,INFP,16Personalities,Darth Vader,Star Wars III: Revenge of the Sith,Star Wars: Episode III - Revenge of the Sith,"[12, 28, 878]",1895,45.39,2005-05-17,Star Wars: Episode III - Revenge of the Sith,7.425,13299
 471,81,INFP,16Personalities,John Wick,John Wick (2014),John Wick,"[28, 53]",245891,105.961,2014-10-22,John Wick,7.43,18679
 472,82,INFP,can't remember,Carol Ledoux,Repulsion,Repulsion,"[18, 53, 27]",11481,18.883,1965-06-01,Repulsion,7.422,951
-473,82,INFP,can't remember,Carrie White,Carrie,Carrie,"[27, 53]",7340,94.246,1976-11-03,Carrie,7.313,3660
+473,82,INFP,can't remember,Carrie White,Carrie,Carrie,"[27, 53]",7340,94.246,1976-11-03,Carrie,7.313,3661
 474,82,INFP,can't remember,Lux Lisbon,The Virgin Suicides,The Virgin Suicides,"[18, 10749]",1443,51.214,2000-04-21,The Virgin Suicides,7.111,3095
-475,82,INFP,can't remember,Luna Lovegood,Harry Potter,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
+475,82,INFP,can't remember,Luna Lovegood,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 476,83,ESTJ,16Personalities,Kim Ki-woo,Parasite,Parasite,"[27, 878]",48311,16.951,1982-03-12,Parasite,4.711,57
 477,83,ESTJ,16Personalities,Daniel Henney,Seducing Mr Perfect,Seducing Mr. Perfect,"[10749, 35]",52444,9.193,2006-12-07,Seducing Mr. Perfect,6.0,48
 478,83,ESTJ,16Personalities,Teo Yoo ,Past Lives,Past Lives,"[18, 10749]",666277,50.649,2023-06-02,Past Lives,7.8,1304
@@ -484,7 +484,7 @@
 482,84,ENFJ,I truly dont remember now and dont want to answer falsely,Happy Gilmore,Happy Gilmore,Happy Gilmore,[35],9614,33.377,1996-02-16,Happy Gilmore,6.632,2535
 483,85,INFJ,16Personalities,Star ,American Honey,American Honey,[18],340485,18.819,2016-09-30,American Honey,6.802,801
 484,85,INFJ,16Personalities, The Unicorn ,The Last Unicorn,The Last Unicorn,"[14, 16, 10751, 12]",10150,22.028,1982-11-19,The Last Unicorn,7.112,466
-485,85,INFJ,16Personalities,Ricky Fitts ,American Beauty,American Beauty,[18],14,259.46,1999-09-15,American Beauty,8.019,11725
+485,85,INFJ,16Personalities,Ricky Fitts ,American Beauty,American Beauty,[18],14,259.46,1999-09-15,American Beauty,8.019,11726
 486,85,INFJ,16Personalities,Charlotte ,Lost in Translation,Lost in Translation,"[18, 10749]",153,88.635,2003-09-18,Lost in Translation,7.395,7076
 487,86,ISFJ,16Personalities,Rambo,rambo,Rambo,"[28, 53, 10752]",7555,81.477,2008-01-24,Rambo,6.673,3751
 488,86,ISFJ,16Personalities,Cogo,starzinger,Sci-Fi West Saga Starzinger,"[878, 16, 12]",466686,3.126,1979-03-17,Sci-Fi West Saga Starzinger,6.0,1
@@ -494,7 +494,7 @@
 492,87,INTP,16Personalities,Rico,starship troopers ,Starship Troopers,"[12, 28, 53, 878]",563,58.392,1997-11-07,Starship Troopers,7.057,4692
 493,87,INTP,16Personalities,V,V for vendetta ,V for Vendetta,"[28, 53, 878]",752,47.766,2006-02-23,V for Vendetta,7.9,14092
 494,87,INTP,16Personalities,Ripley,Alien,Alien,"[27, 878]",348,415.374,1979-05-25,Alien,8.153,13978
-495,87,INTP,16Personalities,Neo,The matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+495,87,INTP,16Personalities,Neo,The matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 496,88,INTP,16Personalities,Natasha Romanov,Avengers: Endgame,Avengers: Endgame,"[12, 878, 28]",299534,261.301,2019-04-24,Avengers: Endgame,8.254,24907
 497,88,INTP,16Personalities,Enola Holmes,Enola Holmes,Enola Holmes,"[12, 9648, 80]",497582,29.308,2020-09-23,Enola Holmes,7.287,5839
 498,88,INTP,16Personalities,Aragorn,The Lord of the Rings,The Lord of the Rings,"[12, 16, 14]",123,30.275,1978-11-15,The Lord of the Rings,6.555,841
@@ -503,19 +503,19 @@
 501,89,INTP,16Personalities,Emmet,Lego Movie,The Lego Batman Movie,"[16, 28, 35, 10751]",324849,97.419,2017-02-08,The Lego Batman Movie,7.218,4831
 502,89,INTP,16Personalities,Immortan Joe,Mad Max: Fury Road,Mad Max: Fury Road,"[28, 12, 878]",76341,526.132,2015-05-13,Mad Max: Fury Road,7.596,21779
 503,89,INTP,16Personalities,Thanos,Avengers: Infinity War,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
-504,89,INTP,16Personalities,Hannibal Lecter,Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.3,15780
+504,89,INTP,16Personalities,Hannibal Lecter,Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.347,15782
 505,89,INTP,16Personalities,Dr. Facilier,Princess and the Frog,The Princess and the Frog,"[16, 10749, 14, 10751]",10198,67.172,2009-12-08,The Princess and the Frog,7.205,5351
 506,90,ENFJ,michaelcaloz.com,Ferris Bueller ,Ferris Bueller's Day Off,Ferris Bueller's Day Off,[35],9377,30.596,1986-06-11,Ferris Bueller's Day Off,7.594,4730
 507,90,ENFJ,michaelcaloz.com,Inigo Montoya ,Princess Bride,The Princess Bride,"[12, 10751, 14, 35, 10749]",2493,28.2,1987-09-25,The Princess Bride,7.679,4387
 508,90,ENFJ,michaelcaloz.com,Mercutio ,Romeo + Juliet,Romeo + Juliet,"[18, 10749]",454,41.361,1996-11-01,Romeo + Juliet,6.796,4855
 509,90,ENFJ,michaelcaloz.com,Daphne ,Some Like it Hot,Some Like It Hot,"[35, 10749, 80]",239,38.926,1959-03-19,Some Like It Hot,8.101,3343
 510,91,ENFP,16Personalities,Anna,Frozen (2013),Frozen,"[16, 10751, 12, 14]",109445,98.308,2013-11-20,Frozen,7.247,16095
-511,91,ENFP,16Personalities,Louisa Clark,Me Before You,Me Before You,"[18, 10749]",296096,108.41,2016-06-01,Me Before You,7.926,12004
+511,91,ENFP,16Personalities,Louisa Lou Clark,Me Before You,Me Before You,"[18, 10749]",296096,108.41,2016-06-01,Me Before You,7.926,12004
 512,91,ENFP,16Personalities,Clementine,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,"[878, 18, 10749]",38,61.909,2004-03-19,Eternal Sunshine of the Spotless Mind,8.097,14427
 513,91,ENFP,16Personalities,Jo March,Little Women,Little Women,"[18, 10749]",331482,49.058,2019-12-25,Little Women,7.883,6054
 514,92,ISFP,I forgot :( sorry marco,Taki,Your Name,Your Name.,"[16, 10749, 18]",372058,80.282,2016-08-26,Your Name.,8.495,10981
-515,92,ISFP,I forgot :( sorry marco,Alex,"Red, White and Royal Blue (2023)","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
-516,92,ISFP,I forgot :( sorry marco,Henry,"Red, White and Royal Blue (2023)","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
+515,92,ISFP,I forgot :( sorry marco,Alex,"Red, White & Royal Blue (2023)","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
+516,92,ISFP,I forgot :( sorry marco,Henry,"Red, White & Royal Blue (2023)","Red, White & Royal Blue","[35, 10749]",930094,53.264,2023-07-27,"Red, White & Royal Blue",8.014,1142
 517,92,ISFP,I forgot :( sorry marco,Suzume,Suzume,Suzume,"[16, 18, 12, 14]",916224,60.514,2022-11-11,Suzume,7.997,1128
 518,93,INFP,16Personalities,Ishaan,Like stars on earth,Like Stars on Earth,[18],7508,19.828,2007-12-21,Like Stars on Earth,7.995,1110
 519,93,INFP,16Personalities,Evelyn,Salt (2010),Salt,"[28, 9648, 53]",27576,35.203,2010-07-21,Salt,6.412,5307
@@ -527,10 +527,10 @@
 525,94,INFP,16Personalities,estella miller,cruella,Cruella,"[35, 80]",337404,77.202,2021-05-26,Cruella,8.024,8996
 526,94,INFP,16Personalities,kevin khatchadourian,we need to talk about kevin,We Need to Talk About Kevin,"[18, 53]",71859,26.497,2011-09-28,We Need to Talk About Kevin,7.56,2704
 527,94,INFP,16Personalities,ben solo,the last jedi,Star Wars: The Last Jedi,"[12, 28, 878]",181808,70.433,2017-12-13,Star Wars: The Last Jedi,6.803,14867
-528,94,INFP,16Personalities,willy wonka,charlie and the chocolate factory ,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14731
-529,94,INFP,16Personalities,felonious gru,despicable me,Despicable Me,"[10751, 16, 35]",20352,85.745,2010-07-08,Despicable Me,7.2,14601
+528,94,INFP,16Personalities,willy wonka,charlie and the chocolate factory ,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,88.409,2005-07-13,Charlie and the Chocolate Factory,7.051,14732
+529,94,INFP,16Personalities,felonious gru,despicable me,Despicable Me,"[10751, 16, 35]",20352,85.745,2010-07-08,Despicable Me,7.235,14602
 530,94,INFP,16Personalities,flynn mcgarry,chef flynn,Chef Flynn,[99],493089,2.738,2018-01-23,Chef Flynn,6.3,6
-531,94,INFP,16Personalities,mulan,mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.9,9315
+531,94,INFP,16Personalities,mulan,mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.912,9316
 532,95,ENTP,Cognitive functions self-typing,Megamind,Megamind,Megamind,"[16, 28, 35, 10751, 878]",38055,67.346,2010-10-28,Megamind,6.986,6628
 533,95,ENTP,Cognitive functions self-typing,Lord Shen,Kung Fu Panda 2,Kung Fu Panda 2,"[16, 10751, 35]",49444,69.166,2011-05-25,Kung Fu Panda 2,7.019,6879
 534,95,ENTP,Cognitive functions self-typing,Miles Morales,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,"[16, 28, 12, 878]",324857,85.621,2018-12-06,Spider-Man: Into the Spider-Verse,8.404,15027
@@ -546,7 +546,7 @@
 544,97,INFJ,16Personalities,Albert Narracott,War Horse,War Horse,"[10752, 36, 18, 12]",57212,29.969,2011-12-25,War Horse,7.309,3296
 545,97,INFJ,16Personalities,Hector Rivera,Coco,Coco,"[10751, 16, 10402, 12]",354912,138.041,2017-10-27,Coco,8.213,18804
 546,97,INFJ,16Personalities,Richie Tozier,IT (2017),It,[27],346364,219.434,2017-09-06,It,7.24,18596
-547,97,INFJ,16Personalities,"Murphy ""Murph"" Cooper",Interstellar,Interstellar,"[12, 18, 878]",157336,397.384,2014-11-05,Interstellar,8.434,34409
+547,97,INFJ,16Personalities,Murphy Murph Cooper,Interstellar,Interstellar,"[12, 18, 878]",157336,397.384,2014-11-05,Interstellar,8.434,34409
 548,97,INFJ,16Personalities,Sirius Black,Harry Potter and Order of the Phoenix,Harry Potter and the Order of the Phoenix,"[12, 14]",675,102.837,2007-07-08,Harry Potter and the Order of the Phoenix,7.681,18934
 549,98,INFJ,academic setting - MBTI test,Yoda,Empire Strikes Back,The Empire Strikes Back,"[12, 28, 878]",1891,39.615,1980-05-20,The Empire Strikes Back,8.39,16473
 550,98,INFJ,academic setting - MBTI test,Theoden,The Two Towers,The Lord of the Rings: The Two Towers,"[12, 14, 28]",121,86.951,2002-12-18,The Lord of the Rings: The Two Towers,8.395,21184
@@ -562,7 +562,7 @@
 560,100,INFP,16Personalities,Megan Walsh,Barely Lethal,Barely Lethal,"[12, 35, 28, 10749]",248574,24.451,2015-04-23,Barely Lethal,5.735,1016
 561,100,INFP,16Personalities,The Female,Under the Skin,Under the Skin,"[53, 878, 18]",97370,27.013,2014-03-14,Under the Skin,6.12,3308
 562,100,INFP,16Personalities,Izzy,Izzy Gets the Fuck Across Town,Izzy Gets the F*ck Across Town,[35],373209,7.638,2018-06-22,Izzy Gets the F*ck Across Town,5.4,57
-563,101,ISTP,Sakinorva,Rick Deckard,Blade Runner (1982),Blade Runner,"[878, 18, 53]",78,103.676,1982-06-25,Blade Runner,7.9,13365
+563,101,ISTP,Sakinorva,Rick Deckard,Blade Runner (1982),Blade Runner,"[878, 18, 53]",78,103.676,1982-06-25,Blade Runner,7.936,13367
 564,101,ISTP,Sakinorva,John McClane,Die Hard (1988),Die Hard,"[28, 53]",562,70.738,1988-07-15,Die Hard,7.787,10784
 565,101,ISTP,Sakinorva,Postal Dude,Postal (2007),Postal,"[35, 28, 80, 12, 53]",2728,14.323,2007-10-18,Postal,4.602,322
 566,101,ISTP,Sakinorva,Eric Draven,The Crow (1994),The Crow,"[14, 28, 53]",9495,54.672,1994-05-11,The Crow,7.526,3787
@@ -583,7 +583,7 @@
 581,104,ENTJ,16Personalities,Willy Wonka,Wonka,Wonka,"[35, 10751, 14]",787699,346.81,2023-12-06,Wonka,7.168,3009
 582,104,ENTJ,16Personalities,Flynn Rider,Tangled,Tangled,"[16, 10751]",38757,104.931,2010-11-24,Tangled,7.607,11076
 583,105,INFP,michaelcaloz.com,Vito Corleone,The Godfather,The Godfather,"[18, 80]",238,148.891,1972-03-14,The Godfather,8.7,19870
-584,105,INFP,michaelcaloz.com,Ashitaka,Princess Mononoke,Princess Mononoke,"[12, 14, 16]",128,54.746,1997-07-12,Princess Mononoke,8.34,7694
+584,105,INFP,michaelcaloz.com,Ashitaka,Princess Mononoke,Princess Mononoke,"[12, 14, 16]",128,54.746,1997-07-12,Princess Mononoke,8.34,7695
 585,105,INFP,michaelcaloz.com,Paul Atreides,Dune,Dune,"[878, 12]",438631,572.488,2021-09-15,Dune,7.779,11723
 586,105,INFP,michaelcaloz.com,Dale Cooper,Fire walk with me,Twin Peaks: Fire Walk with Me,"[18, 9648, 27]",1923,25.881,1992-06-03,Twin Peaks: Fire Walk with Me,7.3,1826
 587,106,ENTJ,16Personalities,Emperor Palpatine,Star Wars,Star Wars,"[12, 28, 878]",11,420.428,1977-05-25,Star Wars,8.203,20037
@@ -605,7 +605,7 @@
 603,107,INFP,Sakinorva,Indiana Jones,Indiana Jones,Indiana Jones and the Dial of Destiny,"[12, 28]",335977,95.297,2023-06-25,Indiana Jones and the Dial of Destiny,6.598,3066
 604,107,INFP,Sakinorva,Rocky,Rocky (1976),Rocky,[18],1366,380.308,1976-11-20,Rocky,7.8,7557
 605,107,INFP,Sakinorva,Harry Potter,Harry Potter and the Philosopher's Stone,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
-606,107,INFP,Sakinorva,Batman,The Batman ,The Batman,"[80, 9648, 53]",414906,461.148,2022-03-01,The Batman,7.678,9613
+606,107,INFP,Sakinorva,Batman,The Batman ,The Batman,"[80, 9648, 53]",414906,461.148,2022-03-01,The Batman,7.678,9616
 607,108,ESTP,Cognitive functions self-typing,Hans,Frozen II,Frozen II,"[10751, 16, 12, 35, 14]",330457,94.806,2019-11-20,Frozen II,7.261,9454
 608,108,ESTP,Cognitive functions self-typing,Jillian Holtzmann,Ghostbusters (2016),Ghostbusters,"[28, 14, 35]",43074,408.266,2016-07-14,Ghostbusters,5.357,6233
 609,108,ESTP,Cognitive functions self-typing,Ken,Barbie,Barbie,"[35, 12]",346698,467.396,2023-07-19,Barbie,7.1,8319
@@ -618,13 +618,13 @@
 616,109,ESTJ,16Personalities,Joker,The Dark Knight (2008),The Dark Knight,"[18, 28, 80, 53]",155,97.679,2008-07-16,The Dark Knight,8.515,31971
 617,109,ESTJ,16Personalities,Hades,Hercules,Hercules,"[16, 10751, 14, 12, 35, 10749]",11970,76.442,1997-06-13,Hercules,7.5,7110
 618,109,ESTJ,16Personalities,Scar,The Lion King,The Lion King,"[12, 18, 10751, 16]",420818,263.961,2019-07-12,The Lion King,7.114,9703
-619,109,ESTJ,16Personalities,Hannibal Lecter,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.3,15780
+619,109,ESTJ,16Personalities,Hannibal Lecter,The Silence of the Lambs,The Silence of the Lambs,"[80, 18, 53]",274,14.153,1991-02-14,The Silence of the Lambs,8.347,15782
 620,109,ESTJ,16Personalities,Magenta,The Rocky Horror Picture Show,The Rocky Horror Picture Show,"[35, 878, 14, 27]",36685,16.067,1975-08-14,The Rocky Horror Picture Show,7.459,2699
 621,110,ENTJ,16Personalities,J Robert Oppenheimer,Oppenheimer,Oppenheimer,"[18, 36]",872585,567.454,2023-07-19,Oppenheimer,8.101,8121
 622,110,ENTJ,16Personalities,Mitsuha and Taki,Your Name,Your Name.,"[16, 10749, 18]",372058,80.282,2016-08-26,Your Name.,8.495,10981
 623,110,ENTJ,16Personalities,Tony Stark,Iron Man 3,Iron Man 3,"[28, 12, 878]",68721,259.122,2013-04-18,Iron Man 3,6.928,21702
 624,110,ENTJ,16Personalities,Noah Calhoun,The Notebook,The Notebook,"[10749, 18]",11036,74.908,2004-06-25,The Notebook,7.888,11128
-625,111,ENTP,Cognitive functions self-typing,Batman,Batman (2022),The Batman,"[80, 9648, 53]",414906,461.148,2022-03-01,The Batman,7.678,9613
+625,111,ENTP,Cognitive functions self-typing,Batman,Batman (2022),The Batman,"[80, 9648, 53]",414906,461.148,2022-03-01,The Batman,7.678,9616
 626,111,ENTP,Cognitive functions self-typing,Captain America,Captain America ,Captain America: Civil War,"[12, 28, 878]",271110,128.233,2016-04-27,Captain America: Civil War,7.442,22192
 627,111,ENTP,Cognitive functions self-typing,Olive Penderghast,Easy A,Easy A,[35],37735,47.298,2010-09-16,Easy A,6.81,6730
 628,111,ENTP,Cognitive functions self-typing,Percy Jackson,Percy Jackson And The Lightning Thief,Percy Jackson & the Olympians: The Lightning Thief,"[12, 14, 10751]",32657,58.54,2010-02-01,Percy Jackson & the Olympians: The Lightning Thief,6.216,7247
@@ -635,12 +635,12 @@
 633,112,ENFJ,16Personalities,Westley,The Princess Bride,The Princess Bride,"[12, 10751, 14, 35, 10749]",2493,28.2,1987-09-25,The Princess Bride,7.679,4387
 634,112,ENFJ,16Personalities,Mikey,Goonies,The Goonies,"[12, 35, 10751]",9340,71.595,1985-06-07,The Goonies,7.516,5511
 635,112,ENFJ,16Personalities,Caractacus Potts,Chitty Chitty Bang Bang,Chitty Chitty Bang Bang,"[10751, 10402, 12, 14, 35]",11708,19.331,1968-12-17,Chitty Chitty Bang Bang,6.819,623
-636,112,ENFJ,16Personalities,Indiana Jones,Raiders of the Lost Ark,Raiders of the Lost Ark,"[12, 28]",85,61.145,1981-06-12,Raiders of the Lost Ark,7.926,12050
+636,112,ENFJ,16Personalities,Indiana Jones,Raiders of the Lost Ark,Raiders of the Lost Ark,"[12, 28]",85,61.145,1981-06-12,Raiders of the Lost Ark,7.926,12051
 637,112,ENFJ,16Personalities,Leia Organa,Star Wars,Star Wars,"[12, 28, 878]",11,420.428,1977-05-25,Star Wars,8.203,20037
 638,112,ENFJ,16Personalities,Maria Von Trapp,The Sound of Music,The Sound of Music,"[18, 10751, 10402, 10749]",15121,77.22,1965-03-29,The Sound of Music,7.7,3145
 639,112,ENFJ,16Personalities,Samwise Gamgee,Lord of The Rings,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]",120,132.238,2001-12-18,The Lord of the Rings: The Fellowship of the Ring,8.412,24376
 640,112,ENFJ,16Personalities,Inigo Montoya,The Princess Bride,The Princess Bride,"[12, 10751, 14, 35, 10749]",2493,28.2,1987-09-25,The Princess Bride,7.679,4387
-641,113,ENFJ,16Personalities,Mulan,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.9,9315
+641,113,ENFJ,16Personalities,Mulan,Mulan,Mulan,"[16, 10751, 12]",10674,87.809,1998-06-18,Mulan,7.912,9316
 642,113,ENFJ,16Personalities,Chris Gardner,Pursuit of Happiness,Pursuit of Happiness,[35],210937,2.678,2001-01-17,Pursuit of Happiness,4.5,2
 643,113,ENFJ,16Personalities,Andrea Sachs,Devil Wears Prada,The Devil Wears Prada,"[18, 35]",350,70.545,2006-06-29,The Devil Wears Prada,7.395,11672
 644,113,ENFJ,16Personalities,Marilou,Barber's Tales,Barber's Tales,[18],223965,8.553,2013-10-18,Barber's Tales,7.6,5
@@ -658,7 +658,7 @@
 656,115,ENFJ,all,Lena,Sisterhood of the Traveling Pants,The Sisterhood of the Traveling Pants,"[18, 35, 10749]",9779,19.088,2005-06-01,The Sisterhood of the Traveling Pants,6.5,1248
 657,115,ENFJ,all,Allie,The Notebook,The Notebook,"[10749, 18]",11036,74.908,2004-06-25,The Notebook,7.888,11128
 658,116,ENTJ,Cognitive functions self-typing,Mary Darling,Peter Pan (2003),Peter Pan,"[12, 14, 10751]",10601,38.298,2003-12-18,Peter Pan,7.177,2536
-659,116,ENTJ,Cognitive functions self-typing,Tsu'tey,Avatar,Avatar,"[28, 12, 14, 878]",19995,150.474,2009-12-15,Avatar,7.581,30870
+659,116,ENTJ,Cognitive functions self-typing,Tsu'tey,Avatar,Avatar,"[28, 12, 14, 878]",19995,150.474,2009-12-15,Avatar,7.581,30872
 660,116,ENTJ,Cognitive functions self-typing,Hobie Brown,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,"[16, 28, 12, 878]",569094,184.178,2023-05-31,Spider-Man: Across the Spider-Verse,8.363,6293
 661,116,ENTJ,Cognitive functions self-typing,Jane Eyre,Jane Eyre,Jane Eyre,"[18, 10749]",38684,19.49,2011-03-11,Jane Eyre,7.211,1410
 662,116,ENTJ,Cognitive functions self-typing,Oliver Wood,Harry Potter,Harry Potter and the Philosopher's Stone,"[12, 14]",671,157.047,2001-11-16,Harry Potter and the Philosopher's Stone,7.913,26582
@@ -682,9 +682,9 @@
 680,119,ISFP,16Personalities,Gandalf,Lord Of The Rings,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]",120,132.238,2001-12-18,The Lord of the Rings: The Fellowship of the Ring,8.412,24376
 681,119,ISFP,16Personalities,Tintin,The Adventures Of Tintin,The Adventures of Tintin,"[12, 16, 9648]",17578,29.372,2011-10-24,The Adventures of Tintin,6.896,5221
 682,119,ISFP,16Personalities,Captain America,Captain America: The First Avenger (2011),Captain America: The First Avenger,"[28, 12, 878]",1771,46.671,2011-07-22,Captain America: The First Avenger,7.0,20928
-683,119,ISFP,16Personalities,Ip Man,Ip Man (2008),Ip Man,"[18, 28, 36]",14756,17.276,2008-12-12,Ip Man,7.8,3647
+683,119,ISFP,16Personalities,Ip Man,Ip Man (2008),Ip Man,"[18, 28, 36]",14756,17.276,2008-12-12,Ip Man,7.75,3648
 684,120,ISTP,16Personalities,The Big Friendly Giant,The BFG,The BFG,"[12, 10751, 14]",267935,45.755,2016-06-01,The BFG,6.268,3252
-685,120,ISTP,16Personalities,Peter Quill,Guardians of the Galaxy,Guardians of the Galaxy,"[28, 878, 12]",118340,56.404,2014-07-30,Guardians of the Galaxy,7.908,27451
+685,120,ISTP,16Personalities,Peter Quill,Guardians of the Galaxy,Guardians of the Galaxy,"[28, 878, 12]",118340,56.404,2014-07-30,Guardians of the Galaxy,7.908,27452
 686,120,ISTP,16Personalities,Tony Stark,Avengers,Avengers: Infinity War,"[12, 28, 878]",299536,289.148,2018-04-25,Avengers: Infinity War,8.247,28915
 687,120,ISTP,16Personalities,Colt Seavers,The Fall Guy,The Fall Guy,"[28, 35]",746036,2319.708,2024-04-24,The Fall Guy,7.375,763
 688,120,ISTP,16Personalities,Katniss Everdeen,The Hunger Games (2012),The Hunger Games,"[878, 12, 14]",70160,35.697,2012-03-12,The Hunger Games,7.207,21465
@@ -698,7 +698,7 @@
 696,122,ESTJ,Cognitive functions self-typing,Terminator T-800 Uncle Bob,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,"[28, 53, 878]",296,37.097,2003-07-02,Terminator 3: Rise of the Machines,6.159,6400
 697,123,ENFP,michaelcaloz.com,Miles Morales,Into the Spider-Verse,Spider-Man: Into the Spider-Verse,"[16, 28, 12, 878]",324857,85.621,2018-12-06,Spider-Man: Into the Spider-Verse,8.404,15027
 698,123,ENFP,michaelcaloz.com,Uta,One Piece Film: Red,One Piece Film Red,"[16, 12, 28, 14, 10402]",900667,56.687,2022-08-06,One Piece Film Red,7.266,903
-699,123,ENFP,michaelcaloz.com,Agent Smith,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24925
+699,123,ENFP,michaelcaloz.com,Agent Smith,The Matrix,The Matrix,"[28, 878]",603,437.128,1999-03-31,The Matrix,8.216,24928
 700,123,ENFP,michaelcaloz.com,Daniel Plainview,There Will Be Blood,There Will Be Blood,[18],7345,30.089,2007-12-26,There Will Be Blood,8.083,6357
 701,123,ENFP,michaelcaloz.com,The Baby,Eraserhead,Eraserhead,"[14, 27]",985,61.787,1978-02-03,Eraserhead,7.386,2305
 702,123,ENFP,michaelcaloz.com,Patrick Bateman,American Psycho,American Psycho,"[53, 18, 80]",1359,92.28,2000-04-13,American Psycho,7.402,10487

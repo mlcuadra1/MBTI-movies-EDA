@@ -761,7 +761,7 @@ Manny Torres,Babylon,INFJ,195
 Jack Conrad,Babylon,ESTP,150
 Elinor St John,Babylon,ENTJ,37
 Robert Roy,Babylon,ESFP,26
-Dr Emmett Doc Brown,Back to the Future (Series),ENTP,1300
+Dr Emmett Doc Brown,"['Back to the Future', 'Back to the Future Part II', 'Back to the Future Part III']",ENTP,1300
 Marty McFly,"['Back to the Future', 'Back to the Future Part II', 'Back to the Future Part III']",ESFP,897
 George McFly,"['Back to the Future', 'Back to the Future Part II', 'Back to the Future Part III']",INTP,608
 Biff Tannen,"['Back to the Future', 'Back to the Future Part II', 'Back to the Future Part III']",ESTP,447
@@ -993,13 +993,13 @@ Bruce Wayne Batman,Batman (1966),INTJ,105
 The Joker,Batman (1966),ENTP,81
 The Riddler,Batman (1966),ENTP,46
 Barbara Gordon  Batgirl,Batman (1966),ENFJ,32
-Bruce Wayne Batman,Batman (1989-1992),INTJ,296
-Jack Napier Joker,Batman (1989-1992),ENTJ,276
-Oswald Cobblepot The Penguin,Batman (1989-1992),ENFP,144
-Selina Kyle Catwoman,Batman (1989-1992),ESTP,132
-Max Shreck,Batman (1989-1992),ENTJ,64
-Vicki Vale,Batman (1989-1992),INFJ,39
-Alfred Pennyworth,Batman (1989-1992),ISFJ,36
+Bruce Wayne Batman,"['Batman (1989)', 'Batman Returns (1992)']",INTJ,296
+Jack Napier Joker,"['Batman (1989)', 'Batman Returns (1992)']",ENTJ,276
+Oswald Cobblepot The Penguin,"['Batman (1989)', 'Batman Returns (1992)']",ENFP,144
+Selina Kyle Catwoman,"['Batman (1989)', 'Batman Returns (1992)']",ESTP,132
+Max Shreck,"['Batman (1989)', 'Batman Returns (1992)']",ENTJ,64
+Vicki Vale,"['Batman (1989)', 'Batman Returns (1992)']",INFJ,39
+Alfred Pennyworth,"['Batman (1989)', 'Batman Returns (1992)']",ISFJ,36
 Margaret,Batman Forever (1995),ISTJ,192
 Dr Burton,Batman Forever (1995),INFJ,145
 Edward Nygma  The Riddler,Batman Forever (1995),ENTP,88
@@ -1456,12 +1456,12 @@ James Montgomery Falsworth Union Jack,Captain America: The First Avenger (2011),
 Ben Cash,Captain Fantastic (2016),INTJ,150
 Bodevan Cash,Captain Fantastic (2016),INFP,63
 Captain Richard Phillips,Captain Phillips (2013),ISTJ,27
-John Smith,"['Pitch Perfect', 'Pitch Perfect 2']",ENTP,74
+John Smith,Captain Pineapple,ENTP,74
 Sturmwaffel,Captain Pineapple,ISFJ,34
-Melvin Sneedly,Captain Underpants (movie),ISTJ,110
-Captain Underpants,Captain Underpants (movie),ENFP,36
-Professor Pee-Pee Diarrheastein Poopypants Esquire,Captain Underpants (movie),INTJ,35
-George Beard,Captain Underpants (movie),ENTP,30
+Melvin Sneedly,Captain Underpants: The First Epic Movie,ISTJ,110
+Captain Underpants,Captain Underpants: The First Epic Movie,ENFP,36
+Professor Pee-Pee Diarrheastein Poopypants Esquire,Captain Underpants: The First Epic Movie,INTJ,35
+George Beard,Captain Underpants: The First Epic Movie,ENTP,30
 Lady Di,Carandiru (2003),ISFP,78
 Doctor,Carandiru (2003),INTP,33
 Josie McClellan,Career Opportunities (1991),INFP,38
@@ -1756,7 +1756,7 @@ Jesse,C'mon C'mon,ENTP,53
 Ken Carter,Coach Carter,ENTJ,31
 Syd Dentwood,Cocaine Bear (2023),ESTP,48
 Miguel Rivera,Coco (2017),ESFP,795
-Hctor,Coco (2017),ENTP,635
+Hector Rivera,Coco (2017),ENTP,635
 Ernesto de la Cruz,Coco (2017),ESTP,589
 Mam Imelda,Coco (2017),ESTJ,271
 Abuelita Elena,Coco (2017),ESTJ,226
@@ -2650,7 +2650,7 @@ Beck Weathers,Everest,ESTP,63
 Philo Beddoe,Every Which Way but Loose (1978),ISTP,63
 Nesbit,Everybody wants some!! (2016),ENTP,78
 Djuna DJ Berlin,Everyone Says I Love You (1996),ENFP,43
-Waymond Wang,Everything Everywhere All At Once,INFP,1100
+Waymond Wang,Everything Everywhere All at Once,INFP,1100
 Evelyn Wang,Everything Everywhere All At Once,ESTJ,1000
 Jobu Tupaki,Everything Everywhere All At Once,ISFP,1000
 Joy Wang,Everything Everywhere All At Once,ISFP,427
@@ -3060,6 +3060,7 @@ Eran Kuneri,G.O.R.A. (2004),ESTP,33
 Yeliz,Görümce,ESTJ,31
 Brandon,Galaxy Quest (1999),INTP,84
 Tommy Webber,Galaxy Quest (1999),ISFJ,50
+Alexander Dane,Galaxy Quest (1999),ISTJ,23
 Milena Trecz,Galerianki (Mall Girls),ESTP,36
 Max Davis,Game Night (2018),INTP,178
 Annie Davis,Game Night (2018),ENFP,71
@@ -3151,6 +3152,7 @@ Georgina Tuskin,"Girl, Interrupted (1999)",INFJ,206
 Polly Torch Clark,"Girl, Interrupted (1999)",ISFJ,95
 Valerie Owens,"Girl, Interrupted (1999)",ENFJ,94
 Cynthia Crowley,"Girl, Interrupted (1999)",INFJ,26
+Maximus Decimus Meridius,Gladiator (2000),ISTJ,987
 Commodus,Gladiator (2000),ENFJ,523
 Marcus Aurelius,Gladiator (2000),INFJ,130
 Juba,Gladiator (2000),ISFJ,45
@@ -3544,7 +3546,7 @@ Amy,Her (2013),INFP,59
 Raju,Hera Pheri (2000),ENTP,40
 King Cotys of Thrace,Hercules (2014),ENTJ,41
 Megara,['Hercules: Zero to Hero'],ISTP,1400
-Hades,"['Descendants 3', 'Descendants: The Rise of Red']",ENTP,1300
+Hades,"['Hercules', 'Hercules: Zero to Hero']",ENTP,1300
 Hercules,"['Hercules', 'Hercules: Zero to Hero']",ESFJ,839
 Philoctetes,"['Hercules', 'Hercules: Zero to Hero']",ESTJ,156
 Zeus,"['Hercules', 'Hercules: Zero to Hero']",ESTP,133
@@ -4880,7 +4882,7 @@ Belle Blake,Malavita: The Family,ENFJ,71
 Fred Blake,Malavita: The Family,ENTJ,33
 Marie Jones,Malcolm & Marie (2021),INFJ,429
 Malcolm Elliott,Malcolm & Marie (2021),ENFP,268
-Maleficent,"['Descendants', 'Descendants: The Rise of Red']",INTJ,1500
+Maleficent,Maleficent (2014),INTJ,1500
 Aurora,Maleficent (2014),INFP,545
 Diaval,Maleficent (2014),ISFP,123
 Prince Phillip,Maleficent (2014),ESFJ,110
@@ -6343,7 +6345,7 @@ Brittany,Pretty Persuasion (2005),ESFP,29
 Vivian Ward,Pretty Woman (1990),ESFP,599
 Edward Lewis,Pretty Woman (1990),ISTJ,212
 Bernard Thomson,Pretty Woman (1990),INFJ,31
-Georgiana Darcy,Pride and Prejudice (2005),INFP,61
+Georgiana Darcy,Pride and Prejudice (1995),INFP,61
 Elizabeth Bennet,Pride and Prejudice (2005),ENFP,1900
 Fitzwilliam Darcy,Pride and Prejudice (2005),INTJ,1600
 Jane Bennet,Pride and Prejudice (2005),ISFJ,581
@@ -6530,11 +6532,11 @@ Red ShoesSnow White,Red Shoes & The Seven Dwarfs (2019),ISFJ,267
 Merlin,Red Shoes & The Seven Dwarfs (2019),ENTP,217
 Sofia Hamadi,Red Soil,ENFP,40
 Dominika Egorova,Red Sparrow (2018),INTJ,58
-Henry Of Wales,"Red, White and Royal Blue (2023)",INFJ,374
-Alex Claremont-Diaz,"Red, White and Royal Blue (2023)",ENTP,373
-Zahra Bankston,"Red, White and Royal Blue (2023)",ESTJ,48
-Ellen Claremont,"Red, White and Royal Blue (2023)",ENTJ,43
-Nora Holleran,"Red, White and Royal Blue (2023)",ESFP,34
+Henry Of Wales,"Red, White & Royal Blue (2023)",INFJ,374
+Alex Claremont-Diaz,"Red, White & Royal Blue (2023)",ENTP,373
+Zahra Bankston,"Red, White & Royal Blue (2023)",ESTJ,48
+Ellen Claremont,"Red, White & Royal Blue (2023)",ENTJ,43
+Nora Holleran,"Red, White & Royal Blue (2023)",ESFP,34
 Bryan Sugarman,Reign Over Me,ESTJ,42
 Angela Oakhurst,Reign Over Me,ISFJ,30
 Tyler Keats Hawkins,Remember Me (2010),INFJ,130
@@ -7102,7 +7104,7 @@ Tommy Marcano,Sleepers (1996),ISTP,105
 Michael Sullivan,Sleepers (1996),ENTJ,31
 Father Bobby,Sleepers (1996),ENFJ,30
 Princess Aurora,Sleeping Beauty (1959),INFP,1900
-Maleficent,"['Descendants', 'Descendants: The Rise of Red']",INTJ,969
+Maleficent,Sleeping Beauty (1959),INTJ,969
 Prince Phillip,Sleeping Beauty (1959),ENFJ,325
 Merryweather,Sleeping Beauty (1959),ISTP,206
 Fauna,Sleeping Beauty (1959),ISFJ,202
@@ -7332,6 +7334,7 @@ Leia Organa,"['Star Wars', 'Star Wars: Episode III - Revenge of the Sith', 'Star
 Emperor Palpatine Darth Sidious,"['Return of the Jedi', 'Star Wars: The Rise of Skywalker']",INTJ,2600
 Ben Solo Kylo Ren,"['Star Wars: The Force Awakens', 'Star Wars: The Last Jedi', 'Star Wars: The Rise of Skywalker']",INFP,2500
 Han Solo,"['Star Wars', 'The Empire Strikes Back', 'Return of the Jedi', 'Star Wars: The Force Awakens', 'Star Wars: The Rise of Skywalker', 'Solo: A Star Wars Story']",ESTP,2400
+Yoda,"['Star Wars', 'The Empire Strikes Back', 'Return of the Jedi', 'Star Wars: Episode III - Revenge of the Sith', 'Star Wars: The Force Awakens', 'Star Wars: The Last Jedi', 'Star Wars: The Rise of Skywalker']",INTP,1900
 Padm Amidala,Star Wars,ENFJ,1600
 Rey Skywalker,Star Wars,ISFP,1400
 Qui-Gon Jinn,"['Star Wars: Episode I - The Phantom Menace', 'Star Wars: The Rise of Skywalker']",INFJ,1000
@@ -7812,11 +7815,11 @@ Prospector,The Ballad of Buster Scruggs (2018),ESFP,116
 Cowboy,The Ballad of Buster Scruggs (2018),INTP,59
 Harrison Artist,The Ballad of Buster Scruggs (2018),INFP,43
 Impresario,The Ballad of Buster Scruggs (2018),ISTP,31
-Coriolanus Coryo Snow,The Ballad of Songbirds and Snakes (2023),ENTJ,1700
-Tigris Snow,The Ballad of Songbirds and Snakes (2023),INFJ,307
-Sejanus Plinth,The Ballad of Songbirds and Snakes (2023),INFP,299
-Dr Volumnia Gaul,The Ballad of Songbirds and Snakes (2023),INTP,112
-Reaper Ash,The Ballad of Songbirds and Snakes (2023),ISTP,37
+Coriolanus Coryo Snow,The Hunger Games: The Ballad of Songbirds & Snakes,ENTJ,1700
+Tigris Snow,The Hunger Games: The Ballad of Songbirds & Snakes,INFJ,307
+Sejanus Plinth,The Hunger Games: The Ballad of Songbirds & Snakes,INFP,299
+Dr Volumnia Gaul,The Hunger Games: The Ballad of Songbirds & Snakes,INTP,112
+Reaper Ash,The Hunger Games: The Ballad of Songbirds & Snakes,ISTP,37
 Colm Doherty,The Banshees of Inisherin (2022),INTJ,244
 Siobhn Silleabhin,The Banshees of Inisherin (2022),INFJ,132
 Dominic Kearney,The Banshees of Inisherin (2022),ESFP,79
@@ -8741,7 +8744,8 @@ Hawkeye Nathaniel Poe,The Last of the Mohicans (1992),ISTP,48
 Alice Munro,The Last of the Mohicans (1992),INFP,33
 Ruth Popper,The Last Picture Show (1971),ISFJ,37
 So Takeyuki,The Last Princess (2016),ISFP,26
-Lord Katsumoto Moritsugu,The Last Samurai (2003),INFJ,66
+Nathan Algren,The Last Samurai (2003),ISTP,123
+Lord Katsumoto Moritsugu,The Last Samurai (2003),ISTP,66
 Mr Omura,The Last Samurai (2003),ENTJ,33
 Taka,The Last Samurai (2003),ISFJ,28
 Veronica Ronnie L Miller,The Last Song (2010),ISFP,28
@@ -8884,7 +8888,7 @@ Frodo Baggins,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord o
 Samwise Sam Gamgee,The Lord of the Rings (Film Trilogy),ISFJ,1300
 Galadriel,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INFJ,908
 Boromir,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ESFJ,887
-Legolas Greenleaf,The Lord of the Rings (Film Trilogy),ISFP,844
+Legolas Greenleaf,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ISFP,844
 Saruman the White,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INTJ,790
 Arwen Undmiel,The Lord of the Rings (Film Trilogy),INFP,670
 owyn,"['The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ISFP,528
@@ -9779,6 +9783,7 @@ Valentine Dussaut,['Three Colors: Red'],INFP,36
 Hugo Hache Olivera,Three Steps Above Heaven (Tres metros sobre el cielo),ESTP,68
 Brbara Babi Alczar,Three Steps Above Heaven (Tres metros sobre el cielo),ISTJ,55
 Alithea,Three Thousand Years of Longing (2022),INTP,44
+The Djinn,Three Thousand Years of Longing (2022),INTP,44
 Lady Asaji Washizu,Throne of Blood (1957) (蜘蛛巣城),INTJ,30
 Taketoki Washizu,Throne of Blood (1957) (蜘蛛巣城),ESFP,28
 Ares Hidalgo,Through My Window (a través de mi ventana),ISTP,237
@@ -9976,6 +9981,7 @@ Grimlock,Transformers (Bayverse),ISTP,34
 Ratchet,"['Transformers', 'Transformers: Revenge of the Fallen', 'Transformers: Dark of the Moon', 'Transformers: Age of Extinction', 'Bumblebee']",ISFJ,30
 Tessa Yeager,['Transformers: Age of Extinction'],ISFP,30
 Shockwave,"['Transformers: Dark of the Moon', 'Bumblebee']",INTJ,27
+Soundwave,"['Transformers: Dark of the Moon', 'Bumblebee']",ISTJ,24
 Mirage,['The Incredibles'],ENTP,148
 Noah Diaz,Transformers: Rise of the Beasts,ISFP,85
 Unicron,Transformers: Rise of the Beasts,ENTJ,61

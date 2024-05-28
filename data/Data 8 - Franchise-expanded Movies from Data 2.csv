@@ -1190,20 +1190,20 @@ Patrice Dumas,BlacKkKlansman (2018),ENFJ,72
 Ron Stallworth,BlacKkKlansman (2018),ESTP,71
 Flip Zimmerman,BlacKkKlansman (2018),ISTP,67
 Blade,Blade (1998),ISTP,99
-Officer K  Joe,Blade Runner,ISTJ,971
-Roy Batty,Blade Runner,INTJ,477
-Rick Deckard,Blade Runner,ISTP,440
-Joi,Blade Runner,ENFJ,389
-Niander Wallace,Blade Runner,INTJ,227
-Dr Ana Stelline,Blade Runner,INFP,216
-Luv,Blade Runner,ISTJ,204
-Rachael,Blade Runner,ISTJ,158
-Mariette,Blade Runner,ESFP,94
-Eldon Tyrell,Blade Runner,INTJ,90
-JF Sebastian,Blade Runner,ISFJ,66
-Priscilla Pris Stratton,Blade Runner,ISFP,61
-Leon Kowalski,Blade Runner,ISTP,43
-Eduardo Gaff,Blade Runner,INFJ,42
+Officer K Joe,"['Blade Runner', 'Blade Runner 2049']]",ISTJ,971
+Roy Batty,"['Blade Runner', 'Blade Runner 2049']]",INTJ,477
+Rick Deckard,"['Blade Runner', 'Blade Runner 2049']]",ISTP,440
+Joi,"['Blade Runner', 'Blade Runner 2049']]",ENFJ,389
+Niander Wallace,"['Blade Runner', 'Blade Runner 2049']]",INTJ,227
+Dr Ana Stelline,"['Blade Runner', 'Blade Runner 2049']]",INFP,216
+Luv,"['Blade Runner', 'Blade Runner 2049']]",ISTJ,204
+Rachael,"['Blade Runner', 'Blade Runner 2049']]",ISTJ,158
+Mariette,"['Blade Runner', 'Blade Runner 2049']]",ESFP,94
+Eldon Tyrell,"['Blade Runner', 'Blade Runner 2049']]",INTJ,90
+JF Sebastian,"['Blade Runner', 'Blade Runner 2049']]",ISFJ,66
+Priscilla Pris Stratton,"['Blade Runner', 'Blade Runner 2049']]",ISFP,61
+Leon Kowalski,"['Blade Runner', 'Blade Runner 2049']]",ISTP,43
+Eduardo Gaff,"['Blade Runner', 'Blade Runner 2049']]",INFJ,42
 Charles Chazz Michael Michaels,Blades of Glory (2007),ESTP,30
 Calvin Webber,Blast from the Past (1999),ENTP,29
 Sheriff Bart,Blazing Saddles,ENTP,48
@@ -1848,6 +1848,12 @@ Nell Van Dort,Corpse Bride (2005),ESFJ,35
 Quinn Harris,Countdown (2019),ENTP,51
 Dr Sullivan,Countdown (2019),ENFJ,28
 Lucy,Couples Retreat,INTJ,115
+Spike Spiegel,Cowboy Bebop: The Movie,ISTP,2700
+Faye Valentine,Cowboy Bebop: The Movie,ESTP,1800
+Vicious,Cowboy Bebop: The Movie,INTJ,541
+Radical Edward,Cowboy Bebop: The Movie,ENTP,1000
+Julia,Cowboy Bebop: The Movie,INFJ,213
+Jet Black,Cowboy Bebop: The Movie,ISTJ,708
 Lil,Coyote Ugly (2000),ENTJ,107
 Miss G Gribben,Cracks (2009),ENFJ,51
 Fiamma Coronna,Cracks (2009),INFP,43
@@ -1986,7 +1992,7 @@ Fred OBannion,Dazed and Confused (1993),ESTP,34
 Benny ODonnell,Dazed and Confused (1993),ESTJ,28
 Kevin Pickford,Dazed and Confused (1993),ESTP,28
 Jodi Kramer,Dazed and Confused (1993),ESFJ,28
-Harleen Quinzel Harley Quinn,"['Suicide Squad', 'The Suicide Squad']",ENFP,3000
+Harley Quinn,"['Suicide Squad', 'The Suicide Squad', 'Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)']",ENFP,3000
 Diana Prince Wonder Woman,"['Justice League', 'Batman v Superman: Dawn of Justice', 'Wonder Woman', 'The Flash', 'Wonder Woman 1984', 'Shazam! Fury of the Gods']",ENFJ,1200
 Barry Allen The Flash,"['Justice League', 'Batman v Superman: Dawn of Justice', 'Suicide Squad', 'The Flash']",INFP,987
 Bruce Wayne Batman,"['Justice League', 'Batman v Superman: Dawn of Justice', 'Suicide Squad', 'The Flash']",INTJ,956
@@ -2094,19 +2100,18 @@ Thomas Perry,Dead Poets Society (1989),ESTJ,195
 Mr Nolan,Dead Poets Society (1989),ISTJ,65
 Chet Danburry,Dead Poets Society (1989),ESTP,49
 Stick,Dead Poets Society (1989),INFJ,33
-Wade Wilson Deadpool,Deadpool (2016),ENTP,3000
-Vanessa Carlysle,Deadpool (2016),INFJ,309
+Wade Wilson Deadpool,"['Deadpool (2016)', 'Deadpool 2 (2018)']",ENTP,3000
+Vanessa Carlysle,"['Deadpool (2016)', 'Deadpool 2 (2018)']",INFJ,309
 Francis Freeman Ajax,Deadpool (2016),ISTP,202
-Pietr Rasputin Colossus,Deadpool (2016),ISFJ,200
+Pietr Rasputin Colossus,"['Deadpool (2016)', 'Deadpool 2 (2018)']",ISFJ,200
 Firefist,Deadpool (2016),ISFP,180
-Negasonic Teenage Warhead,Deadpool (2016),ISTP,154
-Domino,Deadpool (2016),ISTP,133
-Cable,Deadpool (2016),ESTJ,130
+Negasonic Teenage Warhead,"['Deadpool (2016)', 'Deadpool 2 (2018)']",ISTP,154
+Domino,['Deadpool 2 (2018)'],ISTP,133
+Cable,['Deadpool 2 (2018)'],ESTJ,130
 Weasel,Deadpool (2016),ENTP,120
-Yukio,Deadpool (2016),ENFP,112
+Yukio,"['Deadpool (2016)', 'Deadpool 2 (2018)']",ENFP,112
 Dopinder,Deadpool (2016),INFP,94
-Deadpool Movie Series,Deadpool (2016),ENTP,58
-Blind Al,Deadpool (2016),ESTP,57
+Blind Al,"['Deadpool (2016)', 'Deadpool 2 (2018)']",ESTP,57
 Angel Dust,Deadpool (2016),ISTP,46
 Lyudmila Lyuda Da,Dear Comrades!,INTJ,237
 Sveta,Dear Comrades!,ENFP,125
@@ -2274,11 +2279,6 @@ Christopher Johnson,District 9 (2009),INTJ,32
 Kale Brecht,Disturbia (2007),INTP,64
 Tobias Four Eaton,Divergent (2014),INTJ,663
 Beatrice Tris Prior,Divergent (2014),ISFP,648
-Abnegation,Divergent (2014),ISFJ,432
-Dauntless,Divergent (2014),ESTP,390
-Erudite,Divergent (2014),INTJ,346
-Amity,Divergent (2014),ESFJ,338
-Divergent,Divergent (2014),ENFP,280
 Caleb Prior,Divergent (2014),ISTJ,187
 Eric,Divergent (2014),ENTJ,173
 Peter Hayes,Divergent (2014),ESTP,173
@@ -2328,13 +2328,13 @@ Polynesia,Dolittle (2020),ENFJ,52
 Lady Rose,Dolittle (2020),ENFJ,26
 Lorraine Nelson,Dolphin Tale (2011),ISTJ,27
 Jon Martello Jr,Don Jon (2013),ISTJ,40
-Dr Randall Mindy,Don’t Look Up (2021),INTP,1100
-Kate Dibiasky,Don’t Look Up (2021),ISTP,993
-President Janie Orlean,Don’t Look Up (2021),ESTP,239
-Peter Isherwell,Don’t Look Up (2021),INTJ,222
-DJ Chello,Don’t Look Up (2021),ESFP,189
-Brie Evantee,Don’t Look Up (2021),ESTP,178
-Riley Bina,Don’t Look Up (2021),ESFP,128
+Dr Randall Mindy,Don't Look Up (2021),INTP,1100
+Kate Dibiasky,Don't Look Up (2021),ISTP,993
+President Janie Orlean,Don't Look Up (2021),ESTP,239
+Peter Isherwell,Don't Look Up (2021),INTJ,222
+DJ Chello,Don't Look Up (2021),ESFP,189
+Brie Evantee,Don't Look Up (2021),ESTP,178
+Riley Bina,Don't Look Up (2021),ESFP,128
 Lefty Ruggiero,Donnie Brasco (1997),ENTJ,55
 Joe Donnie Brasco Pistone,Donnie Brasco (1997),ISTP,54
 Donnie Darko,Donnie Darko (2001),INTP,1900
@@ -4178,7 +4178,7 @@ Bruce,Joker (2019),INTJ,77
 Gary,Joker (2019),ISFJ,77
 Randall,Joker (2019),ESTP,65
 Debra Kane,Joker (2019),ISTJ,63
-Harleen QuinzelHarley Quinn,Joker: Folie à Deux (2024),ENFP,44
+Harley Quinn,Joker: Folie à Deux (2024),ENFP,44
 Joseph,Joseph: King of Dreams,INFP,39
 Josie McCoy,Josie and the Pussycats (2001),INTP,33
 Fiona,Josie and the Pussycats (2001),ESTJ,30
@@ -4360,7 +4360,7 @@ Proximus Caesar,Kingdom of the Planet of the Apes,ENTJ,44
 Raka,Kingdom of the Planet of the Apes,ENFJ,35
 Gary Eggsy Unwin  Galahad,Kingsman (Franchise),ESFP,262
 Harry Hart  Galahad,Kingsman (Franchise),ISTJ,200
-Hamish Mycroft  Merlin,Kingsman (Franchise),INTJ,96
+Hamish Mycroft Merlin,Kingsman (Franchise),INTJ,96
 Conrad Oxford,Kingsman (Franchise),INFJ,88
 Richmond Valentine,Kingsman (Franchise),ENFP,77
 Jack Daniels  Whiskey,Kingsman (Franchise),ESTP,75
@@ -4600,8 +4600,10 @@ Boniface,Les Choristes (2004),ISTJ,26
 Mathias,Les crevettes pailletées,ESTJ,34
 Jean Valjean,Les Miserables (2012),INFJ,82
 Inspector Javert,Les Miserables (2012),ISTJ,71
-ponine Thnardier,Les Miserables (2012),ENFP,56
+�ponine Th�nardier,Les Miserables (2012),ENFP,56
 Cosette,Les Miserables (2012),INFP,52
+Enjolras,Les Miserables (2012),ENTJ,49
+Gavroche,Les Miserables (2012),ENFP,14
 Laura,Les nuites fauves (Savage Nights) (1992),ISFP,31
 Samy,Les nuites fauves (Savage Nights) (1992),ISTP,28
 Godefroy de Montmirail,Les Visiteurs,ISTJ,34
@@ -4805,11 +4807,11 @@ Ma Rainey,Ma Rainey's Black Bottom (2020),ENTJ,46
 Levee Green,Ma Rainey's Black Bottom (2020),ESFP,45
 Lady Macbeth,Macbeth (2015),INTJ,47
 Malcolm,Macbeth (2015),INFJ,36
-Max Rockatansky,Mad Max (1979),ISTP,201
-Imperator Furiosa,Mad Max (1979),ENTJ,171
-Immortan Joe,Mad Max (1979),ENTJ,77
-The Dag,Mad Max (1979),INFP,40
-The Splendid Angharad,Mad Max (1979),INFJ,37
+Max Rockatansky,"['Mad Max (1979)',' Mad Max: Fury Road']",ISTP,201
+Imperator Furiosa,"['Mad Max (1979)',' Mad Max: Fury Road']",ENTJ,171
+Immortan Joe,"['Mad Max (1979)',' Mad Max: Fury Road']",ENTJ,77
+The Dag,"['Mad Max (1979)',' Mad Max: Fury Road']",INFP,40
+The Splendid Angharad,"['Mad Max (1979)',' Mad Max: Fury Road']",INFJ,37
 Skipper,"['Madagascar', 'Madagascar: Escape 2 Africa', ""Madagascar 3: Europe's Most Wanted"", 'Penguins of Madagascar']",ENTJ,1900
 King Julien XIII,"[""Madagascar 3: Europe's Most Wanted"", 'Penguins of Madagascar']",ENFP,1300
 Kowalski,"['Madagascar', 'Madagascar: Escape 2 Africa', ""Madagascar 3: Europe's Most Wanted"", 'Penguins of Madagascar']",INTP,1300
@@ -5510,6 +5512,7 @@ Zoot,Monty Python and the Holy Grail (1975),ESFJ,39
 The French Taunter,Monty Python and the Holy Grail (1975),ENTP,32
 The Killer Rabbit,Monty Python and the Holy Grail (1975),ISTP,29
 Brian Cohen,Monty Python's Life of Brian (1979),ISFP,66
+Sam Bell,Moon (2009),ISTP,13
 GERTY,Moon (2009),ISFJ,191
 Chiron Harris,Moonlight (2016),ISFP,219
 Kevin Jones,Moonlight (2016),ENFJ,95
@@ -6210,7 +6213,7 @@ Figaro,Pinocchio (1940),ISFP,37
 Gideon,Pinocchio (1940),ISFP,27
 Pinocchio,Pinocchio (2022),ESFJ,47
 Pinocchio,Pinocchio: A True Story (2022),ESFP,67
-Captain Jack Sparrow,Pirates of the Caribbean,ENTP,3200
+Captain Jack Sparrow,"['Pirates of the Caribbean: The Curse of the Black Pearl', ""Pirates of the Caribbean: Dead Man's Chest"", ""Pirates of the Caribbean: At World's End"", 'Pirates of the Caribbean: On Stranger Tides', 'Pirates of the Caribbean: Dead Men Tell No Tales']",ENTP,3200
 Davy Jones,"[""Pirates of the Caribbean: Dead Man's Chest"", ""Pirates of the Caribbean: At World's End""]",INFP,964
 William Will Turner Jr,Pirates of the Caribbean,ISFJ,881
 Elizabeth Swann,"['Pirates of the Caribbean: The Curse of the Black Pearl', ""Pirates of the Caribbean: Dead Man's Chest"", ""Pirates of the Caribbean: At World's End"", 'Pirates of the Caribbean: Dead Men Tell No Tales']",ESFP,805
@@ -6340,7 +6343,7 @@ Brittany,Pretty Persuasion (2005),ESFP,29
 Vivian Ward,Pretty Woman (1990),ESFP,599
 Edward Lewis,Pretty Woman (1990),ISTJ,212
 Bernard Thomson,Pretty Woman (1990),INFJ,31
-Georgiana Darcy,Pride and Prejudice (1995),INFP,61
+Georgiana Darcy,Pride and Prejudice (2005),INFP,61
 Elizabeth Bennet,Pride and Prejudice (2005),ENFP,1900
 Fitzwilliam Darcy,Pride and Prejudice (2005),INTJ,1600
 Jane Bennet,Pride and Prejudice (2005),ISFJ,581
@@ -6457,7 +6460,7 @@ Tortoise John,Rango,ENTJ,49
 Ms Parmington,Rapsittie Street Kids: Believe In Santa,ESTJ,111
 Tajmaru,Rashomon (1950) (羅生門),ESTP,45
 Tracy Faucet,Rat Race (2001),ENFJ,42
-Rmy,Ratatouille (2007),ISFP,1500
+Remy,Ratatouille (2007),ISFP,1500
 Alfredo Linguini,Ratatouille (2007),INFP,1100
 Anton Ego,Ratatouille (2007),ISTJ,911
 Colette Tatou,Ratatouille (2007),ESTJ,840
@@ -7589,7 +7592,7 @@ Richie Kreyman,Tall Girl (2019),ISTJ,30
 Ricky Bobby,Talladega Nights: The Ballad of Ricky Bobby (2006),ESTP,39
 Tamara Riley,Tamara (2005),ENFJ,34
 Lenore,Tammy (2014),ENFJ,31
-Rapunzel,['Shrek the Third'],ENFP,4900
+Rapunzel,Tangled (2010),ENFP,4900
 Eugene Fitzherbert Flynn Rider,Tangled (2010),ESTP,3200
 Maximus,Tangled (2010),ISTJ,606
 Pascal,Tangled (2010),INTP,546
@@ -7652,7 +7655,7 @@ Terkel,Terkel in Trouble (Terkel i knibe; 2004),ISFJ,49
 Gunnar,Terkel in Trouble (Terkel i knibe; 2004),ENFJ,47
 Arne Nougatgren,Terkel in Trouble (Terkel i knibe; 2004),ENFP,42
 Stewart,Terkel in Trouble (Terkel i knibe; 2004),ESTP,29
-Terminator T-800 Uncle Bob,['Terminator Genisys'],ISTJ,308
+Terminator T-800 Uncle Bob,"['The Terminator', 'Terminator 2: Judgment Day', 'Terminator 3: Rise of the Machines', 'Terminator Salvation', 'Terminator Genisys', 'Terminator: Dark Fate']",ISTJ,308
 Sarah Connor,"['The Terminator', 'Terminator 2: Judgment Day', 'Terminator Salvation', 'Terminator Genisys', 'Terminator: Dark Fate']",ISTP,225
 John Connor,"['Terminator 2: Judgment Day', 'Terminator 3: Rise of the Machines', 'Terminator Salvation', 'Terminator Genisys', 'Terminator: Dark Fate']",ISFP,162
 Kyle Reese,"['The Terminator', 'Terminator Salvation', 'Terminator Genisys']",ISTJ,131
@@ -9053,7 +9056,7 @@ Gordon Smallwood,The Mothman Prophecies (2002),ISFP,29
 Ernesto Che Guevara de la Serna,The Motorcycle Diaries (2004),ENFP,32
 Tim Kennedy,The Mule (2018),ESTP,107
 Evelyn OConnell ne Carnahan Nefertiri,The Mummy (Franchise),INTP,208
-Rick OConnell,The Mummy (Franchise),ESTP,142
+Rick O'Connell,"['The Mummy', 'The Mummy Returns', 'The Mummy: Tomb of the Dragon Emperor', 'The Mummy']",ESTP,142
 Jonathan Carnahan,"['The Mummy', 'The Mummy Returns', 'The Mummy: Tomb of the Dragon Emperor']",ENTP,86
 Imhotep,"['The Mummy', 'The Mummy Returns', 'The Mummy: Tomb of the Dragon Emperor', 'The Mummy']",ISFP,54
 Beni Gabor,['The Mummy'],ENTP,53
@@ -10030,10 +10033,11 @@ Cooper,Trolls World Tour,ESFJ,55
 Trollex,Trolls World Tour,ESFP,40
 Branch,Trolls World Tour,ISTJ,33
 Tresillo,Trolls World Tour,ESTJ,30
-Quorra,Tron (Series),ENFP,87
-Sam Flynn,Tron (Series),ISTP,73
-CLU 20,Tron (Series),ENTJ,60
-TRON,Tron (Series),INTJ,44
+Quorra,"['Tron (1982)', 'Tron: Legacy (2010)']",ENFP,87
+Sam Flynn,"['Tron (1982)', 'Tron: Legacy (2010)']",ISTP,73
+CLU 20,"['Tron (1982)', 'Tron: Legacy (2010)']",ENTJ,60
+TRON,"['Tron (1982)', 'Tron: Legacy (2010)']",INTJ,44
+Zuse,"['Tron (1982)', 'Tron: Legacy (2010)']",ENTP,24
 Kevin Flynn,Tron (Series),ENTP,42
 Anne-Claire,Troop Zero,INFP,54
 Roberto Nascimento Capito Nascimento,Tropa de Elite (Franchise),ESTJ,396

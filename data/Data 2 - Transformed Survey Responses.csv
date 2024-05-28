@@ -11,28 +11,28 @@ id,person_mbti,mbti_test,character,movie
 0,ENFP,michaelcaloz.com,Miles Morales,Spider-Man: Across the Spider-Verse
 1,INTP,16Personalities,Johnny English,Johnny English
 1,INTP,16Personalities,Tony Stark,Avengers: Infinity War
-1,INTP,16Personalities,"Captain Pete ""Maverick"" Mitchell",Top Gun: Maverick
+1,INTP,16Personalities,Pete Maverick Mitchell,Top Gun: Maverick
 1,INTP,16Personalities,Neo,The Matrix
 1,INTP,16Personalities,Wade Watts,Ready Player One
 1,INTP,16Personalities,Benoit Blanc,Glass Onion: A Knives Out Mystery
 1,INTP,16Personalities,Stephen Strange,Doctor Strange
-1,INTP,16Personalities,J. Robert Oppenheimer,Oppenheimer
+1,INTP,16Personalities,J Robert Oppenheimer,Oppenheimer
 1,INTP,16Personalities,Puss in Boots,Puss in Boots: The Last Wish
 1,INTP,16Personalities,Loki,Avengers: Infinity War
-2,INFP,Truity,Amelie Poulain,Amelie
+2,INFP,Truity,Amélie Poulain,Amelie
 2,INFP,Truity,V,V for Vendetta
 2,INFP,Truity,Ellen Ripley,Alien
 2,INFP,Truity,Mathilda,Mathilda
 2,INFP,Truity,Willy Wonka,Willy Wonka & the Chocolate Factory (1971)
 2,INFP,Truity,Remus Lupin,Harry Potter
-2,INFP,Truity,Wall-E,WALL.E (2008)
+2,INFP,Truity,WALL-E,WALL.E (2008)
 2,INFP,Truity,Waymond Wang,Everything Everywhere All at Once
 2,INFP,Truity,Morticia,The Addams Family
 3,ENFJ,Sakinorva,Wanda,Avengers: Endgame
 3,ENFJ,Sakinorva,Joy,Inside Out
 3,ENFJ,Sakinorva,Jack,Titanic
 3,ENFJ,Sakinorva,Grace Le domas,Ready or Not
-4,INTP,Cognitive functions self-typing,Naomi Misora,Death Note 
+4,INTP,Cognitive functions self-typing,Naomi Misora,Death Note (2006)
 4,INTP,Cognitive functions self-typing,Yorichii ,Demon Slayer
 4,INTP,Cognitive functions self-typing,Amy,Gone Girl
 5,INTJ,16Personalities,Charlie,The Perks of Being a Wallflower
@@ -58,7 +58,7 @@ id,person_mbti,mbti_test,character,movie
 10,ENFP,Cognitive functions self-typing,Gretta,Begin Again
 10,ENFP,Cognitive functions self-typing,Sakura Yamauchi,Let Me Eat Your Pancreas
 10,ENFP,Cognitive functions self-typing,Makoto Konno,The Girl Who Leapt Through Time
-11,INTJ,Sakinorva,Anthony Edward Stark , Iron Man
+11,INTJ,Sakinorva,Tony Stark , Iron Man
 11,INTJ,Sakinorva,Phil ,The Hangover
 11,INTJ,Sakinorva,Wade Wilson ,Deadpool
 11,INTJ,Sakinorva,Sandie ,Last Night in Soho
@@ -67,18 +67,18 @@ id,person_mbti,mbti_test,character,movie
 11,INTJ,Sakinorva,Kirk Lazarus ,Tropic Thunder
 11,INTJ,Sakinorva,Alexander Claremont-Diaz,"Red, White and Royal Blue"
 11,INTJ,Sakinorva,Hannibal Lecter ,The Silence of the Lambs
-11,INTJ,Sakinorva,Merlin ,Kingsman: The Secret Service
+11,INTJ,Sakinorva,Merlin,Kingsman: The Secret Service
 12,ENTP,Cognitive functions self-typing,Ranchoddas Shamaldas Chanchad,3 Idiots
 12,ENTP,Cognitive functions self-typing,Bowler Hat Guy, Meet the Robinsons
 12,ENTP,Cognitive functions self-typing,Ralph,Wreck-it-Ralph
 12,ENTP,Cognitive functions self-typing,Capt. Manuel,Seven Sundays
 13,INFP,Cognitive functions self-typing,Gojo Satori,Jujutsu Kaisen 0
-13,INFP,Cognitive functions self-typing,Amy Dunne,Gone Girl
+13,INFP,Cognitive functions self-typing,Amy Elliott Dunne,Gone Girl
 13,INFP,Cognitive functions self-typing,Uta,One Piece Film: Red
 13,INFP,Cognitive functions self-typing,Enola Holmes,Enola Holmes
 14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Bryan,7 Sundays
 14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Weird Barbie,Barbie
-14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Sang Hwa,Train to Busan
+14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Sang-Hwa,Train to Busan
 14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Anne Wheeler,The Greatest Showman
 15,INFJ,16Personalities,Natasha Romanoff,Avengers: Endgame 
 15,INFJ,16Personalities,Hermione Granger,Harry Potter
@@ -86,7 +86,7 @@ id,person_mbti,mbti_test,character,movie
 15,INFJ,16Personalities,Charlotte,Lost in Translation
 16,INFP,16Personalities,Luna Lovegood,Harry Potter and the Order of the Phoenix
 16,INFP,16Personalities,Dani,Midsommar
-16,INFP,16Personalities,Julie Baker,Flipped
+16,INFP,16Personalities,Juli Baker,Flipped
 16,INFP,16Personalities,Stella Mate,Crying Ladies
 16,INFP,16Personalities,Maya,Birdshot
 17,INFP,Cognitive functions self-typing,Maria Posada,The Book of Life
@@ -95,7 +95,7 @@ id,person_mbti,mbti_test,character,movie
 17,INFP,Cognitive functions self-typing,Cinderella,Cinderella
 17,INFP,Cognitive functions self-typing,Belle,Beauty and the Beast
 17,INFP,Cognitive functions self-typing,Haru,Spirited away
-17,INFP,Cognitive functions self-typing,Princess Mia,The Princess Diaries
+17,INFP,Cognitive functions self-typing,Mia,The Princess Diaries
 17,INFP,Cognitive functions self-typing,Maaya Kisaragi,"And Yet, You Are So Sweet "
 17,INFP,Cognitive functions self-typing,Regina George,Mean Girls
 17,INFP,Cognitive functions self-typing,Alice,Alice in Wonderland
@@ -104,14 +104,14 @@ id,person_mbti,mbti_test,character,movie
 18,ENFP,16Personalities,Clawhauser,zootopia
 18,ENFP,16Personalities,Abby,turning red
 18,ENFP,16Personalities,Ken,barbie
-18,ENFP,16Personalities,honeylemon,big hero 6
+18,ENFP,16Personalities,honey lemon,big hero 6
 19,ENFP,16Personalities,Katniss Everdeen ,The Hunger Games (2012)
-19,ENFP,16Personalities,Debbie ,Ocean's Eight
+19,ENFP,16Personalities,Debbie ,Ocean's 8
 19,ENFP,16Personalities,Roxy ,Kingsman: The Secret Service
 19,ENFP,16Personalities,Rachel Chu ,Crazy Rich Asians
 19,ENFP,16Personalities,Elle Woods ,Legally Blonde
-19,ENFP,16Personalities,Christopher ,The Pursuit of Happiness
-19,ENFP,16Personalities,Lucy Gray ,The Hunger Games: The Ballad of Songbirds & Snakes
+19,ENFP,16Personalities,Chris Gardner,The Pursuit of Happyness
+19,ENFP,16Personalities,Lucy Gray ,The Ballad of Songbirds and Snakes (2023)
 19,ENFP,16Personalities,Julie ,Warm Bodies
 19,ENFP,16Personalities,Trinity ,Matrix
 19,ENFP,16Personalities,Marta Cabrera ,Knives Out
@@ -164,7 +164,7 @@ id,person_mbti,mbti_test,character,movie
 28,INFJ,16Personalities,Beatrice Prior,Divergent
 28,INFJ,16Personalities,Elio,Call Me by Your Name
 28,INFJ,16Personalities,Sophie,Aftersun
-28,INFJ,16Personalities,President Snow,The Hunger Games: The Ballad of Songbirds & Snakes
+28,INFJ,16Personalities,Coriolanus Coryo Snow,The Ballad of Songbirds and Snakes (2023)
 28,INFJ,16Personalities,Calum,Aftersun
 29,INTJ,16Personalities,Aragorn,lord of the rings
 29,INTJ,16Personalities,Bruce Wayne,Batman Returns
@@ -205,17 +205,17 @@ id,person_mbti,mbti_test,character,movie
 33,INTJ,16Personalities,Katniss Everdeen,The Hunger Games (2012)
 34,ISTP,16Personalities,Po,Kung Fu Panda (2008)
 34,ISTP,16Personalities,John Wick,John Wick (2014)
-34,ISTP,16Personalities,Ip Kai Man,Ip Man (2008)
+34,ISTP,16Personalities,Ip Man,Ip Man (2008)
 35,ISTP,16Personalities,Wanda Maximoff,Avengers: Infinity War
 35,ISTP,16Personalities,Bellatrix Lestrange,Harry Potter and the Deathly Hallows II
 35,ISTP,16Personalities,Luna Lovegood,Harry Potter and the Order of The Phoenix 
 35,ISTP,16Personalities,Raven,Teen Titans: Trouble in Tokyo
 35,ISTP,16Personalities,Disgust,Inside Out
-36,INFJ,16Personalities,Amy Dunne , Gone Girl
+36,INFJ,16Personalities,Amy Elliott Dunne, Gone Girl
 36,INFJ,16Personalities,Mia,La la land (2016)
-36,INFJ,16Personalities,Beatrice Prior ,Divergent 
+36,INFJ,16Personalities,Beatrice,Divergent 
 36,INFJ,16Personalities,Cruella de Vil ,Cruella
-36,INFJ,16Personalities,Andy ,The Devil Wears Prada
+36,INFJ,16Personalities,Andrea,The Devil Wears Prada
 37,INFJ,16Personalities,Maximus,Gladiator 
 37,INFJ,16Personalities,Howl,Howl's Moving Castle
 37,INFJ,16Personalities,Paul Atreides,Dune
@@ -278,7 +278,7 @@ id,person_mbti,mbti_test,character,movie
 45,INFJ,I forgot,Emma Woodhouse,Emma (Gwyneth Paltrow Version)
 45,INFJ,I forgot,Hermione Granger,Harry Potter Goblet Of Fire
 45,INFJ,I forgot,Nina,Point Of No Return
-45,INFJ,I forgot,Trinity,Matrix 1
+45,INFJ,I forgot,Trinity,Matrix
 45,INFJ,I forgot,Katniss Everdeen,The Hunger Games (2012)
 46,ENFP,sakinorva.net,Joy,Inside Out
 46,ENFP,sakinorva.net,Veneer,Trolls Band Together
@@ -327,7 +327,7 @@ id,person_mbti,mbti_test,character,movie
 54,ISFJ,16Personalities,Korso,Titan A.E.
 54,ISFJ,16Personalities,Henry Tilney,Northanger Abbey
 54,ISFJ,16Personalities,Westley,The Princess Bride
-54,ISFJ,16Personalities,Jake 'Hangman' Seresin,Top Gun: Maverick
+54,ISFJ,16Personalities,Jake Hangman Seresin,Top Gun: Maverick
 54,ISFJ,16Personalities,Dastan,Prince of Persia: The Sands of Time
 54,ISFJ,16Personalities,Aragorn,The Lord of the Rings
 54,ISFJ,16Personalities,Rick O'Connell,The Mummy
@@ -335,7 +335,7 @@ id,person_mbti,mbti_test,character,movie
 55,INTP,michaelcaloz.com,Rango,Rango
 55,INTP,michaelcaloz.com,Klaus,Klaus
 55,INTP,michaelcaloz.com,Wall-E,WALL.E
-56,ISTP,16Personalities,Astronaut Sam,Moon (2009)
+56,ISTP,16Personalities,Sam Bell,Moon (2009)
 56,ISTP,16Personalities,Mima Kirigoe,Perfect Blue 
 56,ISTP,16Personalities,Motoko,Ghost in the shell
 56,ISTP,16Personalities,Ripley,Alien 
@@ -370,10 +370,10 @@ id,person_mbti,mbti_test,character,movie
 60,INFJ,16Personalities,Wade Wilson,Deadpool
 61,ISTP,Truity,Neil Perry,Dead poets society 
 61,ISTP,Truity,Toothless,How to Train Your Dragon (2010)
-61,ISTP,Truity,J.  Daniel Atlas,Now You See Me
+61,ISTP,Truity,Daniel Atlas,Now You See Me
 61,ISTP,Truity,Shrek,Shrek (2001)
-62,ISTP,Cognitive functions self-typing,Iva,WALL.E
-62,ISTP,Cognitive functions self-typing,Dori,finding Nemo 
+62,ISTP,Cognitive functions self-typing,Eve,WALL.E
+62,ISTP,Cognitive functions self-typing,Dory,finding Nemo 
 62,ISTP,Cognitive functions self-typing,Matilda,Matilda
 62,ISTP,Cognitive functions self-typing,Lapis lazuli,Steven Universe the movie
 62,ISTP,Cognitive functions self-typing,Wallace,Scott Pilgrim vs The World
@@ -457,7 +457,7 @@ id,person_mbti,mbti_test,character,movie
 78,INFP,16Personalities,Weird Barbie,Barbie
 78,INFP,16Personalities,Sam,Stuck in Love
 78,INFP,16Personalities,Westley,The Princess Bride
-79,INFP,16Personalities,Mr Poppy,Nativity
+79,INFP,16Personalities,Desmond Poppy,Nativity
 79,INFP,16Personalities,Hannibal Lecter,The Silence of the Lambs
 79,INFP,16Personalities,Hermione Granger,Harry Potter and the Sorcerer's Stone
 79,INFP,16Personalities,Bucky Barnes,Captain America: The Winter Soldier
@@ -475,7 +475,7 @@ id,person_mbti,mbti_test,character,movie
 82,INFP,can't remember,Carrie White,Carrie
 82,INFP,can't remember,Lux Lisbon,The Virgin Suicides
 82,INFP,can't remember,Luna Lovegood,Harry Potter
-83,ESTJ,16Personalities,Choi Woo Shik , Parasite
+83,ESTJ,16Personalities,Kim Ki-woo,Parasite
 83,ESTJ,16Personalities,Daniel Henney,Seducing Mr Perfect
 83,ESTJ,16Personalities,Teo Yoo ,Past Lives
 84,ENFJ,I truly dont remember now and dont want to answer falsely,Ulysses Everett McGill,"O Brother, where art thou?"
@@ -514,8 +514,8 @@ id,person_mbti,mbti_test,character,movie
 91,ENFP,16Personalities,Clementine,Eternal Sunshine of the Spotless Mind
 91,ENFP,16Personalities,Jo March,Little Women
 92,ISFP,I forgot :( sorry marco,Taki,Your Name
-92,ISFP,I forgot :( sorry marco,Alex,"Red, White & Royal Blue"
-92,ISFP,I forgot :( sorry marco,Henry,"Red, White & Royal Blue"
+92,ISFP,I forgot :( sorry marco,Alex,"Red, White and Royal Blue (2023)"
+92,ISFP,I forgot :( sorry marco,Henry,"Red, White and Royal Blue (2023)"
 92,ISFP,I forgot :( sorry marco,Suzume,Suzume
 93,INFP,16Personalities,Ishaan,Like stars on earth
 93,INFP,16Personalities,Evelyn,Salt (2010)
@@ -566,7 +566,7 @@ id,person_mbti,mbti_test,character,movie
 101,ISTP,Sakinorva,John McClane,Die Hard (1988)
 101,ISTP,Sakinorva,Postal Dude,Postal (2007)
 101,ISTP,Sakinorva,Eric Draven,The Crow (1994)
-102,ISTP,16Personalities,Jason Bourne,The Bourne Identity
+102,ISTP,16Personalities,Jason Bourne,Jason Bourne
 102,ISTP,16Personalities,Captain Jack Sparrow,Pirates of the Caribbean: The Curse of the Black Pearl
 102,ISTP,16Personalities,Credence Barebone,Fantastic Beasts and Where to Find Them
 102,ISTP,16Personalities,Harry Callahan,Dirty Harry
@@ -578,10 +578,10 @@ id,person_mbti,mbti_test,character,movie
 104,ENTJ,16Personalities,Bucky Barnes,Captain America: The Winter Soldier
 104,ENTJ,16Personalities,Nick Wilde,Zootopia
 104,ENTJ,16Personalities,Edmund Pevensie,The Chronicles of Narnia
-104,ENTJ,16Personalities,Sirius Black,Harry Potter
+104,ENTJ,16Personalities,Sirius Black,Harry Potter and the Prisoner of Azkaban
 104,ENTJ,16Personalities,Jack Sparrow,Pirates of the Caribbean
 104,ENTJ,16Personalities,Willy Wonka,Wonka
-104,ENTJ,16Personalities,Flynn Rider,Rapunzel
+104,ENTJ,16Personalities,Flynn Rider,Tangled
 105,INFP,michaelcaloz.com,Vito Corleone,The Godfather
 105,INFP,michaelcaloz.com,Ashitaka,Princess Mononoke
 105,INFP,michaelcaloz.com,Paul Atreides,Dune
@@ -592,7 +592,7 @@ id,person_mbti,mbti_test,character,movie
 106,ENTJ,16Personalities,Sharpay Evans,High School Musical
 106,ENTJ,16Personalities,Mary Poppins,Mary Poppins
 106,ENTJ,16Personalities,Tom Hagen,The Godfather
-106,ENTJ,16Personalities,Princess Leia,Star Wars
+106,ENTJ,16Personalities,Leia Organa,Star Wars
 106,ENTJ,16Personalities,Captain Amelia,Treasure Planet
 106,ENTJ,16Personalities,Eliza Doolittle,My Fair Lady
 106,ENTJ,16Personalities,Amy March,Little Women (2019)
@@ -620,7 +620,7 @@ id,person_mbti,mbti_test,character,movie
 109,ESTJ,16Personalities,Scar,The Lion King
 109,ESTJ,16Personalities,Hannibal Lecter,The Silence of the Lambs
 109,ESTJ,16Personalities,Magenta,The Rocky Horror Picture Show
-110,ENTJ,16Personalities,J. Robert Oppenheimer,Oppenheimer
+110,ENTJ,16Personalities,J Robert Oppenheimer,Oppenheimer
 110,ENTJ,16Personalities,Mitsuha and Taki,Your Name
 110,ENTJ,16Personalities,Tony Stark,Iron Man 3
 110,ENTJ,16Personalities,Noah Calhoun,The Notebook
@@ -636,7 +636,7 @@ id,person_mbti,mbti_test,character,movie
 112,ENFJ,16Personalities,Mikey,Goonies
 112,ENFJ,16Personalities,Caractacus Potts,Chitty Chitty Bang Bang
 112,ENFJ,16Personalities,Indiana Jones,Raiders of the Lost Ark
-112,ENFJ,16Personalities,Princess Leia Organa,Star Wars
+112,ENFJ,16Personalities,Leia Organa,Star Wars
 112,ENFJ,16Personalities,Maria Von Trapp,The Sound of Music
 112,ENFJ,16Personalities,Samwise Gamgee,Lord of The Rings
 112,ENFJ,16Personalities,Inigo Montoya,The Princess Bride
@@ -646,7 +646,7 @@ id,person_mbti,mbti_test,character,movie
 113,ENFJ,16Personalities,Marilou,Barber's Tales
 114,ESFP,Cognitive functions self-typing,Asuka Langley,The End of Evangelion
 114,ESFP,Cognitive functions self-typing,Clementine,Eternal Sunshine of the Spotless Mind
-114,ESFP,Cognitive functions self-typing,Ki-jung,Parasite
+114,ESFP,Cognitive functions self-typing,Kim Ki-jeong,Parasite
 114,ESFP,Cognitive functions self-typing,Wallace Wells,Scott Pilgrim vs. the World
 114,ESFP,Cognitive functions self-typing,Christine McPherson,Lady Bird
 114,ESFP,Cognitive functions self-typing,Remy,Ratatouille
@@ -666,7 +666,7 @@ id,person_mbti,mbti_test,character,movie
 116,ENTJ,Cognitive functions self-typing,Leticia Letty Ortiz,The Fast and the Furious
 116,ENTJ,Cognitive functions self-typing,Galadriel,The Lord of the Rings
 116,ENTJ,Cognitive functions self-typing,"O-ren Ishii ""Cottonmouth""",Kill Bill
-116,ENTJ,Cognitive functions self-typing,Abraham Sapien,Hellboy
+116,ENTJ,Cognitive functions self-typing,Abe Sapien,Hellboy
 117,ISFJ,16Personalities,John Wick,John Wick (2014)
 117,ISFJ,16Personalities,Rick O'Connell,The Mummy
 117,ISFJ,16Personalities,Iron Man,Avengers
@@ -695,11 +695,11 @@ id,person_mbti,mbti_test,character,movie
 122,ESTJ,Cognitive functions self-typing,Yoda ,star wars 
 122,ESTJ,Cognitive functions self-typing,Severus Snape ,Harry Potter and the Philosopher's Stone
 122,ESTJ,Cognitive functions self-typing,Kiri ,Avatar: The Way of Water
-122,ESTJ,Cognitive functions self-typing,The Terminator,Terminator 3 
+122,ESTJ,Cognitive functions self-typing,Terminator T-800 Uncle Bob,Terminator 3: Rise of the Machines
 123,ENFP,michaelcaloz.com,Miles Morales,Into the Spider-Verse
 123,ENFP,michaelcaloz.com,Uta,One Piece Film: Red
 123,ENFP,michaelcaloz.com,Agent Smith,The Matrix
 123,ENFP,michaelcaloz.com,Daniel Plainview,There Will Be Blood
-123,ENFP,michaelcaloz.com,Eraserhead Baby,Eraserhead
+123,ENFP,michaelcaloz.com,The Baby,Eraserhead
 123,ENFP,michaelcaloz.com,Patrick Bateman,American Psycho
 123,ENFP,michaelcaloz.com,Raoul Duke,Fear and Loathing in Las Vegas

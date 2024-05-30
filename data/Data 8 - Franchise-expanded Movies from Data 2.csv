@@ -470,12 +470,12 @@ Miles,Alvin And The Chipmunks (2007),ENTJ,33
 Marcus,Always Be My Maybe,ISFP,44
 Sasha,Always Be My Maybe,ENTJ,33
 Beth,Always Shine,ESFJ,32
-Amlie Poulain,Am脙漏lie (2001),INFP,2100
-Nino Quincampoix,Am脙漏lie (2001),ISFP,131
-Raymond Dufayel,Am脙漏lie (2001),INFJ,85
-Blubber Suicidal Goldfish,Am脙漏lie (2001),INFP,33
-Lucien,Am脙漏lie (2001),ISFP,33
-Amandine Poulain,Am脙漏lie (2001),ESTJ,30
+Am閘ie Poulain,Am閘ie (2001),INFP,2100
+Nino Quincampoix,Am閘ie (2001),ISFP,131
+Raymond Dufayel,Am閘ie (2001),INFJ,85
+Blubber Suicidal Goldfish,Am閘ie (2001),INFP,33
+Lucien,Am閘ie (2001),ISFP,33
+Amandine Poulain,Am閘ie (2001),ESTJ,30
 Antonio Salieri,Amadeus (1984),INTJ,324
 Constanze Mozart,Amadeus (1984),ESFJ,50
 Emperor Joseph II,Amadeus (1984),ISFJ,48
@@ -2169,23 +2169,24 @@ Bar,Delibal (2015),ENTP,42
 Ralph Sarchie,Deliver Us from Evil(2014),ISTP,26
 Davis,Demolition (2015),INTP,145
 Chris,Demolition (2015),ISTP,43
-Tanjiro Kamado,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),INFJ,7300
-Giyu Tomioka,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISTJ,4700
-Nezuko Kamado,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISFJ,3000
-Inosuke Hashibira,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ESTP,6900
-Zenitsu Agatsuma,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISFP,5200
-Genya Shinazugawa,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISFP,1100
-Muichiro Tokito,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISTJ,290
-Yoriichi Tsugikuni,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),INFJ,1000
-Kyojuro Rengoku,Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train,ENFJ,3900
-Obanai Iguro,Demon Slayer: Kimetsu no Yaiba - To the Hashira Training - (2024),ISTJ,1300
+Tanjiro Kamado,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",INFJ,7300
+Inosuke Hashibira,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ESTP,6900
+Zenitsu Agatsuma,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISFP,5200
+Giyu Tomioka,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISTJ,4700
+Kyojuro Rengoku,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ENFJ,3900
+Nezuko Kamado,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISFJ,3000
+Akaza,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ESTP,2500
+Obanai Iguro,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISTJ,1300
+Genya Shinazugawa,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISFP,1100
+Yoriichi Tsugikuni,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",INFJ,1000
+Muichiro Tokito,"['Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024)', 'Demon Slayer -Kimetsu No Yaiba- The Movie: Mugen Train']",ISTJ,290
 Nick Big Nick OBrien,Den of Thieves,ESTP,35
 Dennis Mitchell,Dennis the Menace (1993),ESTP,31
 Gabriel,Depois do Universo,ENFP,46
 Inspector Very Long,Der Wixxer,ENFP,58
-Mal Bertha,Descendants (Franchise),ISFP,888
-Evie Grimhilde,Descendants (Franchise),ENFJ,635
-Carlos de Vil,Descendants (Franchise),INFP,526
+Mal Bertha,"['Descendants', 'Descendants 2', 'Descendants 3']",ISFP,888
+Evie Grimhilde,"['Descendants', 'Descendants 2', 'Descendants 3']",ENFJ,635
+Carlos de Vil,"['Descendants', 'Descendants 2', 'Descendants 3']",INFP,526
 Uma,"['Descendants 2', 'Descendants 3', 'Descendants: The Rise of Red']",ENTJ,413
 Audrey,"['Descendants', 'Descendants 3']",ESTJ,404
 Benjamin Florian,Descendants (Franchise),ENFJ,362
@@ -4416,21 +4417,21 @@ Blackbird,Killshot (2008),ISTP,28
 Sawako Kuronuma,Kimi ni Todoke (film),ISFJ,52
 Akari Kashiwagi,Kimi no Me ga Toikakete Iru (Your Eyes Tell),ENFJ,72
 Rui Antonio Shinozaki,Kimi no Me ga Toikakete Iru (Your Eyes Tell),ISTP,43
-Mitsuha Miyamizu,Kimi no Na wa (Your Name),INFP,1500
-Taki Tachibana,Kimi no Na wa (Your Name),ISTP,733
-Yukari Yukino,Kimi no Na wa (Your Name),INFP,230
-Miki Okudera,Kimi no Na wa (Your Name),ENFJ,215
-Yotsuha Miyamizu,Kimi no Na wa (Your Name),ENTP,167
-Katsuhiko Teshigawara Tessie,Kimi no Na wa (Your Name),ISTP,103
-Sayaka Natori,Kimi no Na wa (Your Name),ISFJ,87
-Hitoha Miyamizu,Kimi no Na wa (Your Name),ISTJ,82
-Tsukasa Fujii,Kimi no Na wa (Your Name),ISTJ,64
-Shinta Takagi,Kimi no Na wa (Your Name),ESFP,52
-Haruki Shiga,Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas),INTJ,1300
-Sakura Yamauchi,Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas),ENFP,863
-Kyoko Takimoto,Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas),ESTJ,121
-Takahiro,Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas),ESTJ,38
-Issei Miyata,Kimi no Suizou wo Tabetai (I Want to Eat Your Pancreas),ESFJ,25
+Mitsuha Miyamizu,Kimi no Na wa / Your Name.,INFP,1500
+Taki Tachibana,Kimi no Na wa / Your Name.,ISTP,733
+Yukari Yukino,Kimi no Na wa / Your Name.,INFP,230
+Miki Okudera,Kimi no Na wa / Your Name.,ENFJ,215
+Yotsuha Miyamizu,Kimi no Na wa / Your Name.,ENTP,167
+Katsuhiko Teshigawara Tessie,Kimi no Na wa / Your Name.,ISTP,103
+Sayaka Natori,Kimi no Na wa / Your Name.,ISFJ,87
+Hitoha Miyamizu,Kimi no Na wa / Your Name.,ISTJ,82
+Tsukasa Fujii,Kimi no Na wa / Your Name.,ISTJ,64
+Shinta Takagi,Kimi no Na wa / Your Name.,ESFP,52
+Haruki Shiga,Kimi no Suizou wo Tabetai / I Want to Eat Your Pancreas,INTJ,1300
+Sakura Yamauchi,Kimi no Suizou wo Tabetai / I Want to Eat Your Pancreas,ENFP,863
+Kyoko Takimoto,Kimi no Suizou wo Tabetai / I Want to Eat Your Pancreas,ESTJ,121
+Takahiro,Kimi no Suizou wo Tabetai / I Want to Eat Your Pancreas,ESTJ,38
+Issei Miyata,Kimi no Suizou wo Tabetai / I Want to Eat Your Pancreas,ESFJ,25
 Detective John Kimble,Kindergarten Cop (1990),ISTP,26
 Uncle Vova,Kin-dza-dza!,ESTJ,49
 Arthur Pendragon,King Arthur: Legend of the Sword (2017),ENTP,96
@@ -4492,19 +4493,19 @@ Eric,Knock at the Cabin,ESFJ,53
 Genesis,Knock Knock,ESTP,47
 Jay,Knocked Up (2007),ISFP,54
 Jason,Knocked Up (2007),ESFP,30
-Shouko Nishimiya,Koe no Katachi (A Silent Voice),ESFJ,4700
-Shouya Ishida,Koe no Katachi (A Silent Voice),ISTP,3000
-Yuzuru Nishimiya,Koe no Katachi (A Silent Voice),INTP,1300
-Naoka Ueno,Koe no Katachi (A Silent Voice),ESTJ,1300
-Miki Kawai,Koe no Katachi (A Silent Voice),ESFJ,769
-Kazuki Shimada,Koe no Katachi (A Silent Voice),INTJ,317
-Tomohiro Nagatsuka,Koe no Katachi (A Silent Voice),ESFJ,377
-Miyoko Sahara,Koe no Katachi (A Silent Voice),ISFJ,220
-Miyako Ishida,Koe no Katachi (A Silent Voice),ENFJ,192
-Takeuchi,Koe no Katachi (A Silent Voice),INTJ,196
-Satoshi Mashiba,Koe no Katachi (A Silent Voice),ENFJ,174
-Yaeko Nishimiya,Koe no Katachi (A Silent Voice),ISTJ,270
-Shoya's Sister,Koe no Katachi (A Silent Voice),ESFP,69
+Shouko Nishimiya,Koe no Katachi / A Silent Voice: The Movie,ESFJ,4700
+Shouya Ishida,Koe no Katachi / A Silent Voice: The Movie,ISTP,3000
+Yuzuru Nishimiya,Koe no Katachi / A Silent Voice: The Movie,INTP,1300
+Naoka Ueno,Koe no Katachi / A Silent Voice: The Movie,ESTJ,1300
+Miki Kawai,Koe no Katachi / A Silent Voice: The Movie,ESFJ,769
+Kazuki Shimada,Koe no Katachi / A Silent Voice: The Movie,INTJ,317
+Tomohiro Nagatsuka,Koe no Katachi / A Silent Voice: The Movie,ESFJ,377
+Miyoko Sahara,Koe no Katachi / A Silent Voice: The Movie,ISFJ,220
+Miyako Ishida,Koe no Katachi / A Silent Voice: The Movie,ENFJ,192
+Takeuchi,Koe no Katachi / A Silent Voice: The Movie,INTJ,196
+Satoshi Mashiba,Koe no Katachi / A Silent Voice: The Movie,ENFJ,174
+Yaeko Nishimiya,Koe no Katachi / A Silent Voice: The Movie,ISTJ,270
+Shoya's Sister,Koe no Katachi / A Silent Voice: The Movie,ESFP,69
 Kasia Solska,Kogel-mogel,ISFJ,30
 Marian Wolaski,Kogel-mogel,INTP,29
 Umi Matsuzaki,Kokuriko-zaka Kara (From Up on Poppy Hill),ISTJ,267
@@ -5831,16 +5832,30 @@ Edward Eddie Johnson,National Lampoon's Vacation (1983),ESFP,30
 Benjamin Franklin Ben Gates,National Treasure (2004),ENTP,103
 Abigail Chase,National Treasure (2004),ISFP,62
 Riley Poole,National Treasure (2004),INTP,47
-Pat Bevan,Nativity (2009),ESTJ,64
-Gordon Shakespeare,Nativity (2009),ENTP,44
-Desmond Poppy,Nativity (2009),ENFP,37
-Paul Maddens,Nativity (2009),ISTJ,37
+Pat Bevan,Nativity! (2009),ESTJ,64
+Gordon Shakespeare,Nativity! (2009),ENTP,44
+Desmond Poppy,Nativity! (2009),ENFP,37
+Paul Maddens,Nativity! (2009),ISTJ,37
 Mallory Knox,Natural Born Killers (1994),ESFP,55
 Mickey Knox,Natural Born Killers (1994),ISTP,55
 Wayne Gale,Natural Born Killers (1994),ENTP,30
 Severen,Near Dark,ESTP,27
 David Grant,Nebraska (2013),ISFJ,28
 Ed Pegram,Nebraska (2013),ESTP,27
+Shinji Ikari,Neon Genesis Evangelion: The End of Evangelion,INFP,12000
+Misato Katsuragi,Neon Genesis Evangelion: The End of Evangelion,ENFP,7200
+Rei Ayanami,Neon Genesis Evangelion: The End of Evangelion,ISTJ,6700
+Asuka Langley Soryu,Neon Genesis Evangelion: The End of Evangelion,ENTJ,17200
+Kaworu Nagisa,Neon Genesis Evangelion: The End of Evangelion,INFJ,6300
+Gendo Ikari,Neon Genesis Evangelion: The End of Evangelion,INTJ,2900
+Kouzou Fuyutsuki,Neon Genesis Evangelion: The End of Evangelion,ISTJ,265
+Ritsuko Akagi,Neon Genesis Evangelion: The End of Evangelion,ISTJ,1900
+Makoto Hyuga,Neon Genesis Evangelion: The End of Evangelion,ISTJ,109
+Shigeru Aoba,Neon Genesis Evangelion: The End of Evangelion,ISTP,96
+Maya Ibuki,Neon Genesis Evangelion: The End of Evangelion,ISFJ,121
+Keel Lorentz,Neon Genesis Evangelion: The End of Evangelion,INTJ,100
+Ryoji Kaji,Neon Genesis Evangelion: The End of Evangelion,ENTP,2700
+Yui Ikari,Neon Genesis Evangelion: The End of Evangelion,INFJ,472
 Vee,Nerve (2016),ISFP,162
 Ian,Nerve (2016),ESTP,88
 Sydney,Nerve (2016),ESFP,74
@@ -6051,13 +6066,13 @@ Yoriko Sasaki,Omoide no Marnie (When Marnie Was There),ISFJ,25
 Mria,On Body and Soul (2017),INTJ,34
 Terry Malloy,On the Waterfront (1954),ISFP,39
 Hwang Woo-yeon,On Your Wedding Day,ENFP,32
-Monkey D. Luffy,One Piece Film: Red (2022),ESFP,6800
-Roronora Zoro,One Piece Film: Red (2022),ISTP,3500
-Nami,One Piece Film: Red (2022),ESTJ,3800
-Vinsmoke燬anji,One Piece Film: Red (2022),ENFJ,2700
-Usopp,One Piece Film: Red (2022),ENTP,2200
-Boa Hancock,One Piece Film: Red (2022),ENTJ,1800
-Uta,One Piece Film: Red (2022),ENFP,1200
+Monkey D. Luffy,One Piece Film Red (2022),ESFP,6800
+Roronora Zoro,One Piece Film Red (2022),ISTP,3500
+Nami,One Piece Film Red (2022),ESTJ,3800
+Vinsmoke燬anji,One Piece Film Red (2022),ENFJ,2700
+Usopp,One Piece Film Red (2022),ENTP,2200
+Boa Hancock,One Piece Film Red (2022),ENTJ,1800
+Uta,One Piece Film Red (2022),ENFP,1200
 Cinderella,Once Upon a Crime,INFP,38
 Deborah,Once Upon a Time in America (1984),INTJ,74
 Noodles,Once Upon a Time in America (1984),ISTJ,73
@@ -6656,7 +6671,7 @@ Lisa Fremont,Rear Window (1954),ENFJ,130
 LB Jeffries,Rear Window (1954),ISTP,126
 Maxim de Winter,Rebecca (2020),ENTJ,34
 Atticus Noble,Rebel Moon (Franchise),ENTJ,68
-Kai,['Kung Fu Panda 3'],ESTP,48
+Kai,Rebel Moon (Franchise),ESTP,48
 Kora,Rebel Moon (Franchise),ISTP,42
 Balisarius,Rebel Moon (Franchise),ENTJ,38
 Nemesis,Rebel Moon (Franchise),INFJ,36
@@ -6705,6 +6720,7 @@ Magdalene Blind Mag Defoe,Repo! The Genetic Opera (2008),INFJ,38
 Nathan Wallace,Repo! The Genetic Opera (2008),ISTJ,33
 Paviche Pavi Largo,Repo! The Genetic Opera (2008),ESFP,27
 Rottissimo Rotti Largo,Repo! The Genetic Opera (2008),ENTJ,26
+Carol Ledoux,Repulsion,INFP,32
 Sara Goldfarb,Requiem for a Dream (2000),ESFJ,312
 Marion Silver,Requiem for a Dream (2000),ISFP,210
 Harry Goldfarb,Requiem for a Dream (2000),ISFP,195
@@ -6717,7 +6733,7 @@ Nice Guy Eddie,Reservoir Dogs (1992),ESTP,128
 Mr Brown,Reservoir Dogs (1992),ENFP,112
 Mr Blue,Reservoir Dogs (1992),ISTP,52
 Holdaway,Reservoir Dogs (1992),ESTP,31
-Alice,Madagascar (Franchise),ISTP,213
+Alice,Resident Evil,ISTP,213
 Ada Wong,Resident Evil,ISTP,128
 Albert Wesker,Resident Evil,ISTJ,57
 Dr Alexander Isaacs,Resident Evil,ENTJ,57
@@ -7056,19 +7072,19 @@ Marie 2,Sedmikr脙隆sky (Daisy 1966),ENFP,35
 Constable Stalker,See How They Run (2022),ENFP,55
 Inspector Stoppard,See How They Run (2022),ISTP,33
 Penelope Penny Lockhart,Seeking a Friend for the End of the World,ENFP,89
-Haku,Sen to Chihiro no Kamikakushi (Spirited Away),INFJ,5100
-Chihiro Ogino,Sen to Chihiro no Kamikakushi (Spirited Away),INFP,2000
-No-Face,Sen to Chihiro no Kamikakushi (Spirited Away),ISFP,931
-Yubaba,Sen to Chihiro no Kamikakushi (Spirited Away),ESTJ,602
-Lin,Sen to Chihiro no Kamikakushi (Spirited Away),ESTJ,509
-Zeniba,Sen to Chihiro no Kamikakushi (Spirited Away),ENFJ,337
-Kamaji,Sen to Chihiro no Kamikakushi (Spirited Away),ISTP,297
-Yuko Ogino,Sen to Chihiro no Kamikakushi (Spirited Away),ESTJ,134
-Boh,Sen to Chihiro no Kamikakushi (Spirited Away),ESFP,134
-Akio Ogino,Sen to Chihiro no Kamikakushi (Spirited Away),ESTP,123
-Radish Spirit,Sen to Chihiro no Kamikakushi (Spirited Away),ISTP,49
-Aogaeru,Sen to Chihiro no Kamikakushi (Spirited Away),ENTP,46
-River Spirit,Sen to Chihiro no Kamikakushi (Spirited Away),INFJ,29
+Haku,Sen to Chihiro no Kamikakushi / Spirited Away,INFJ,5100
+Chihiro Ogino,Sen to Chihiro no Kamikakushi / Spirited Away,INFP,2000
+No-Face,Sen to Chihiro no Kamikakushi / Spirited Away,ISFP,931
+Yubaba,Sen to Chihiro no Kamikakushi / Spirited Away,ESTJ,602
+Lin,Sen to Chihiro no Kamikakushi / Spirited Away,ESTJ,509
+Zeniba,Sen to Chihiro no Kamikakushi / Spirited Away,ENFJ,337
+Kamaji,Sen to Chihiro no Kamikakushi / Spirited Away,ISTP,297
+Yuko Ogino,Sen to Chihiro no Kamikakushi / Spirited Away,ESTJ,134
+Boh,Sen to Chihiro no Kamikakushi / Spirited Away,ESFP,134
+Akio Ogino,Sen to Chihiro no Kamikakushi / Spirited Away,ESTP,123
+Radish Spirit,Sen to Chihiro no Kamikakushi / Spirited Away,ISTP,49
+Aogaeru,Sen to Chihiro no Kamikakushi / Spirited Away,ENTP,46
+River Spirit,Sen to Chihiro no Kamikakushi / Spirited Away,INFJ,29
 Tiffany Blanchette,Senior Year,ENTJ,49
 Janet,Senior Year,ISFP,38
 Martha,Senior Year,ISTJ,34
@@ -8970,8 +8986,8 @@ Dick Grayson Robin,['The Lego Batman Movie'],ENFP,83
 Barbara Gordon,The Lego Batman Movie,ENFJ,40
 Joker,The Lego Batman Movie (2017),ENFP,160
 Dick Grayson,The Lego Batman Movie (2017),ENFP,50
-Emmet Brickowski,"['The Lego Movie', 'The Lego Movie 2: The Second Part']",ESFJ,707
-The Joker,['Suicide Squad'],ENFP,331
+Emmet Brickowski,"['The Lego Movie', 'The Lego Movie 2: The Second Part', 'The Lego Batman Movie']",ESFJ,707
+The Joker,['The Lego Batman Movie'],ENFP,331
 Lucy Wyldstyle,The Lego Movie (Franchise),ISFP,275
 Lord Business,['The Lego Movie'],ESTJ,228
 Rex Dangervest,['The Lego Movie 2: The Second Part'],ESTP,213
@@ -9085,7 +9101,7 @@ The Baby Barb-A-Loot,The Lorax (2012),INFP,30
 Gandalf the Grey,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INTJ,2400
 Aragorn,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INFJ,2000
 Frodo Baggins,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INFP,1800
-Samwise Sam Gamgee,The Lord of the Rings (Film Trilogy),ISFJ,1300
+Samwise Gamgee Sam,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ISFJ,1300
 Galadriel,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INFJ,908
 Boromir,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ESFJ,887
 Legolas Greenleaf,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ISFP,844
@@ -9103,7 +9119,7 @@ Theoden,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the 
 Gandalf the White,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",INTJ,272
 omer,"['The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ESTJ,179
 Treebeard,"['The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ISFJ,154
-Mouth of Sauron,The Lord of the Rings (Film Trilogy),ESTJ,132
+Sauron,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers', 'The Lord of the Rings: The Return of the King']",ESTJ,132
 The Witch-king of Angmar,The Lord of the Rings (Film Trilogy),ISTP,130
 The One Ring,The Lord of the Rings (Film Trilogy),ENTJ,84
 Haldir,"['The Lord of the Rings: The Fellowship of the Ring', 'The Lord of the Rings: The Two Towers']",ISTJ,73
@@ -10485,6 +10501,14 @@ Mara Elena,Vicky Cristina Barcelona,ENFP,70
 Victor Frankenstein,Victor Frankenstein,ENTP,108
 Igor,Victor Frankenstein,INFP,30
 Mickey,Villains,ENTP,26
+Daisy Magnolia,Violet Evergarden: The Movie,ENTP,22
+Violet Evergarden,Violet Evergarden: The Movie,ISTJ,3000
+Gilbert Bougainvillea,Violet Evergarden: The Movie,INFJ,675
+Claudia Hodgins,Violet Evergarden: The Movie,ESFJ,253
+Iris Cannary,Violet Evergarden: The Movie,ESFP,168
+Erica Brown,Violet Evergarden: The Movie,INFP,219
+Benedict Blue,Violet Evergarden: The Movie,ISTP,243
+Dietfried Bougainvillea,Violet Evergarden: The Movie,ENTJ,170
 Viridiana,Viridiana (1961),INFJ,105
 Virginia Woolf,Vita & Virginia (2018),INFP,28
 Tom,Vivarium,ISTP,178
@@ -10507,13 +10531,13 @@ Gromit,Wallace and Gromit,INTJ,338
 Wallace,Wallace and Gromit,ENTP,232
 Feathers McGraw,Wallace and Gromit,INTJ,83
 Fluffles,Wallace and Gromit,INFJ,38
-WALL-E,WALL脗路E (2008),INFP,1400
-EVE,WALL脗路E (2008),ISTJ,928
-AUTO,WALL脗路E (2008),ESTJ,271
-M-O,WALL脗路E (2008),ISTJ,229
-Captain B McCrea,WALL脗路E (2008),ENFP,216
-GO-4,WALL脗路E (2008),INTJ,35
-Hal,WALL脗路E (2008),ESFJ,32
+WALL-E,WALL稥 (2008),INFP,1400
+EVE,WALL稥 (2008),ISTJ,928
+AUTO,WALL稥 (2008),ESTJ,271
+M-O,WALL稥 (2008),ISTJ,229
+Captain B McCrea,WALL稥 (2008),ENFP,216
+GO-4,WALL稥 (2008),INTJ,35
+Hal,WALL稥 (2008),ESFJ,32
 Malestrazza,Walled In,INTJ,57
 Wesley Gibson,Wanted (2008),ISFP,173
 Cross,Wanted (2008),ENFJ,28

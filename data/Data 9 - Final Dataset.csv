@@ -148,7 +148,7 @@
 158,27,INTP,Sherlock Holmes ,Sherlock Holmes,"[28, 12, 80, 9648]",10528,59.676,7.211,2009,ENTP
 159,27,INTP,Hiccup ,How to Train Your Dragon,"[14, 12, 16, 10751]",10191,67.995,7.824,2010,INTP
 160,27,INTP,Neo ,The Matrix,"[28, 878]",603,470.112,8.216,1999,INTP
-161,28,INFJ,Captain America,Captain America: The First Avenger,"[28, 12, 878]",1771,53.171,7,2011,ISFJ
+161,28,INFJ,Captain America,Captain America: The First Avenger,"[28, 12, 878]",1771,53.171,7.0,2011,ISFJ
 162,28,INFJ,Beatrice,Divergent,"[28, 12, 878]",157350,69.602,6.918,2014,ISFP
 163,28,INFJ,Elio,Call Me by Your Name,"[10749, 18]",398818,69.532,8.145,2017,INFP
 164,28,INFJ,Sophie,Aftersun,[18],965150,54.721,7.69,2022,ENTP
@@ -184,7 +184,7 @@
 194,32,INTP,Willy wonka,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,113.615,7.05,2005,ENFP
 195,32,INTP,Haku,Spirited Away,"[16, 10751, 14]",129,111.345,8.536,2001,INFJ
 197,32,INTP,Baymax,Big Hero 6,"[12, 10751, 16, 28, 35]",177572,109.658,7.734,2014,ISFJ
-198,33,INTJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7,2020,ENFJ
+198,33,INTJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7.0,2020,ENFJ
 199,33,INTJ,Flynn Rider,Tangled,"[16, 10751]",38757,142.839,7.607,2010,ESTP
 200,33,INTJ,Tony Stark,Avengers: Endgame,"[12, 878, 28]",299534,270.643,8.3,2019,ENTP
 201,33,INTJ,Mulan,Mulan,"[16, 10751, 12]",10674,109.864,7.912,1998,ISFP
@@ -201,7 +201,7 @@
 212,36,INFJ,Amy Elliott Dunne,Gone Girl,"[9648, 53, 18]",210577,117.391,7.892,2014,INFJ
 213,36,INFJ,Mia,La La Land,"[35, 18, 10749, 10402]",313369,61.05,7.902,2016,ENFJ
 214,36,INFJ,Beatrice,Divergent,"[28, 12, 878]",157350,69.602,6.918,2014,ISFP
-215,36,INFJ,Cruella de Vil ,Cruella,"[35, 80]",337404,91.194,8,2021,ENTJ
+215,36,INFJ,Cruella de Vil ,Cruella,"[35, 80]",337404,91.194,8.0,2021,ENTJ
 216,36,INFJ,Andrea,The Devil Wears Prada,"[18, 35]",350,78.74,7.395,2006,ENFP
 217,37,INFJ,Maximus,Gladiator,"[28, 18, 12]",98,87.373,8.216,2000,ISTJ
 218,37,INFJ,Howl,Howl's Moving Castle,"[14, 16, 12]",4935,144.626,8.408,2004,ENFP
@@ -257,9 +257,9 @@
 271,45,INFJ,Galadriel,The Lord of the Rings: The Two Towers,"[12, 14, 28]",121,97.108,8.395,2002,INFJ
 272,45,INFJ,Elle Woods,Legally Blonde,"[35, 10749]",8835,91.553,6.758,2001,ENFJ
 273,45,INFJ,Elizabeth Bennet,Pride & Prejudice,"[18, 10749]",4348,86.222,8.08,2005,ENFP
-274,45,INFJ,Jane Smith,Mr. & Mrs. Smith,"[28, 35, 18, 53]",787,47,6.683,2005,ENTJ
+274,45,INFJ,Jane Smith,Mr. & Mrs. Smith,"[28, 35, 18, 53]",787,47.0,6.683,2005,ENTJ
 275,45,INFJ,Sarah Connor,Terminator 2: Judgment Day,"[28, 53, 878]",280,133.745,8.115,1991,ISTP
-276,45,INFJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7,2020,ENFJ
+276,45,INFJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7.0,2020,ENFJ
 277,45,INFJ,Hermione Granger,Harry Potter and the Goblet of Fire,"[12, 14]",674,125.941,7.815,2005,ESTJ
 279,45,INFJ,Trinity,Matrix,[],555879,3.274,6.9,1998,ISTP
 280,45,INFJ,Katniss Everdeen,The Hunger Games,"[878, 12, 14]",70160,34.172,7.2,2012,ISTP
@@ -413,7 +413,7 @@
 446,76,INTJ,Annie Graham,Hereditary,"[27, 9648, 53]",493922,93.978,7.286,2018,ISTP
 448,77,ENFJ,Joel Barish,Eternal Sunshine of the Spotless Mind,"[878, 18, 10749]",38,77.807,8.097,2004,ISFJ
 449,77,ENFJ,Amélie Poulain,Amélie,"[35, 10749]",194,44.483,7.909,2001,INFP
-450,77,ENFJ,Moana Waialiki,Moana,"[12, 35, 10751, 14]",1108427,61.657,0,2026,ENFJ
+450,77,ENFJ,Moana Waialiki,Moana,"[12, 35, 10751, 14]",1108427,61.657,0.0,2026,ENFJ
 451,77,ENFJ,Peter Quill,Guardians of the Galaxy Vol. 2,"[878, 12, 28]",283995,98.203,7.62,2017,ESFP
 452,77,ENFJ,Thor Odinson,Thor: Ragnarok,"[28, 12, 878]",284053,483.39,7.592,2017,ESTP
 453,77,ENFJ,Captain America,Avengers: Endgame,"[12, 878, 28]",299534,270.643,8.3,2019,ISFJ
@@ -483,7 +483,7 @@
 522,94,INFP,Ursula,Kiki's Delivery Service,"[16, 10751, 14]",16859,60.526,7.828,1989,ESFP
 523,94,INFP,loki laufeyson,Thor,"[12, 14, 28]",10195,106.439,6.769,2011,INFJ
 524,94,INFP,colette tatou,Ratatouille,"[16, 35, 10751, 14]",2062,123.258,7.82,2007,ESTJ
-525,94,INFP,Cruella de Vil,Cruella,"[35, 80]",337404,91.194,8,2021,ENTJ
+525,94,INFP,Cruella de Vil,Cruella,"[35, 80]",337404,91.194,8.0,2021,ENTJ
 526,94,INFP,kevin khatchadourian,We Need to Talk About Kevin,"[18, 53]",71859,34.062,7.559,2011,ISTP
 527,94,INFP,ben solo,Star Wars: The Last Jedi,"[12, 28, 878]",181808,78.98,6.8,2017,INFP
 528,94,INFP,willy wonka,Charlie and the Chocolate Factory,"[12, 35, 10751, 14]",118,113.615,7.05,2005,ENFP
@@ -542,7 +542,7 @@
 585,105,INFP,Paul Atreides,Dune,"[878, 12]",438631,523.415,7.78,2021,INFJ
 586,105,INFP,Dale Cooper,Twin Peaks: Fire Walk with Me,"[18, 9648, 27]",1923,30.72,7.3,1992,INFJ
 587,106,ENTJ,Emperor Palpatine,Star Wars,"[12, 28, 878]",11,457.872,8.203,1977,INTJ
-588,106,ENTJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7,2020,ENFJ
+588,106,ENTJ,Emma Woodhouse,Emma.,"[35, 10749]",556678,39.393,7.0,2020,ENFJ
 589,106,ENTJ,Kiki,Kiki's Delivery Service,"[16, 10751, 14]",16859,60.526,7.828,1989,ENFP
 590,106,ENTJ,Sharpay Evans,High School Musical,"[35, 18, 10751, 10402, 10749, 10770]",10947,30.198,6.568,2006,ENTJ
 591,106,ENTJ,Mary Poppins,Mary Poppins,"[35, 10751, 14]",433,57.61,7.6,1964,ESTJ
@@ -618,7 +618,7 @@
 664,116,ENTJ,Anthony Thin Man,Charlie's Angels,"[28, 12, 35, 80, 53]",4327,44.703,5.827,2000,INTJ
 665,116,ENTJ,Letty Ortiz,The Fast and the Furious,"[28, 80, 53]",9799,6.794,6.977,2001,ESTP
 666,116,ENTJ,Galadriel,The Lord of the Rings,"[12, 16, 14]",123,32.144,6.555,1978,INFJ
-667,116,ENTJ,Cottonmouth,Kill Bill: Vol. 1,"[28, 80]",24,68.763,8,2003,ENTJ
+667,116,ENTJ,Cottonmouth,Kill Bill: Vol. 1,"[28, 80]",24,68.763,8.0,2003,ENTJ
 668,116,ENTJ,Abe Sapien,Hellboy,"[14, 27, 28, 12]",456740,148.094,5.556,2019,INTP
 669,117,ISFJ,John Wick,John Wick,"[28, 53]",245891,109.311,7.43,2014,ISTP
 670,117,ISFJ,Rick O'Connell,The Mummy,"[14, 53, 28, 12, 27]",282035,290.115,5.509,2017,ESTP
@@ -634,7 +634,7 @@
 680,119,ISFP,Dolores,Encanto,"[16, 35, 10751, 14]",568124,139.31,7.606,2021,ISFP
 681,119,ISFP,Gandalf,The Lord of the Rings: The Fellowship of the Ring,"[12, 14, 28]",120,138.777,8.412,2001,INTJ
 682,119,ISFP,Tintin,The Adventures of Tintin,"[12, 16, 9648]",17578,37.039,6.896,2011,ENTP
-683,119,ISFP,Captain America,Captain America: The First Avenger,"[28, 12, 878]",1771,53.171,7,2011,ISFJ
+683,119,ISFP,Captain America,Captain America: The First Avenger,"[28, 12, 878]",1771,53.171,7.0,2011,ISFJ
 684,119,ISFP,Ip Man,Ip Man,"[18, 28, 36]",14756,18.426,7.75,2008,ISTJ
 686,120,ISTP,Peter Quill,Guardians of the Galaxy,"[28, 878, 12]",118340,61.117,7.908,2014,ESFP
 687,120,ISTP,Tony Stark,Avengers: Infinity War,"[12, 28, 878]",299536,295.276,8.2,2018,ENTP

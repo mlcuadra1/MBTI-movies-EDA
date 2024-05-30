@@ -43,7 +43,7 @@ id,person_mbti,mbti_test,character,movie
 6,ENFJ,sakinorva,Joy,Inside Out
 6,ENFJ,sakinorva,Elle Woods,Legally Blonde
 6,ENFJ,sakinorva,Gwen Stacy,The Amazing Spider-man
-7,ESTP,Keys 2 Cognition ,Jang Okju,Ballerina
+7,ESTP,Keys 2 Cognition ,Ok Joo,Ballerina
 7,ESTP,Keys 2 Cognition ,Sienna Shaw,Terrifier 2
 7,ESTP,Keys 2 Cognition ,Jordan Turner,The Call (2013)
 7,ESTP,Keys 2 Cognition ,Erin Harson,You're Next (2011)
@@ -74,7 +74,7 @@ id,person_mbti,mbti_test,character,movie
 12,ENTP,Cognitive functions self-typing,Capt. Manuel,Seven Sundays
 13,INFP,Cognitive functions self-typing,Satoru Gojo,Jujutsu Kaisen 0
 13,INFP,Cognitive functions self-typing,Amy Elliott Dunne,Gone Girl
-13,INFP,Cognitive functions self-typing,Uta,One Piece Film: Red
+13,INFP,Cognitive functions self-typing,Uta,One Piece Film: Red (2022)
 13,INFP,Cognitive functions self-typing,Enola Holmes,Enola Holmes
 14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Bryan,7 Sundays
 14,ISTJ,I used bott 16p and cognitive func (â ââ â¢â á´â â¢â ââ ),Weird Barbie,Barbie
@@ -122,7 +122,7 @@ id,person_mbti,mbti_test,character,movie
 20,ENFP,keys2cognition.com and dove into cognitive functions,Elizabeth Bennet,Pride and Prejudice (2005)
 21,INFP,16Personalities,Nicole Barber,Marriage Story
 21,INFP,16Personalities,Lisa,Ponyo
-21,INFP,16Personalities,Shoko Nishimiya,A Silent Voice
+21,INFP,16Personalities,Shouko Nishimiya,A Silent Voice
 21,INFP,16Personalities,Linda Go,Mano Po 1: My Family
 21,INFP,16Personalities,Lin,Spirited Away
 21,INFP,16Personalities,Chiron,Moonlight
@@ -140,7 +140,7 @@ id,person_mbti,mbti_test,character,movie
 23,INTP,16Personalities,Dirk Burton ,Left Behind
 23,INTP,16Personalities,Jiro Horikoshi ,The Wind Rises
 23,INTP,16Personalities,Marnie ,When Marnie Was There
-23,INTP,16Personalities,Lord Tewksbury ,Enola Holmes
+23,INTP,16Personalities,Tewksbury ,Enola Holmes
 24,ISFP,Personality Max,Alice Cullen,Twilight
 24,ISFP,Personality Max,Rapunzel,Tangled
 24,ISFP,Personality Max,Luna Lovegood,Harry Potter and the Order of the Phoenix
@@ -314,7 +314,7 @@ id,person_mbti,mbti_test,character,movie
 51,ISFJ,16Personalities,Alice,Alice in Wonderland (1951)
 52,ISFJ,Voice recording by proffesional typists,Obi-Wan Kenobi,Star Wars
 52,ISFJ,Voice recording by proffesional typists,Ferdinand the bull,ferdinand the bull (1938)
-52,ISFJ,Voice recording by proffesional typists,Forest gump,Forest Gump
+52,ISFJ,Voice recording by proffesional typists,Forrest Gump,Forrest Gump
 53,ISTJ,I honestly don't remember but I get ISTJ every time so,Rita,Edge of Tomorrow
 53,ISTJ,I honestly don't remember but I get ISTJ every time so,Obi-Wan Kenobi,Star Wars
 53,ISTJ,I honestly don't remember but I get ISTJ every time so,Ellen Ripley,Alien
@@ -392,7 +392,7 @@ id,person_mbti,mbti_test,character,movie
 65,ESTJ,Cognitive functions self-typing,Jake Lonergan,Cowboys & Aliens
 65,ESTJ,Cognitive functions self-typing,Auto,WALL·E (2008)
 65,ESTJ,Cognitive functions self-typing,The Dragon,Damsel
-65,ESTJ,Cognitive functions self-typing,Frank Martin,Transporter
+65,ESTJ,Cognitive functions self-typing,Frank Martin,The Transporter
 65,ESTJ,Cognitive functions self-typing,SoundWave,Transformers: dark of the moon
 65,ESTJ,Cognitive functions self-typing,Mr Fox,Fantastic Mr.fox
 65,ESTJ,Cognitive functions self-typing,Michael Nantz,Battle Los Angeles 
@@ -435,7 +435,7 @@ id,person_mbti,mbti_test,character,movie
 75,ISTJ,Truity,Scar,The Lion King
 75,ISTJ,Truity,Tiana,Princess and the Frog
 75,ISTJ,Truity,Nanami,Jujutsu Kaisen
-75,ISTJ,Truity,President Snow,The Hunger Games (2012)
+75,ISTJ,Truity,Coriolanus Coryo Snow,The Hunger Games (2012)
 75,ISTJ,Truity,Frollo,The Hunchback of Notre Dame
 76,INTJ,I used several sites to ensure that it was consistent.,Beau Wassermann,Beau is Afraid
 76,INTJ,I used several sites to ensure that it was consistent.,Martin Matthias,Martin
@@ -495,7 +495,7 @@ id,person_mbti,mbti_test,character,movie
 87,INTP,16Personalities,V,V for vendetta 
 87,INTP,16Personalities,Ripley,Alien
 87,INTP,16Personalities,Neo,The matrix
-88,INTP,16Personalities,Natasha Romanov,Avengers: Endgame
+88,INTP,16Personalities,Natasha Romanoff,Avengers: Endgame
 88,INTP,16Personalities,Enola Holmes,Enola Holmes
 88,INTP,16Personalities,Aragorn,The Lord of the Rings
 88,INTP,16Personalities,Captain Klenzendorf,Jojo Rabbit
@@ -528,7 +528,7 @@ id,person_mbti,mbti_test,character,movie
 94,INFP,16Personalities,kevin khatchadourian,we need to talk about kevin
 94,INFP,16Personalities,ben solo,the last jedi
 94,INFP,16Personalities,willy wonka,charlie and the chocolate factory 
-94,INFP,16Personalities,felonious gru,despicable me
+94,INFP,16Personalities,Gru,despicable me
 94,INFP,16Personalities,flynn mcgarry,chef flynn
 94,INFP,16Personalities,mulan,mulan
 95,ENTP,Cognitive functions self-typing,Megamind,Megamind
@@ -621,7 +621,8 @@ id,person_mbti,mbti_test,character,movie
 109,ESTJ,16Personalities,Hannibal Lecter,The Silence of the Lambs
 109,ESTJ,16Personalities,Magenta,The Rocky Horror Picture Show
 110,ENTJ,16Personalities,J Robert Oppenheimer,Oppenheimer
-110,ENTJ,16Personalities,Mitsuha and Taki,Your Name
+110,ENTJ,16Personalities,Mitsuha,Your Name
+110,ENTJ,16Personalities,Taki,Your Name
 110,ENTJ,16Personalities,Tony Stark,Iron Man 3
 110,ENTJ,16Personalities,Noah Calhoun,The Notebook
 111,ENTP,Cognitive functions self-typing,Batman,Batman (2022)
@@ -697,7 +698,7 @@ id,person_mbti,mbti_test,character,movie
 122,ESTJ,Cognitive functions self-typing,Kiri ,Avatar: The Way of Water
 122,ESTJ,Cognitive functions self-typing,Terminator T-800 Uncle Bob,Terminator 3: Rise of the Machines
 123,ENFP,michaelcaloz.com,Miles Morales,Into the Spider-Verse
-123,ENFP,michaelcaloz.com,Uta,One Piece Film: Red
+123,ENFP,michaelcaloz.com,Uta,One Piece Film: Red (2022)
 123,ENFP,michaelcaloz.com,Agent Smith,The Matrix
 123,ENFP,michaelcaloz.com,Daniel Plainview,There Will Be Blood
 123,ENFP,michaelcaloz.com,The Baby,Eraserhead
